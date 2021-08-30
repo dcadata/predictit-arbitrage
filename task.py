@@ -3,7 +3,7 @@ from json import load, dump
 import pandas as pd
 from requests import get
 
-_DATA_DIR = 'predictit/'
+_DATA_DIR = 'data/'
 
 
 class Requester:
