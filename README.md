@@ -2,4 +2,4 @@
 
 Real-time arbitrage opportunities for the prediction market PredictIt
 
-Information published in this repository does not constitute financial advice, and the author is not responsible for any decisions you make based on this information.
+Information published in this repository is for information purposes only. It does not constitute financial advice. The author is not responsible for any decisions readers make.
