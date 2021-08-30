@@ -23,22 +23,18 @@ class Requester:
 
 
 class Processor(Requester):
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
-        self.data = []
-
     def process(self):
-        self._filter_markets()
-        self._create_df()
+        self._get_all_contract_data()
+        self._create_dataframe()
 
-    def _filter_markets(self):
+    def _get_all_contract_data(self):
+        self._data = []
         for market in self._markets:
-            self.data.extend(self._get_contract_data(market, contract) for contract in market['contracts'])
+            self._data.extend(self._get_contract_data(market, contract) for contract in market['contracts'])
 
-    def _create_df(self, save=None):
-        self.arbs = pd.DataFrame(self.data).drop_duplicates()
-        if save:
-            self.arbs.to_csv(_DATA_DIR + 'markets.csv', index=False)
+    def _create_dataframe(self):
+        self.arbs = pd.DataFrame(self._data).drop_duplicates()
+        self.arbs.to_csv(_DATA_DIR + 'markets.csv', index=False)
 
     @staticmethod
     def _get_contract_data(market, contract):
