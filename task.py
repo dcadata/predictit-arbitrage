@@ -49,33 +49,33 @@ class Processor(Requester):
 
 
 class Calculator(Processor):
-    cost_cols = [
+    _cost_cols = [
         'cbestBuyYesCost',
         'cbestSellYesCost',
         'cbestBuyNoCost',
         'cbestSellNoCost',
     ]
-    revenue_and_profit_cols = [
+    _revenue_and_profit_cols = [
         'contracts_ct',
         'revenue',
         'pi_cut',
     ]
-    market_cols = [
+    _market_cols = [
         'mshortName',
         'murl',
     ]
-    contract_cols = [
+    _contract_cols = [
         'cshortName',
-        *cost_cols,
+        *_cost_cols,
     ]
 
-    initial_cols = market_cols + contract_cols
+    _initial_cols = _market_cols + _contract_cols
 
-    final_cols = [
-        *market_cols,
+    _final_cols = [
+        *_market_cols,
 
-        *cost_cols,
-        *revenue_and_profit_cols,
+        *_cost_cols,
+        *_revenue_and_profit_cols,
         'pi_cut_min',
         'pi_cut_less_min',
 
@@ -100,11 +100,11 @@ class Calculator(Processor):
 
     def _aggregate_at_market_level(self):
         agg_dict = {}
-        for sum_col in self.cost_cols + self.revenue_and_profit_cols:
+        for sum_col in self._cost_cols + self._revenue_and_profit_cols:
             agg_dict.update({sum_col: 'sum'})
         agg_dict.update({'pi_cut_min': 'min'})
 
-        self.arbs = self.arbs.groupby(by=self.market_cols, as_index=False, sort=False).agg(agg_dict)
+        self.arbs = self.arbs.groupby(by=self._market_cols, as_index=False, sort=False).agg(agg_dict)
 
     def _calculate_at_market_level(self):
         self.arbs['revenue'] = self.arbs['revenue'].apply(lambda x: x - 1)
@@ -118,7 +118,7 @@ class Calculator(Processor):
 
     def _finalize_and_save_dataframe(self):
         self.arbs = self.arbs.sort_values('profit_net', ascending=False)
-        self.arbs = self.arbs[self.final_cols]
+        self.arbs = self.arbs[self._final_cols]
 
         dttm = str(datetime.today())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
