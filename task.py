@@ -1,6 +1,5 @@
 from datetime import datetime
 from json import load, dump
-from time import sleep
 import pandas as pd
 from requests import get
 
@@ -164,18 +163,12 @@ class Calculator(Processor):
         return _DATA_DIR + 'arbs.csv'
 
 
-def _run():
+def main():
     calc = Calculator()
     r = calc.make_request()
     if r.ok:
         calc.process()
         calc.calculate()
-
-
-def main():
-    while True:
-        _run()
-        sleep(120)
 
 
 if __name__ == '__main__':
