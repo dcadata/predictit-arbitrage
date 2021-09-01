@@ -124,7 +124,7 @@ class Calculator(Processor):
         dttm = str(datetime.today())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
-        open(_DATA_DIR + 'profit_net.txt', 'w').write(self._calculate_profit_from_log(log=log))
+        open(_DATA_DIR + 'summary.txt', 'w').write(self._calculate_profit_from_log(log=log))
         dump(self._raw_markets, open(_DATA_DIR + f'markets/{dttm}.json', 'w'))
 
     def _calculate_profit_from_log(self, log=None):
