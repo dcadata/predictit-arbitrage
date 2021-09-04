@@ -1,5 +1,7 @@
 from datetime import datetime
 from json import load, dump
+from os import system
+from time import sleep
 import pandas as pd
 from requests import get
 
@@ -164,11 +166,24 @@ class Calculator(Processor):
 
 
 def main():
-    calc = Calculator()
-    r = calc.make_request()
-    if r.ok:
-        calc.process()
-        calc.calculate()
+    commands = f'''
+git config user.name "Automated"
+git config user.email "actions@users.noreply.github.com"
+git add -A
+git commit -m "Latest data: {datetime.utcnow().strftime('%d %B %Y %H:%M')}" || exit 0
+git push
+'''.strip().splitlines()
+    calculator = Calculator()
+
+    while True:
+        r = calculator.make_request()
+        if r.ok:
+            calculator.process()
+            calculator.calculate()
+            for command in commands:
+                system(command)
+
+        sleep(120)
 
 
 if __name__ == '__main__':
