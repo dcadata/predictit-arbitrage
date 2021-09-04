@@ -130,7 +130,7 @@ class Calculator(Processor):
     def _calculate_profit_from_log(self, log=None):
         if log is None:
             log = self._arbs_log.copy()
-        log = log[log.profit_net >= 10 / 850]
+        log = log[log.profit_net >= 10 / 850].copy()
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         profit_net = log.profit_net.sum() * 850
         note = (
@@ -179,9 +179,10 @@ git push
         if r.ok:
             calculator.process()
             calculator.calculate()
-            for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), len(
-                    calculator.arbs)).splitlines():
-                system(command)
+            arbs_count = len(calculator.arbs)
+            if arbs_count:
+                for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
+                    system(command)
 
         sleep(120)
 
