@@ -40,12 +40,10 @@ class Processor(Requester):
 
     @staticmethod
     def _get_contract_data(market, contract):
-        market_fields = ['shortName', 'url']
-        contract_fields = ['name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost']
         data = {}
-        for market_field in market_fields:
+        for market_field in ['shortName', 'url']:
             data[f'm{market_field}'] = market[market_field]
-        for contract_field in contract_fields:
+        for contract_field in ['name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost']:
             data[f'c{contract_field}'] = contract[contract_field]
         return data
 
@@ -95,32 +93,26 @@ class Calculator(Processor):
             self._finalize_and_save_dataframe()
 
     def _calculate_at_contract_level(self):
-        self.arbs = self.arbs[~self.arbs['cbestBuyNoCost'].isnull()].copy()
-        self.arbs = self.arbs.assign(contracts_ct=1).assign(revenue=1)
+        self.arbs = self.arbs[~self.arbs['cbestBuyNoCost'].isnull()].assign(contracts_ct=1).assign(revenue=1)
         self.arbs['pi_cut'] = self.arbs['cbestBuyNoCost'].apply(lambda x: (1 - x) * 0.1)
         self.arbs = self.arbs.assign(pi_cut_min=self.arbs['pi_cut'])
 
     def _aggregate_at_market_level(self):
-        agg_dict = {}
-        for sum_col in self._cost_cols + self._revenue_and_profit_cols:
-            agg_dict.update({sum_col: 'sum'})
-        agg_dict.update({'pi_cut_min': 'min'})
-
+        agg_dict = dict((sum_col, 'sum') for sum_col in self._cost_cols + self._revenue_and_profit_cols)
+        agg_dict['pi_cut_min'] = 'min'
         self.arbs = self.arbs.groupby(by=self._market_cols, as_index=False, sort=False).agg(agg_dict)
 
     def _calculate_at_market_level(self):
         self.arbs['revenue'] = self.arbs['revenue'].apply(lambda x: x - 1)
         self.arbs['pi_cut_less_min'] = self.arbs['pi_cut'] - self.arbs['pi_cut_min']
-        self.arbs['profit_net'] = (
-                self.arbs['revenue'] - self.arbs['cbestBuyNoCost'] - self.arbs['pi_cut_less_min'])
+        self.arbs['profit_net'] = self.arbs['revenue'] - self.arbs['cbestBuyNoCost'] - self.arbs['pi_cut_less_min']
         self.arbs['acct_fee'] = 0  # (self.arbs_agg['cbestBuyNoCost'] + self.arbs_agg['profit_cut']) * 0.05
 
     def _filter_dataframe(self):
         self.arbs = self.arbs[(self.arbs['contracts_ct'] > 1) & (self.arbs['profit_net'] > 0)].copy()
 
     def _finalize_and_save_dataframe(self):
-        self.arbs = self.arbs.sort_values('profit_net', ascending=False)
-        self.arbs = self.arbs[self._final_cols]
+        self.arbs = self.arbs.sort_values('profit_net', ascending=False)[self._final_cols]
 
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
