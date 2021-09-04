@@ -1,5 +1,5 @@
 from datetime import datetime
-from json import load, dump
+from json import load
 from os import system
 from time import sleep
 import pandas as pd
@@ -122,17 +122,16 @@ class Calculator(Processor):
         self.arbs = self.arbs.sort_values('profit_net', ascending=False)
         self.arbs = self.arbs[self._final_cols]
 
-        dttm = str(datetime.today())
+        dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
         open(_DATA_DIR + 'summary.txt', 'w').write(self._calculate_profit_from_log(log=log))
-        dump(self._raw_markets, open(_DATA_DIR + f'markets/{dttm}.json', 'w'))
 
     def _calculate_profit_from_log(self, log=None):
         if log is None:
             log = self._arbs_log.copy()
         log = log[log.profit_net >= 10 / 850]
-        days_elapsed = (datetime.today() - datetime(2021, 3, 29)).days + 1
+        days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         profit_net = log.profit_net.sum() * 850
         note = (
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2)}',
