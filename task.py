@@ -165,13 +165,13 @@ class Calculator(Processor):
 
 
 def main():
-    commands = f'''
+    commands = '''
 git config user.name "Automated"
 git config user.email "actions@users.noreply.github.com"
 git add -A
-git commit -m "Latest data: {datetime.utcnow().strftime('%d %B %Y %H:%M')}" || exit 0
+git commit -m "Latest data: {0} ({1})" || exit 0
 git push
-'''.strip().splitlines()
+'''.strip()
     calculator = Calculator()
 
     while True:
@@ -179,7 +179,8 @@ git push
         if r.ok:
             calculator.process()
             calculator.calculate()
-            for command in commands:
+            for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), len(
+                    calculator.arbs)).splitlines():
                 system(command)
 
         sleep(120)
