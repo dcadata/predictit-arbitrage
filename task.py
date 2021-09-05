@@ -1,7 +1,6 @@
 from datetime import datetime
 from json import load
 from os import system
-from time import sleep
 import pandas as pd
 from requests import get
 
@@ -165,18 +164,14 @@ git commit -m "Latest data: {0} ({1})" || exit 0
 git push
 '''.strip()
     calculator = Calculator()
-
-    while True:
-        r = calculator.make_request()
-        if r.ok:
-            calculator.process()
-            calculator.calculate()
-            arbs_count = len(calculator.arbs)
-            if arbs_count:
-                for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
-                    system(command)
-
-        sleep(120)
+    r = calculator.make_request()
+    if r.ok:
+        calculator.process()
+        calculator.calculate()
+        arbs_count = len(calculator.arbs)
+        if arbs_count:
+            for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
+                system(command)
 
 
 if __name__ == '__main__':
