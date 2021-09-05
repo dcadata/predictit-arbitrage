@@ -48,38 +48,18 @@ class Processor(Requester):
 
 
 class Calculator(Processor):
-    _cost_cols = [
-        'cbestBuyYesCost',
-        'cbestSellYesCost',
-        'cbestBuyNoCost',
-        'cbestSellNoCost',
-    ]
-    _revenue_and_profit_cols = [
-        'contracts_ct',
-        'revenue',
-        'pi_cut',
-    ]
-    _market_cols = [
-        'mshortName',
-        'murl',
-    ]
-    _contract_cols = [
-        'cshortName',
-        *_cost_cols,
-    ]
-
+    _cost_cols = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
+    _revenue_and_profit_cols = ['contracts_ct', 'revenue', 'pi_cut']
+    _market_cols = ['mshortName', 'murl']
+    _contract_cols = ['cshortName', *_cost_cols]
     _initial_cols = _market_cols + _contract_cols
-
     _final_cols = [
         *_market_cols,
-
         *_cost_cols,
         *_revenue_and_profit_cols,
         'pi_cut_min',
         'pi_cut_less_min',
-
         'acct_fee',
-
         'profit_net',
     ]
 
