@@ -1,6 +1,7 @@
 from datetime import datetime
 from json import load
 from os import system
+from time import sleep
 import pandas as pd
 from requests import get
 
@@ -135,14 +136,7 @@ class Calculator(Processor):
         return _DATA_DIR + 'arbs.csv'
 
 
-def main():
-    commands = '''
-git config user.name "Automated"
-git config user.email "actions@users.noreply.github.com"
-git add -A
-git commit -m "Latest data: {0} ({1})" || exit 0
-git push
-'''.strip()
+def _run():
     calculator = Calculator()
     r = calculator.make_request()
     if r.ok:
@@ -150,8 +144,21 @@ git push
         calculator.calculate()
         arbs_count = len(calculator.arbs)
         if arbs_count:
+            commands = '''
+git config user.name "Automated"
+git config user.email "actions@users.noreply.github.com"
+git add -A
+git commit -m "Latest data: {0} ({1})" || exit 0
+git push
+'''.strip()
             for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
                 system(command)
+
+
+def main():
+    while True:
+        _run()
+        sleep(120)
 
 
 if __name__ == '__main__':
