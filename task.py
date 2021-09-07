@@ -16,7 +16,7 @@ class Requester:
 
     @property
     def _raw_markets(self):
-        return load(open(_DATA_DIR + 'markets.json'))
+        return load(open(_DATA_DIR + 'markets.json', encoding='utf8'))
 
     @property
     def _markets(self):
