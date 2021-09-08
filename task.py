@@ -160,7 +160,7 @@ def main():
     while True:
         _run()
         sleep(120)
-        if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60:
+        if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60 - 120:
             break
 
 
