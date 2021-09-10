@@ -140,23 +140,28 @@ class Calculator(Processor):
         return _DATA_DIR + 'arbs.csv'
 
 
-def _run():
+def _calculate():
     calculator = Calculator()
     r = calculator.make_request()
     if r.ok:
         calculator.process()
         calculator.calculate()
-        arbs_count = len(calculator.arbs)
-        if arbs_count:
-            commands = '''
+    return len(calculator.arbs)
+
+
+def _run():
+    arbs_count = _calculate()
+    if not arbs_count:
+        return
+    commands = '''
 git config user.name "Automated"
 git config user.email "actions@users.noreply.github.com"
 git add -A
 git commit -m "Latest data: {0} ({1})" || exit 0
 git push
 '''.strip()
-            for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
-                system(command)
+    for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
+        system(command)
 
 
 def main():
