@@ -114,7 +114,11 @@ class Calculator(Processor):
 
     @property
     def _arbs_log(self):
-        return pd.read_csv(self._arbs_log_fp, dtype={
+        return pd.read_csv(self._arbs_log_fp, usecols=self._arbs_log_dtypes.keys(), dtype=self._arbs_log_dtypes)
+
+    @property
+    def _arbs_log_dtypes(self):
+        return {
             'mshortName': str,
             'murl': str,
             'cbestBuyYesCost': float,
@@ -129,7 +133,7 @@ class Calculator(Processor):
             'acct_fee': float,
             'profit_net': float,
             'dttm': str,
-        })
+        }
 
     @property
     def _arbs_log_fp(self):
