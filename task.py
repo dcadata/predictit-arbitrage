@@ -163,9 +163,9 @@ def main():
     start_time = datetime.utcnow()
     while True:
         _run()
-        sleep(120)
         if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60 - 120:
             break
+        sleep(120)
 
 
 if __name__ == '__main__':
