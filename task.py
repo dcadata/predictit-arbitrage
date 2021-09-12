@@ -102,7 +102,7 @@ class Calculator(Processor):
     def _calculate_profit_from_log(self, log=None):
         if log is None:
             log = self._arbs_log.copy()
-        log = log[log.profit_net >= 10 / 850].copy()
+        log = log[log.profit_net >= 0.01].copy()
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         profit_net = log.profit_net.sum() * 850
         note = (
