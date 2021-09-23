@@ -166,9 +166,9 @@ git push
 def main():
     start_time = datetime.utcnow()
     while True:
-        _run()
-        if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60 - 120:
+        if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60 - 150:
             break
+        _run()
         sleep(120)
 
 
