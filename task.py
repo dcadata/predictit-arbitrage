@@ -1,9 +1,10 @@
-import pandas as pd
 from datetime import datetime
 from json import load
 from os import system
-from requests import get
 from time import sleep
+
+import pandas as pd
+from requests import get
 
 _DATA_DIR = 'data/'
 
