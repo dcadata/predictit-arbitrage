@@ -142,8 +142,8 @@ class Calculator(Processor):
 
 def _calculate():
     calculator = Calculator()
-    r = calculator.make_request()
-    if r.ok:
+    response = calculator.make_request()
+    if response.ok:
         calculator.process()
         calculator.calculate()
     return len(calculator.arbs)
@@ -154,7 +154,7 @@ def _run():
     if not arbs_count:
         return
     commands = '''
-git config user.name "Automated"
+git config user.name "Actions on behalf on Devon Ankar"
 git config user.email "actions@users.noreply.github.com"
 git add -A
 git commit -m "Latest data: {0} ({1})" || exit 0
