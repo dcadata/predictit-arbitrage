@@ -150,18 +150,17 @@ def _calculate():
 
 
 def _run():
-    arbs_count = _calculate()
-    if not arbs_count:
-        return
-    commands = '''
-git config user.name "Actions on behalf of Devon Ankar"
-git config user.email "actions@users.noreply.github.com"
-git add -A
-git commit -m "Latest data: {0} ({1})" || exit 0
-git push
-'''.strip()
-    for command in commands.format(datetime.utcnow().strftime('%d %B %Y %H:%M'), arbs_count).splitlines():
-        system(command)
+    if arbs_count := _calculate():
+        commands = [
+            'git config user.name "Actions on behalf of Devon Ankar"',
+            'git config user.email "actions@users.noreply.github.com"',
+            'git add -A',
+            'git commit -m "Latest data: {0} ({1})" || exit 0'.format(datetime.utcnow().strftime(
+                '%d %B %Y %H:%M'), arbs_count),
+            'git push',
+        ]
+        for command in commands:
+            system(command)
 
 
 def main():
