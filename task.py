@@ -108,7 +108,7 @@ class Calculator(Processor):
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         profit_net = log.profit_net.sum() * 850
         note = (
-            f'Opportunities with mininum profit cutoff >= {min_profit_cutoff}',
+            f'Opportunities with minimum profit cutoff >= {min_profit_cutoff}',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2)}',
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2)}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2)}',
