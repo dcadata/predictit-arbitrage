@@ -165,11 +165,12 @@ def _run():
 
 def main():
     start_time = datetime.utcnow()
+    run_time = 6 * 60 * 60 - 150
     while True:
-        if (datetime.utcnow() - start_time).total_seconds() >= 6 * 60 * 60 - 150:
+        if (datetime.utcnow() - start_time).total_seconds() >= run_time:
             break
         _run()
-        sleep(120)
+        sleep(60)
 
 
 if __name__ == '__main__':
