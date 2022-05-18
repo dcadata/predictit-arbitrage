@@ -13,7 +13,7 @@ AOC to run in 2022 NY-14 Dem primary?,https://www.predictit.org/markets/detail/6
 Woman president in 2024?,https://www.predictit.org/markets/detail/7013/Will-a-woman-be-elected-US-president-in-2024,Will a woman be elected U.S. president in 2024?,0.21,0.8,0.2,0.79
 AOC files for President before 2024?,https://www.predictit.org/markets/detail/7014/Will-Alexandria-Ocasio-Cortez-file-to-run-for-president-before-2024,Will Alexandria Ocasio-Cortez file to run for president before the end of 2023?,0.16,0.85,0.15,0.84
 Which party will win the PA Senate race?,https://www.predictit.org/markets/detail/7016/Which-party-will-win-the-US-Senate-election-in-Pennsylvania-in-2022,Republican,0.56,0.45,0.55,0.44
-Which party will win the PA Senate race?,https://www.predictit.org/markets/detail/7016/Which-party-will-win-the-US-Senate-election-in-Pennsylvania-in-2022,Democratic,0.48,0.53,0.47,0.52
+Which party will win the PA Senate race?,https://www.predictit.org/markets/detail/7016/Which-party-will-win-the-US-Senate-election-in-Pennsylvania-in-2022,Democratic,0.47,0.57,0.43,0.53
 Which party will win the NC Senate race?,https://www.predictit.org/markets/detail/7017/Which-party-will-win-the-US-Senate-election-in-North-Carolina-in-2022,Republican,0.87,0.16,0.84,0.13
 Which party will win the NC Senate race?,https://www.predictit.org/markets/detail/7017/Which-party-will-win-the-US-Senate-election-in-North-Carolina-in-2022,Democratic,0.17,0.85,0.15,0.83
 Ivanka Trump in '22 FL GOP Sen. primary?,https://www.predictit.org/markets/detail/7021/Will-Ivanka-Trump-run-in-the-2022-Florida-Republican-Senate-primary,Will Ivanka Trump run  in the 2022 Florida Republican Senate primary?,0.01,,,0.99
@@ -75,8 +75,8 @@ PA Democratic Senate nomination winner?,https://www.predictit.org/markets/detail
 PA Democratic Senate nomination winner?,https://www.predictit.org/markets/detail/7127/Who-will-win-the-2022-Pennsylvania-Democratic-Senate-nomination,Chrissy Houlahan,0.01,,,0.99
 PA Democratic Senate nomination winner?,https://www.predictit.org/markets/detail/7127/Who-will-win-the-2022-Pennsylvania-Democratic-Senate-nomination,Sharif Street,0.01,,,0.99
 PA Democratic Senate nomination winner?,https://www.predictit.org/markets/detail/7127/Who-will-win-the-2022-Pennsylvania-Democratic-Senate-nomination,Valerie Arkoosh,0.01,,,0.99
-PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,David McCormick,0.7,0.32,0.68,0.3
-PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,Mehmet Oz,0.34,0.67,0.33,0.66
+PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,Mehmet Oz,0.6,0.42,0.58,0.4
+PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,David McCormick,0.44,0.57,0.43,0.56
 PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,Everett Stern,0.01,,,0.99
 PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,Donald Trump Jr.,0.01,,,0.99
 PA Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7129/Who-will-win-the-2022-Pennsylvania-Republican-Senate-nomination,Ryan Costello,0.01,,,0.99
@@ -118,7 +118,7 @@ First primary in 2024 Dem. nomination?,https://www.predictit.org/markets/detail/
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Vicky Hartzler,0.35,0.66,0.34,0.65
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Eric Greitens,0.35,0.67,0.33,0.65
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Eric Schmitt,0.29,0.74,0.26,0.71
-MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Billy Long,0.04,0.98,0.02,0.96
+MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Billy Long,0.04,0.99,0.01,0.96
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Roy Blunt,0.01,,,0.99
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Ann Wagner,0.01,,,0.99
 MO Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7162/Who-will-win-the-2022-Missouri-Republican-Senate-nomination,Jason Smith,0.01,,,0.99
@@ -140,13 +140,13 @@ Balance of power after 2022 election?,https://www.predictit.org/markets/detail/7
 Balance of power after 2022 election?,https://www.predictit.org/markets/detail/7172/What-will-be-the-balance-of-power-in-Congress-after-the-2022-election,Dem. House & Senate,0.11,0.9,0.1,0.89
 Balance of power after 2022 election?,https://www.predictit.org/markets/detail/7172/What-will-be-the-balance-of-power-in-Congress-after-the-2022-election,"D House, R Senate",0.04,0.97,0.03,0.96
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Kathy Hochul,0.96,0.05,0.95,0.04
-New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Tom Suozzi,0.03,0.98,0.02,0.97
+New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Tom Suozzi,0.04,0.98,0.02,0.96
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Andrew Cuomo,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Bill de Blasio,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,A. Ocasio-Cortez,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Alessandra Biaggi,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Andrew Yang,0.01,,,0.99
-New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Jumaane Williams,0.01,,,0.99
+New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Jumaane Williams,0.02,,,0.98
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Thomas DiNapoli,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Letitia James,0.01,,,0.99
 New York Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7173/Who-will-win-the-2022-New-York-Democratic-gubernatorial-nomination,Hillary Clinton,0.01,,,0.99
@@ -217,9 +217,9 @@ Florida gubernatorial election winner?,https://www.predictit.org/markets/detail/
 Florida gubernatorial election winner?,https://www.predictit.org/markets/detail/7211/Who-will-win-the-2022-Florida-gubernatorial-election,Nikki Fried,0.04,0.97,0.03,0.96
 Florida gubernatorial election winner?,https://www.predictit.org/markets/detail/7211/Who-will-win-the-2022-Florida-gubernatorial-election,Val Demings,0.01,,,0.99
 Florida gubernatorial election winner?,https://www.predictit.org/markets/detail/7211/Who-will-win-the-2022-Florida-gubernatorial-election,Annette Taddeo,0.01,,,0.99
-AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Blake Masters,0.63,0.4,0.6,0.37
-AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Jim Lamon,0.3,0.76,0.24,0.7
-AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Mark Brnovich,0.17,0.85,0.15,0.83
+AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Blake Masters,0.69,0.39,0.61,0.31
+AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Jim Lamon,0.31,0.76,0.24,0.69
+AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Mark Brnovich,0.18,0.85,0.15,0.82
 AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Andy Biggs,0.01,,,0.99
 AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Paul Gosar,0.01,,,0.99
 AZ Republican Senate nomination winner?,https://www.predictit.org/markets/detail/7229/Who-will-win-the-2022-Arizona-Republican-Senate-nomination,Doug Ducey,0.01,,,0.99
@@ -358,7 +358,7 @@ Colombian presidential winner in 2022?,https://www.predictit.org/markets/detail/
 Colombian presidential winner in 2022?,https://www.predictit.org/markets/detail/7371/Who-will-be-elected-president-of-Colombia-in-2022,Óscar Iván Zuluaga,0.01,,,0.99
 Which party will win MI governor's race?,https://www.predictit.org/markets/detail/7377/Which-party-will-win-the-2022-Michigan-gubernatorial-election,Democratic,0.59,0.42,0.58,0.41
 Which party will win MI governor's race?,https://www.predictit.org/markets/detail/7377/Which-party-will-win-the-2022-Michigan-gubernatorial-election,Republican,0.43,0.59,0.41,0.57
-Which party will win WI governor's race?,https://www.predictit.org/markets/detail/7378/Which-party-will-win-the-2022-Wisconsin-gubernatorial-election,Republican,0.65,0.4,0.6,0.35
+Which party will win WI governor's race?,https://www.predictit.org/markets/detail/7378/Which-party-will-win-the-2022-Wisconsin-gubernatorial-election,Republican,0.64,0.4,0.6,0.36
 Which party will win WI governor's race?,https://www.predictit.org/markets/detail/7378/Which-party-will-win-the-2022-Wisconsin-gubernatorial-election,Democratic,0.41,0.65,0.35,0.59
 Which party will win PA governor's race?,https://www.predictit.org/markets/detail/7380/Which-party-will-win-the-2022-Pennsylvania-gubernatorial-election,Democratic,0.63,0.38,0.62,0.37
 Which party will win PA governor's race?,https://www.predictit.org/markets/detail/7380/Which-party-will-win-the-2022-Pennsylvania-gubernatorial-election,Republican,0.41,0.6,0.4,0.59
@@ -420,10 +420,10 @@ Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-thes
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Boris Johnson,0.11,0.9,0.1,0.89
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Joe Biden,0.09,0.92,0.08,0.91
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Xi Jinping,0.06,0.95,0.05,0.94
-Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Recep Tayyip Erdoğan,0.03,0.98,0.02,0.97
+Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Recep Tayyip Erdoğan,0.04,0.97,0.03,0.96
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Kishida Fumio,0.03,0.99,0.01,0.97
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Justin Trudeau,0.03,0.98,0.02,0.97
-Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Cyril Ramaphosa,0.02,0.99,0.01,0.98
+Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Cyril Ramaphosa,0.03,0.98,0.02,0.97
 Next G20 leader out?,https://www.predictit.org/markets/detail/7518/Which-of-these-ten-G20-leaders-will-leave-office-next,Emmanuel Macron,0.01,,,0.99
 First WH Cabinet member to leave?,https://www.predictit.org/markets/detail/7520/Which-of-these-13-Cabinet-members-will-leave-first,Alejandro Mayorkas,0.2,0.83,0.17,0.8
 First WH Cabinet member to leave?,https://www.predictit.org/markets/detail/7520/Which-of-these-13-Cabinet-members-will-leave-first,Xavier Becerra,0.17,0.84,0.16,0.83
@@ -494,7 +494,7 @@ Oregon Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7556/
 Oregon Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7556/Who-will-win-the-2022-Oregon-Democratic-gubernatorial-nomination,Deborah Kafoury,0.01,,,0.99
 Oregon Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7556/Who-will-win-the-2022-Oregon-Democratic-gubernatorial-nomination,Ellen Rosenblum,0.01,,,0.99
 Oregon Dem gubernatorial nominee?,https://www.predictit.org/markets/detail/7556/Who-will-win-the-2022-Oregon-Democratic-gubernatorial-nomination,Ted Wheeler,0.01,,,0.99
-Next Fed vice chair of Supervision?,https://www.predictit.org/markets/detail/7564/Who-will-the-Senate-next-confirm-as-Federal-Reserve-vice-chair-of-Supervision,Michael Barr,0.94,0.13,0.87,0.06
+Next Fed vice chair of Supervision?,https://www.predictit.org/markets/detail/7564/Who-will-the-Senate-next-confirm-as-Federal-Reserve-vice-chair-of-Supervision,Michael Barr,0.93,0.12,0.88,0.07
 Next Fed vice chair of Supervision?,https://www.predictit.org/markets/detail/7564/Who-will-the-Senate-next-confirm-as-Federal-Reserve-vice-chair-of-Supervision,Raphael Bostic,0.01,,,0.99
 Next Fed vice chair of Supervision?,https://www.predictit.org/markets/detail/7564/Who-will-the-Senate-next-confirm-as-Federal-Reserve-vice-chair-of-Supervision,Lael Brainard,0.01,,,0.99
 Next Fed vice chair of Supervision?,https://www.predictit.org/markets/detail/7564/Who-will-the-Senate-next-confirm-as-Federal-Reserve-vice-chair-of-Supervision,Kathryn Judge,0.01,,,0.99
@@ -552,7 +552,7 @@ GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/H
 GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/How-many-Senate-seats-will-the-GOP-control-after-the-midterms,53,0.21,0.8,0.2,0.79
 GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/How-many-Senate-seats-will-the-GOP-control-after-the-midterms,54,0.17,0.84,0.16,0.83
 GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/How-many-Senate-seats-will-the-GOP-control-after-the-midterms,55,0.11,0.91,0.09,0.89
-GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/How-many-Senate-seats-will-the-GOP-control-after-the-midterms,56 or more,0.1,0.91,0.09,0.9
+GOP Senate seats after midterms?,https://www.predictit.org/markets/detail/7586/How-many-Senate-seats-will-the-GOP-control-after-the-midterms,56 or more,0.1,0.93,0.07,0.9
 Which party will win OR governor's race?,https://www.predictit.org/markets/detail/7590/Which-party-will-win-the-2022-Oregon-gubernatorial-election,Democratic,0.72,0.29,0.71,0.28
 Which party will win OR governor's race?,https://www.predictit.org/markets/detail/7590/Which-party-will-win-the-2022-Oregon-gubernatorial-election,Republican,0.24,0.78,0.22,0.76
 Which party will win OR governor's race?,https://www.predictit.org/markets/detail/7590/Which-party-will-win-the-2022-Oregon-gubernatorial-election,Independent,0.13,0.88,0.12,0.87
@@ -632,7 +632,7 @@ Closest Senate race in 2022?,https://www.predictit.org/markets/detail/7634/Which
 Closest Senate race in 2022?,https://www.predictit.org/markets/detail/7634/Which-2022-Senate-race-will-be-the-closest,Florida,0.02,0.99,0.01,0.98
 Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Mario Draghi,0.25,0.77,0.23,0.75
 Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Vladimir Putin,0.25,0.76,0.24,0.75
-Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Boris Johnson,0.15,0.86,0.14,0.85
+Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Boris Johnson,0.16,0.85,0.15,0.84
 Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Alexander Lukashenko,0.09,0.92,0.08,0.91
 Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Sanna Marin,0.1,0.91,0.09,0.9
 Next European leader out?,https://www.predictit.org/markets/detail/7636/Which-of-these-10-European-leaders-will-leave-office-next,Pedro Sánchez,0.06,0.96,0.04,0.94
@@ -695,7 +695,7 @@ Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-m
 Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,10 or 11 votes,0.15,0.88,0.12,0.85
 Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,12 or 13 votes,0.2,0.82,0.18,0.8
 Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,14 or 15 votes,0.18,0.87,0.13,0.82
-Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,16 or 17 votes,0.15,0.88,0.12,0.85
+Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,16 or 17 votes,0.16,0.85,0.15,0.84
 Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,18 or 19 votes,0.15,0.88,0.12,0.85
 Harris tie-breakers in 2022?,https://www.predictit.org/markets/detail/7673/How-many-tie-breaking-Senate-votes-will-Kamala-Harris-cast-in-2022,20 or more,0.15,0.87,0.13,0.85
 IL-06 Democratic nominee?,https://www.predictit.org/markets/detail/7675/Who-will-win-the-Democratic-nomination-in-the-IL-06-House-election,Sean Casten,0.93,0.15,0.85,0.07
@@ -830,8 +830,8 @@ Next Latin American leader out?,https://www.predictit.org/markets/detail/7793/Wh
 Next Latin American leader out?,https://www.predictit.org/markets/detail/7793/Which-of-these-10-Latin-American-leaders-will-leave-office-next,Xiomara Castro,0.02,0.99,0.01,0.98
 Next Latin American leader out?,https://www.predictit.org/markets/detail/7793/Which-of-these-10-Latin-American-leaders-will-leave-office-next,A. M. López Obrador,0.02,0.99,0.01,0.98
 Next Latin American leader out?,https://www.predictit.org/markets/detail/7793/Which-of-these-10-Latin-American-leaders-will-leave-office-next,Luis Arce,0.02,,,0.98
-PA-12 Democratic nominee?,https://www.predictit.org/markets/detail/7794/Who-will-win-the-Democratic-nomination-in-the-PA-12-House-election,Summer Lee,0.85,0.2,0.8,0.15
-PA-12 Democratic nominee?,https://www.predictit.org/markets/detail/7794/Who-will-win-the-Democratic-nomination-in-the-PA-12-House-election,Steve Irwin,0.22,0.79,0.21,0.78
+PA-12 Democratic nominee?,https://www.predictit.org/markets/detail/7794/Who-will-win-the-Democratic-nomination-in-the-PA-12-House-election,Summer Lee,0.81,0.4,0.6,0.19
+PA-12 Democratic nominee?,https://www.predictit.org/markets/detail/7794/Who-will-win-the-Democratic-nomination-in-the-PA-12-House-election,Steve Irwin,0.59,0.51,0.49,0.41
 PA-12 Democratic nominee?,https://www.predictit.org/markets/detail/7794/Who-will-win-the-Democratic-nomination-in-the-PA-12-House-election,Jerry Dickinson,0.01,,,0.99
 Daylight savings modification by 6/15?,https://www.predictit.org/markets/detail/7795/Will-a-daylight-savings-modification-be-enacted-by-June-15,Will a daylight savings modification be enacted by June 15?,0.02,0.99,0.01,0.98
 GOP nominee in MN-01 special election?,https://www.predictit.org/markets/detail/7799/Who-will-win-the-Republican-nomination-in-the-MN-1-House-special-election,Brad Finstad,0.59,0.44,0.56,0.41
@@ -880,8 +880,8 @@ Trump endorsement in MO Senate primary?,https://www.predictit.org/markets/detail
 Trump endorsement in MO Senate primary?,https://www.predictit.org/markets/detail/7826/Whom-will-Trump-endorse-in-the-2022-Missouri-Republican-Senate-primary,Mark McCloskey,0.01,,,0.99
 TX-34 special party winner?,https://www.predictit.org/markets/detail/7828/Which-party-will-win-the-2022-House-special-election-in-Texas'-34th-District,Republican,0.89,0.16,0.84,0.11
 TX-34 special party winner?,https://www.predictit.org/markets/detail/7828/Which-party-will-win-the-2022-House-special-election-in-Texas'-34th-District,Democratic,0.16,0.9,0.1,0.84
-OR-05 Democratic nominee?,https://www.predictit.org/markets/detail/7834/Who-will-win-the-Democratic-nomination-in-the-OR-05-election,Jamie McLeod-Skinner,0.71,0.3,0.7,0.29
-OR-05 Democratic nominee?,https://www.predictit.org/markets/detail/7834/Who-will-win-the-Democratic-nomination-in-the-OR-05-election,Kurt Schrader,0.44,0.63,0.37,0.56
+OR-05 Democratic nominee?,https://www.predictit.org/markets/detail/7834/Who-will-win-the-Democratic-nomination-in-the-OR-05-election,Jamie McLeod-Skinner,0.75,0.29,0.71,0.25
+OR-05 Democratic nominee?,https://www.predictit.org/markets/detail/7834/Who-will-win-the-Democratic-nomination-in-the-OR-05-election,Kurt Schrader,0.36,0.67,0.33,0.64
 Number of judges confirmed by May 27?,https://www.predictit.org/markets/detail/7836/How-many-federal-judges-will-be-confirmed-by-May-27,62 or fewer,0.01,,,0.99
 Number of judges confirmed by May 27?,https://www.predictit.org/markets/detail/7836/How-many-federal-judges-will-be-confirmed-by-May-27,63 or 64,0.01,,,0.99
 Number of judges confirmed by May 27?,https://www.predictit.org/markets/detail/7836/How-many-federal-judges-will-be-confirmed-by-May-27,65 or 66,0.44,0.82,0.18,0.56
@@ -905,7 +905,7 @@ Votes for Childs to DC Cir.?,https://www.predictit.org/markets/detail/7838/How-m
 Votes for Childs to DC Cir.?,https://www.predictit.org/markets/detail/7838/How-many-votes-to-confirm-Michelle-Childs-to-the-DC-Circuit,64 or 65,0.07,0.97,0.03,0.93
 Votes for Childs to DC Cir.?,https://www.predictit.org/markets/detail/7838/How-many-votes-to-confirm-Michelle-Childs-to-the-DC-Circuit,66 or 67,0.07,0.94,0.06,0.93
 Votes for Childs to DC Cir.?,https://www.predictit.org/markets/detail/7838/How-many-votes-to-confirm-Michelle-Childs-to-the-DC-Circuit,68 or more,0.15,0.86,0.14,0.85
-Cuomo runs for NY statewide office?,https://www.predictit.org/markets/detail/7839/Will-Andrew-Cuomo-run-for-a-New-York-statewide-executive-office-in-2022,Will Andrew Cuomo run for a New York statewide executive office in 2022?,0.09,0.92,0.08,0.91
+Cuomo runs for NY statewide office?,https://www.predictit.org/markets/detail/7839/Will-Andrew-Cuomo-run-for-a-New-York-statewide-executive-office-in-2022,Will Andrew Cuomo run for a New York statewide executive office in 2022?,0.12,0.92,0.08,0.88
 Next Asia-Pacific leader out?,https://www.predictit.org/markets/detail/7840/Which-of-these-10-Asia-Pacific-leaders-will-leave-office-next,Naftali Bennett,0.57,0.52,0.48,0.43
 Next Asia-Pacific leader out?,https://www.predictit.org/markets/detail/7840/Which-of-these-10-Asia-Pacific-leaders-will-leave-office-next,Vladimir Putin,0.16,0.93,0.07,0.84
 Next Asia-Pacific leader out?,https://www.predictit.org/markets/detail/7840/Which-of-these-10-Asia-Pacific-leaders-will-leave-office-next,Shehbaz Sharif,0.15,0.9,0.1,0.85
@@ -977,10 +977,10 @@ IL-15 Republican nominee?,https://www.predictit.org/markets/detail/7880/Who-will
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,10 or fewer,0.01,,,0.99
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,11,0.02,0.99,0.01,0.98
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,12,0.15,0.86,0.14,0.85
-Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,13,0.17,0.85,0.15,0.83
+Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,13,0.18,0.85,0.15,0.82
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,14,0.28,0.77,0.23,0.72
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,15,0.32,0.69,0.31,0.68
-Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,16,0.18,0.96,0.04,0.82
+Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,16,0.17,0.95,0.05,0.83
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,17,0.02,0.99,0.01,0.98
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,18,0.01,,,0.99
 Trump candidates winning May Primaries?,https://www.predictit.org/markets/detail/7882/How-many-of-these-20-Trump-candidates-win-May-primaries,19 or more,0.01,,,0.99
@@ -1002,8 +1002,8 @@ NC-01 Democratic nominee?,https://www.predictit.org/markets/detail/7889/Who-will
 NC-01 Democratic nominee?,https://www.predictit.org/markets/detail/7889/Who-will-win-the-Democratic-nomination-for-the-NC-01-House-election,Jullian Bishop Sr.,0.01,,,0.99
 NC-01 Democratic nominee?,https://www.predictit.org/markets/detail/7889/Who-will-win-the-Democratic-nomination-for-the-NC-01-House-election,Erica Smith,0.01,,,0.99
 NC-01 Democratic nominee?,https://www.predictit.org/markets/detail/7889/Who-will-win-the-Democratic-nomination-for-the-NC-01-House-election,Jason Spriggs,0.01,,,0.99
-Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,Mehmet Oz,0.67,0.34,0.66,0.33
-Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,David McCormick,0.34,0.73,0.27,0.66
+Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,David McCormick,0.66,0.48,0.52,0.34
+Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,Mehmet Oz,0.41,0.64,0.36,0.59
 Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,Jeff Bartos,0.01,,,0.99
 Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,Kathy Barnette,0.01,,,0.99
 Second place in PA GOP Senate primary?,https://www.predictit.org/markets/detail/7895/Who-will-be-second-in-the-2022-Pennsylvania-Republican-Senate-primary,Carla Sands,0.01,,,0.99
@@ -1031,9 +1031,9 @@ Allegheny winner in PA GOP Sen. primary?,https://www.predictit.org/markets/detai
 Allegheny winner in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7900/Who-will-win-Allegheny-County-in-the-2022-Pennsylvania-GOP-Senate-primary,Kathy Barnette,0.01,,,0.99
 Allegheny winner in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7900/Who-will-win-Allegheny-County-in-the-2022-Pennsylvania-GOP-Senate-primary,Carla Sands,0.01,,,0.99
 Allegheny winner in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7900/Who-will-win-Allegheny-County-in-the-2022-Pennsylvania-GOP-Senate-primary,Mehmet Oz,0.01,,,0.99
-PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,< 1.5%,0.88,0.18,0.82,0.12
-PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,1.5% to 3%,0.18,0.86,0.14,0.82
-PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,3% to 4.5%,0.03,,,0.97
+PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,< 1.5%,0.95,0.08,0.92,0.05
+PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,1.5% to 3%,0.03,0.98,0.02,0.97
+PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,3% to 4.5%,0.01,,,0.99
 PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,4.5% to 6%,0.01,,,0.99
 PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,6% to 7.5%,0.01,,,0.99
 PA Senate GOP primary margin?,https://www.predictit.org/markets/detail/7901/What-will-be-the-margin-in-the-Pennsylvania-GOP-Senate-primary,7.5% to 9%,0.01,,,0.99
@@ -1047,9 +1047,9 @@ PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detai
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,26% to 27.5%,0.01,,,0.99
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,27.5% to 29%,0.01,,,0.99
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,29% to 30.5%,0.04,0.99,0.01,0.96
-PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,30.5% to 32%,0.84,0.33,0.67,0.16
+PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,30.5% to 32%,0.95,0.1,0.9,0.05
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,32% to 33.5%,0.22,0.84,0.16,0.78
-PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,33.5% to 35%,0.02,0.99,0.01,0.98
+PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,33.5% to 35%,0.01,,,0.99
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,35% to 36.5%,0.01,,,0.99
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,36.5% to 38%,0.01,,,0.99
 PA Senate GOP primary winner vote share?,https://www.predictit.org/markets/detail/7902/What-share-of-the-primary-vote-will-the-Pennsylvania-GOP-Senate-nominee-win,≥ 38%,0.01,,,0.99
@@ -1062,9 +1062,9 @@ PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/W
 PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/What-percentage-of-the-Pennsylvania-Senate-Dem-primary-vote-will-Fetterman-win,50% to 52%,0.01,,,0.99
 PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/What-percentage-of-the-Pennsylvania-Senate-Dem-primary-vote-will-Fetterman-win,52% to 54%,0.01,,,0.99
 PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/What-percentage-of-the-Pennsylvania-Senate-Dem-primary-vote-will-Fetterman-win,54% to 56%,0.02,0.99,0.01,0.98
-PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/What-percentage-of-the-Pennsylvania-Senate-Dem-primary-vote-will-Fetterman-win,≥ 56%,0.99,0.02,0.98,0.01
-NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,< 1.5%,0.52,0.8,0.2,0.48
-NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,1.5% to 3%,0.45,0.59,0.41,0.55
+PA Sen Dem Fetterman vote share?,https://www.predictit.org/markets/detail/7903/What-percentage-of-the-Pennsylvania-Senate-Dem-primary-vote-will-Fetterman-win,≥ 56%,,0.01,0.99,
+NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,< 1.5%,0.5,0.8,0.2,0.5
+NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,1.5% to 3%,0.91,0.53,0.47,0.09
 NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,3% to 4.5%,0.01,,,0.99
 NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,4.5% to 6%,0.01,,,0.99
 NC-11 GOP primary margin?,https://www.predictit.org/markets/detail/7904/What-will-be-the-margin-in-the-NC-11-GOP-primary,6% to 7.5%,0.01,,,0.99
@@ -1077,7 +1077,7 @@ Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/W
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,40.6% to 40.8%,0.01,,,0.99
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,40.9% to 41.1%,0.07,0.95,0.05,0.93
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,41.2% to 41.4%,0.23,0.78,0.22,0.77
-Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,41.5% to 41.7%,0.5,0.61,0.39,0.5
+Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,41.5% to 41.7%,0.48,0.6,0.4,0.52
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,41.8% to 42.0%,0.23,0.79,0.21,0.77
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,42.1% to 42.3%,0.05,0.97,0.03,0.95
 Biden's 538 approval for May 18?,https://www.predictit.org/markets/detail/7905/What-will-Joe-Biden's-538-job-approval-rating-be-for-May-18,42.4% to 42.6%,0.01,,,0.99
@@ -1094,15 +1094,15 @@ Congressional ballot lead for May 18?,https://www.predictit.org/markets/detail/7
 Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,Fewer than 800K,0.01,,,0.99
 Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,800K to 900K,0.01,,,0.99
 Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,900K to 1M,0.01,,,0.99
-Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1M to 1.1M,0.09,0.99,0.01,0.91
-Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.1M to 1.2M,0.17,0.87,0.13,0.83
-Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.2M to 1.3M,0.42,0.73,0.27,0.58
-Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.3M to 1.4M,0.32,0.83,0.17,0.68
-Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.4M  to 1.5M,0.16,0.94,0.06,0.84
+Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1M to 1.1M,0.07,0.99,0.01,0.93
+Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.1M to 1.2M,0.1,0.98,0.02,0.9
+Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.2M to 1.3M,0.41,0.73,0.27,0.59
+Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.3M to 1.4M,0.35,0.83,0.17,0.65
+Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.4M  to 1.5M,0.15,0.94,0.06,0.85
 Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.5M  to 1.6M,0.01,,,0.99
 Turnout in PA GOP Sen. primary?,https://www.predictit.org/markets/detail/7907/How-many-votes-in-the-2022-Pennsylvania-Republican-Senate-primary,1.6M or more,0.01,,,0.99
-Philly winner in PA Dem Senate primary?,https://www.predictit.org/markets/detail/7908/Who-will-win-Philadelphia-County-in-the-2022-Pennsylvania-Dem-Senate-primary,John Fetterman,0.87,0.16,0.84,0.13
-Philly winner in PA Dem Senate primary?,https://www.predictit.org/markets/detail/7908/Who-will-win-Philadelphia-County-in-the-2022-Pennsylvania-Dem-Senate-primary,Malcolm Kenyatta,0.2,0.83,0.17,0.8
+Philly winner in PA Dem Senate primary?,https://www.predictit.org/markets/detail/7908/Who-will-win-Philadelphia-County-in-the-2022-Pennsylvania-Dem-Senate-primary,John Fetterman,0.94,0.15,0.85,0.06
+Philly winner in PA Dem Senate primary?,https://www.predictit.org/markets/detail/7908/Who-will-win-Philadelphia-County-in-the-2022-Pennsylvania-Dem-Senate-primary,Malcolm Kenyatta,0.3,0.8,0.2,0.7
 Philly winner in PA Dem Senate primary?,https://www.predictit.org/markets/detail/7908/Who-will-win-Philadelphia-County-in-the-2022-Pennsylvania-Dem-Senate-primary,Conor Lamb,0.01,,,0.99
 Labor seats in Australian election?,https://www.predictit.org/markets/detail/7909/How-many-seats-will-the-Labor-Party-win-in-the-2022-Australian-election,63 or fewer,0.04,,,0.96
 Labor seats in Australian election?,https://www.predictit.org/markets/detail/7909/How-many-seats-will-the-Labor-Party-win-in-the-2022-Australian-election,64 to 66,0.06,,,0.94
@@ -1128,11 +1128,11 @@ NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-wi
 NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,24% to 26%,0.02,,,0.98
 NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,26% to 28%,0.01,,,0.99
 NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,28% to 30%,0.01,,,0.99
-NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,30% to 32%,0.16,0.98,0.02,0.84
+NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,30% to 32%,0.15,,,0.85
 NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,32% to 34%,0.43,0.89,0.11,0.57
-NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,34% to 36%,0.63,0.7,0.3,0.37
-NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,36% to 38%,0.15,0.93,0.07,0.85
-NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,≥ 38%,0.18,0.98,0.02,0.82
+NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,34% to 36%,0.63,0.82,0.18,0.37
+NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,36% to 38%,0.15,0.97,0.03,0.85
+NC Sen GOP primary margin?,https://www.predictit.org/markets/detail/7911/What-will-be-the-margin-in-the-North-Carolina-GOP-Senate-primary,≥ 38%,0.05,0.98,0.02,0.95
 AL GOP Sen. primary first round leader?,https://www.predictit.org/markets/detail/7912/Who-will-lead-the-first-round-of-the-2022-Alabama-Republican-Senate-primary,Katie Britt,0.95,0.06,0.94,0.05
 AL GOP Sen. primary first round leader?,https://www.predictit.org/markets/detail/7912/Who-will-lead-the-first-round-of-the-2022-Alabama-Republican-Senate-primary,Mike Durant,0.03,0.99,0.01,0.97
 AL GOP Sen. primary first round leader?,https://www.predictit.org/markets/detail/7912/Who-will-lead-the-first-round-of-the-2022-Alabama-Republican-Senate-primary,Mo Brooks,0.03,0.99,0.01,0.97
