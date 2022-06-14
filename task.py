@@ -97,7 +97,10 @@ class Calculator(Processor):
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
-        open(_DATA_DIR + 'summary.txt', 'w').write(self._calculate_profit_from_log(log=log))
+        summary = self._calculate_profit_from_log(log=log)
+        open(_DATA_DIR + 'summary.txt', 'w').write(summary)
+        readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
+        open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
     def _calculate_profit_from_log(self, log=None):
         if log is None:
@@ -106,13 +109,13 @@ class Calculator(Processor):
         log = log[log.profit_net >= min_profit_cutoff].drop_duplicates(subset=['murl'], keep='last')
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         profit_net = log.profit_net.sum() * 850
-        note = (
+        lines = (
             f'Opportunities with minimum profit cutoff >= {min_profit_cutoff}',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2)}',
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2)}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2)}',
         )
-        return '\n'.join(note)
+        return '  \n'.join(lines)
 
     @property
     def _arbs_log(self) -> pd.DataFrame:
