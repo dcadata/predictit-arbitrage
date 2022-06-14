@@ -4,7 +4,7 @@ from os import system
 from time import sleep
 
 import pandas as pd
-from requests import get
+import requests
 
 _DATA_DIR = 'data/'
 
@@ -12,9 +12,9 @@ _DATA_DIR = 'data/'
 class Requester:
     @staticmethod
     def make_request():
-        r = get('https://www.predictit.org/api/marketdata/all/')
-        open(_DATA_DIR + 'markets.json', 'wb').write(r.content)
-        return r
+        response = requests.get('https://www.predictit.org/api/marketdata/all/')
+        open(_DATA_DIR + 'markets.json', 'wb').write(response.content)
+        return response
 
     @property
     def _raw_markets(self):
@@ -94,7 +94,6 @@ class Calculator(Processor):
 
     def _finalize_and_save_dataframe(self):
         self.arbs = self.arbs.sort_values('profit_net', ascending=False)[self._final_cols]
-
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
@@ -116,7 +115,7 @@ class Calculator(Processor):
         return '\n'.join(note)
 
     @property
-    def _arbs_log(self):
+    def _arbs_log(self) -> pd.DataFrame:
         dtypes = {
             'mshortName': str,
             'murl': str,
@@ -136,11 +135,11 @@ class Calculator(Processor):
         return pd.read_csv(self._arbs_log_fp, usecols=dtypes.keys(), dtype=dtypes)
 
     @property
-    def _arbs_log_fp(self):
+    def _arbs_log_fp(self) -> str:
         return _DATA_DIR + 'arbs.csv'
 
 
-def _calculate():
+def _calculate() -> int:
     calculator = Calculator()
     response = calculator.make_request()
     if response.ok:
