@@ -26,6 +26,9 @@ class Requester:
 
 
 class Processor(Requester):
+    def __init__(self):
+        self.arbs = pd.DataFrame()
+
     def process(self):
         self._get_all_contract_data()
         self._create_dataframe()
