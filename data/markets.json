@@ -68,7 +68,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -109,7 +109,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -150,7 +150,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -176,7 +176,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -202,7 +202,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -228,7 +228,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -254,7 +254,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -280,7 +280,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -297,10 +297,10 @@
           "name": "Democratic",
           "shortName": "Democratic",
           "status": "Open",
-          "lastTradePrice": 0.52,
+          "lastTradePrice": 0.54,
           "bestBuyYesCost": 0.54,
-          "bestBuyNoCost": 0.48,
-          "bestSellYesCost": 0.52,
+          "bestBuyNoCost": 0.47,
+          "bestSellYesCost": 0.53,
           "bestSellNoCost": 0.46,
           "lastClosePrice": 0.53,
           "displayOrder": 0
@@ -321,7 +321,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -362,7 +362,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -403,7 +403,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -420,7 +420,7 @@
           "name": "Ron DeSantis",
           "shortName": "DeSantis",
           "status": "Open",
-          "lastTradePrice": 0.38,
+          "lastTradePrice": 0.39,
           "bestBuyYesCost": 0.39,
           "bestBuyNoCost": 0.62,
           "bestSellYesCost": 0.38,
@@ -435,7 +435,7 @@
           "name": "Donald Trump",
           "shortName": "Trump",
           "status": "Open",
-          "lastTradePrice": 0.36,
+          "lastTradePrice": 0.37,
           "bestBuyYesCost": 0.37,
           "bestBuyNoCost": 0.64,
           "bestSellYesCost": 0.36,
@@ -466,10 +466,10 @@
           "shortName": "Pence",
           "status": "Open",
           "lastTradePrice": 0.06,
-          "bestBuyYesCost": 0.07,
+          "bestBuyYesCost": 0.06,
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.93,
+          "bestSellNoCost": 0.94,
           "lastClosePrice": 0.05,
           "displayOrder": 0
         },
@@ -481,11 +481,26 @@
           "shortName": "Pompeo",
           "status": "Open",
           "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.05,
-          "bestBuyNoCost": 0.96,
-          "bestSellYesCost": 0.04,
-          "bestSellNoCost": 0.95,
+          "bestBuyYesCost": 0.04,
+          "bestBuyNoCost": 0.97,
+          "bestSellYesCost": 0.03,
+          "bestSellNoCost": 0.96,
           "lastClosePrice": 0.05,
+          "displayOrder": 0
+        },
+        {
+          "id": 24784,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_bbfdd2ed-95d5-43a3-bf5d-2403503705b0.jpg",
+          "name": "Mitt Romney",
+          "shortName": "Romney",
+          "status": "Open",
+          "lastTradePrice": 0.03,
+          "bestBuyYesCost": 0.03,
+          "bestBuyNoCost": 0.98,
+          "bestSellYesCost": 0.02,
+          "bestSellNoCost": 0.97,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -504,13 +519,13 @@
           "displayOrder": 0
         },
         {
-          "id": 24784,
+          "id": 28287,
           "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_bbfdd2ed-95d5-43a3-bf5d-2403503705b0.jpg",
-          "name": "Mitt Romney",
-          "shortName": "Romney",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_97751cff-caca-40c3-8d44-2aa9c672832c.png",
+          "name": "Glenn Youngkin",
+          "shortName": "Youngkin",
           "status": "Open",
-          "lastTradePrice": 0.02,
+          "lastTradePrice": 0.03,
           "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
@@ -579,26 +594,26 @@
           "displayOrder": 0
         },
         {
+          "id": 24813,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_8d271559-d751-448d-bacb-1a209e714bd4.png",
+          "name": "Larry Hogan",
+          "shortName": "Hogan",
+          "status": "Open",
+          "lastTradePrice": 0.02,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": 0.99,
+          "bestSellYesCost": 0.01,
+          "bestSellNoCost": 0.98,
+          "lastClosePrice": 0.01,
+          "displayOrder": 0
+        },
+        {
           "id": 24815,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_4b2b5732-b84d-4ac6-b7da-9d3790c691e0.png",
           "name": "Kristi Noem",
           "shortName": "Noem",
-          "status": "Open",
-          "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.03,
-          "bestBuyNoCost": 0.98,
-          "bestSellYesCost": 0.02,
-          "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.02,
-          "displayOrder": 0
-        },
-        {
-          "id": 28287,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_97751cff-caca-40c3-8d44-2aa9c672832c.png",
-          "name": "Glenn Youngkin",
-          "shortName": "Youngkin",
           "status": "Open",
           "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.03,
@@ -652,24 +667,9 @@
           "bestSellNoCost": 0.98,
           "lastClosePrice": 0.01,
           "displayOrder": 0
-        },
-        {
-          "id": 24813,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_8d271559-d751-448d-bacb-1a209e714bd4.png",
-          "name": "Larry Hogan",
-          "shortName": "Hogan",
-          "status": "Open",
-          "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.01,
-          "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -845,7 +845,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -886,7 +886,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -903,16 +903,16 @@
           "name": "Will Liz Cheney win the 2022 House GOP nomination in WY-AL?",
           "shortName": "Cheney House GOP nominee in WY-AL?",
           "status": "Open",
-          "lastTradePrice": 0.09,
-          "bestBuyYesCost": 0.10,
-          "bestBuyNoCost": 0.91,
-          "bestSellYesCost": 0.09,
-          "bestSellNoCost": 0.90,
+          "lastTradePrice": 0.10,
+          "bestBuyYesCost": 0.11,
+          "bestBuyNoCost": 0.90,
+          "bestSellYesCost": 0.10,
+          "bestSellNoCost": 0.89,
           "lastClosePrice": 0.08,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -953,7 +953,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -994,7 +994,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1155,7 +1155,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1181,7 +1181,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1222,7 +1222,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1263,7 +1263,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1304,7 +1304,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1330,7 +1330,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1446,7 +1446,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1478,10 +1478,10 @@
           "name": "Eric Schmitt",
           "shortName": "Schmitt",
           "status": "Open",
-          "lastTradePrice": 0.31,
+          "lastTradePrice": 0.32,
           "bestBuyYesCost": 0.35,
-          "bestBuyNoCost": 0.68,
-          "bestSellYesCost": 0.32,
+          "bestBuyNoCost": 0.69,
+          "bestSellYesCost": 0.31,
           "bestSellNoCost": 0.65,
           "lastClosePrice": 0.34,
           "displayOrder": 0
@@ -1637,7 +1637,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1708,7 +1708,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1914,7 +1914,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -1970,7 +1970,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2101,7 +2101,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2247,7 +2247,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2266,10 +2266,25 @@
           "status": "Open",
           "lastTradePrice": 0.99,
           "bestBuyYesCost": null,
-          "bestBuyNoCost": 0.01,
-          "bestSellYesCost": 0.99,
+          "bestBuyNoCost": 0.02,
+          "bestSellYesCost": 0.98,
           "bestSellNoCost": null,
           "lastClosePrice": 0.99,
+          "displayOrder": 0
+        },
+        {
+          "id": 25627,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_b19b5cae-b278-4fdd-89ef-a10711610437.png",
+          "name": "Mike Gallagher",
+          "shortName": "Gallagher",
+          "status": "Open",
+          "lastTradePrice": 0.02,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.98,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -2316,24 +2331,9 @@
           "bestSellNoCost": 0.99,
           "lastClosePrice": 0.01,
           "displayOrder": 0
-        },
-        {
-          "id": 25627,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_b19b5cae-b278-4fdd-89ef-a10711610437.png",
-          "name": "Mike Gallagher",
-          "shortName": "Gallagher",
-          "status": "Open",
-          "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.01,
-          "bestBuyNoCost": null,
-          "bestSellYesCost": null,
-          "bestSellNoCost": 0.99,
-          "lastClosePrice": 0.01,
-          "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2350,7 +2350,7 @@
           "name": "Republican",
           "shortName": "Republican",
           "status": "Open",
-          "lastTradePrice": 0.90,
+          "lastTradePrice": 0.88,
           "bestBuyYesCost": 0.90,
           "bestBuyNoCost": 0.12,
           "bestSellYesCost": 0.88,
@@ -2374,7 +2374,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2406,7 +2406,7 @@
           "name": "Trudy Valentine",
           "shortName": "Valentine",
           "status": "Open",
-          "lastTradePrice": 0.49,
+          "lastTradePrice": 0.50,
           "bestBuyYesCost": 0.50,
           "bestBuyNoCost": 0.59,
           "bestSellYesCost": 0.41,
@@ -2505,7 +2505,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2546,7 +2546,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2572,7 +2572,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2598,7 +2598,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2630,7 +2630,7 @@
           "name": "Charlie Crist",
           "shortName": "Crist",
           "status": "Open",
-          "lastTradePrice": 0.09,
+          "lastTradePrice": 0.08,
           "bestBuyYesCost": 0.09,
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
@@ -2684,7 +2684,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -2875,7 +2875,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3006,7 +3006,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3182,7 +3182,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3403,7 +3403,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3429,7 +3429,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3455,7 +3455,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3511,7 +3511,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3528,11 +3528,11 @@
           "name": "Lee Zeldin",
           "shortName": "Zeldin",
           "status": "Open",
-          "lastTradePrice": 0.79,
-          "bestBuyYesCost": 0.93,
-          "bestBuyNoCost": 0.22,
-          "bestSellYesCost": 0.78,
-          "bestSellNoCost": 0.07,
+          "lastTradePrice": 0.89,
+          "bestBuyYesCost": 0.92,
+          "bestBuyNoCost": 0.17,
+          "bestSellYesCost": 0.83,
+          "bestSellNoCost": 0.08,
           "lastClosePrice": 0.95,
           "displayOrder": 0
         },
@@ -3543,11 +3543,11 @@
           "name": "Andrew Giuliani",
           "shortName": "Giuliani",
           "status": "Open",
-          "lastTradePrice": 0.08,
-          "bestBuyYesCost": 0.22,
-          "bestBuyNoCost": 0.92,
-          "bestSellYesCost": 0.08,
-          "bestSellNoCost": 0.78,
+          "lastTradePrice": 0.09,
+          "bestBuyYesCost": 0.15,
+          "bestBuyNoCost": 0.91,
+          "bestSellYesCost": 0.09,
+          "bestSellNoCost": 0.85,
           "lastClosePrice": 0.06,
           "displayOrder": 0
         },
@@ -3642,7 +3642,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3720,10 +3720,10 @@
           "shortName": "Stefanik",
           "status": "Open",
           "lastTradePrice": 0.03,
-          "bestBuyYesCost": 0.04,
-          "bestBuyNoCost": 0.97,
-          "bestSellYesCost": 0.03,
-          "bestSellNoCost": 0.96,
+          "bestBuyYesCost": 0.03,
+          "bestBuyNoCost": 0.98,
+          "bestSellYesCost": 0.02,
+          "bestSellNoCost": 0.97,
           "lastClosePrice": 0.03,
           "displayOrder": 0
         },
@@ -3893,7 +3893,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -3919,7 +3919,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4095,7 +4095,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4136,7 +4136,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4155,8 +4155,8 @@
           "status": "Open",
           "lastTradePrice": 0.66,
           "bestBuyYesCost": 0.68,
-          "bestBuyNoCost": 0.34,
-          "bestSellYesCost": 0.66,
+          "bestBuyNoCost": 0.33,
+          "bestSellYesCost": 0.67,
           "bestSellNoCost": 0.32,
           "lastClosePrice": 0.66,
           "displayOrder": 0
@@ -4177,7 +4177,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4218,7 +4218,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4259,7 +4259,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4300,7 +4300,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4318,10 +4318,10 @@
           "shortName": "Republican",
           "status": "Open",
           "lastTradePrice": 0.80,
-          "bestBuyYesCost": 0.80,
-          "bestBuyNoCost": 0.21,
-          "bestSellYesCost": 0.79,
-          "bestSellNoCost": 0.20,
+          "bestBuyYesCost": 0.81,
+          "bestBuyNoCost": 0.20,
+          "bestSellYesCost": 0.80,
+          "bestSellNoCost": 0.19,
           "lastClosePrice": 0.80,
           "displayOrder": 0
         },
@@ -4341,7 +4341,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4382,7 +4382,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4423,7 +4423,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4464,7 +4464,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4497,10 +4497,10 @@
           "shortName": "Cheney",
           "status": "Open",
           "lastTradePrice": 0.08,
-          "bestBuyYesCost": 0.09,
+          "bestBuyYesCost": 0.10,
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
-          "bestSellNoCost": 0.91,
+          "bestSellNoCost": 0.90,
           "lastClosePrice": 0.08,
           "displayOrder": 0
         },
@@ -4670,7 +4670,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4689,14 +4689,14 @@
           "status": "Open",
           "lastTradePrice": 0.28,
           "bestBuyYesCost": 0.28,
-          "bestBuyNoCost": 0.74,
-          "bestSellYesCost": 0.26,
+          "bestBuyNoCost": 0.73,
+          "bestSellYesCost": 0.27,
           "bestSellNoCost": 0.72,
           "lastClosePrice": 0.28,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4713,7 +4713,7 @@
           "name": "Ron DeSantis",
           "shortName": "DeSantis",
           "status": "Open",
-          "lastTradePrice": 0.31,
+          "lastTradePrice": 0.32,
           "bestBuyYesCost": 0.32,
           "bestBuyNoCost": 0.69,
           "bestSellYesCost": 0.31,
@@ -4782,7 +4782,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4883,7 +4883,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -4909,7 +4909,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5070,7 +5070,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5096,7 +5096,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5257,7 +5257,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5463,7 +5463,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5564,7 +5564,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5620,7 +5620,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5638,10 +5638,10 @@
           "shortName": "Bass",
           "status": "Open",
           "lastTradePrice": 0.80,
-          "bestBuyYesCost": 0.87,
+          "bestBuyYesCost": 0.86,
           "bestBuyNoCost": 0.20,
           "bestSellYesCost": 0.80,
-          "bestSellNoCost": 0.13,
+          "bestSellNoCost": 0.14,
           "lastClosePrice": 0.83,
           "displayOrder": 0
         },
@@ -5652,11 +5652,11 @@
           "name": "Rick Caruso",
           "shortName": "Caruso",
           "status": "Open",
-          "lastTradePrice": 0.22,
-          "bestBuyYesCost": 0.23,
-          "bestBuyNoCost": 0.86,
-          "bestSellYesCost": 0.14,
-          "bestSellNoCost": 0.77,
+          "lastTradePrice": 0.23,
+          "bestBuyYesCost": 0.22,
+          "bestBuyNoCost": 0.80,
+          "bestSellYesCost": 0.20,
+          "bestSellNoCost": 0.78,
           "lastClosePrice": 0.18,
           "displayOrder": 0
         },
@@ -5736,7 +5736,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5867,7 +5867,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5908,7 +5908,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -5927,8 +5927,8 @@
           "status": "Open",
           "lastTradePrice": 0.86,
           "bestBuyYesCost": 0.92,
-          "bestBuyNoCost": 0.14,
-          "bestSellYesCost": 0.86,
+          "bestBuyNoCost": 0.15,
+          "bestSellYesCost": 0.85,
           "bestSellNoCost": 0.08,
           "lastClosePrice": 0.92,
           "displayOrder": 0
@@ -6084,7 +6084,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6101,10 +6101,10 @@
           "name": "Kari Lake",
           "shortName": "Lake",
           "status": "Open",
-          "lastTradePrice": 0.77,
+          "lastTradePrice": 0.80,
           "bestBuyYesCost": 0.79,
-          "bestBuyNoCost": 0.24,
-          "bestSellYesCost": 0.76,
+          "bestBuyNoCost": 0.23,
+          "bestSellYesCost": 0.77,
           "bestSellNoCost": 0.21,
           "lastClosePrice": 0.81,
           "displayOrder": 0
@@ -6185,7 +6185,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6466,7 +6466,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6582,7 +6582,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6668,7 +6668,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6709,7 +6709,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6885,7 +6885,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -6971,7 +6971,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7034,10 +7034,10 @@
           "shortName": "49",
           "status": "Open",
           "lastTradePrice": 0.07,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.93,
-          "bestSellYesCost": 0.07,
-          "bestSellNoCost": 0.92,
+          "bestBuyYesCost": 0.07,
+          "bestBuyNoCost": 0.94,
+          "bestSellYesCost": 0.06,
+          "bestSellNoCost": 0.93,
           "lastClosePrice": 0.07,
           "displayOrder": 3
         },
@@ -7078,7 +7078,7 @@
           "name": "52",
           "shortName": "52",
           "status": "Open",
-          "lastTradePrice": 0.16,
+          "lastTradePrice": 0.17,
           "bestBuyYesCost": 0.17,
           "bestBuyNoCost": 0.84,
           "bestSellYesCost": 0.16,
@@ -7094,10 +7094,10 @@
           "shortName": "53",
           "status": "Open",
           "lastTradePrice": 0.21,
-          "bestBuyYesCost": 0.23,
+          "bestBuyYesCost": 0.22,
           "bestBuyNoCost": 0.79,
           "bestSellYesCost": 0.21,
-          "bestSellNoCost": 0.77,
+          "bestSellNoCost": 0.78,
           "lastClosePrice": 0.22,
           "displayOrder": 7
         },
@@ -7123,7 +7123,7 @@
           "name": "55",
           "shortName": "55",
           "status": "Open",
-          "lastTradePrice": 0.10,
+          "lastTradePrice": 0.09,
           "bestBuyYesCost": 0.10,
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
@@ -7138,7 +7138,7 @@
           "name": "56 or more",
           "shortName": "56 or more",
           "status": "Open",
-          "lastTradePrice": 0.09,
+          "lastTradePrice": 0.08,
           "bestBuyYesCost": 0.09,
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
@@ -7147,7 +7147,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7203,7 +7203,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7379,7 +7379,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7420,7 +7420,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7454,8 +7454,8 @@
           "status": "Open",
           "lastTradePrice": 0.41,
           "bestBuyYesCost": 0.50,
-          "bestBuyNoCost": 0.57,
-          "bestSellYesCost": 0.43,
+          "bestBuyNoCost": 0.56,
+          "bestSellYesCost": 0.44,
           "bestSellNoCost": 0.50,
           "lastClosePrice": 0.38,
           "displayOrder": 0
@@ -7566,7 +7566,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7622,7 +7622,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7678,7 +7678,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7695,7 +7695,7 @@
           "name": "Will any incumbent senator lose a primary?",
           "shortName": "Any incumbent senator loses primary?",
           "status": "Open",
-          "lastTradePrice": 0.02,
+          "lastTradePrice": 0.04,
           "bestBuyYesCost": 0.04,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
@@ -7704,7 +7704,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7730,7 +7730,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7756,7 +7756,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -7932,7 +7932,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8138,7 +8138,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8209,6 +8209,21 @@
           "displayOrder": 0
         },
         {
+          "id": 28662,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_fca92a29-7c8f-4556-85b7-7e53da65f0e6.png",
+          "name": "Alexander Lukashenko",
+          "shortName": "Lukashenko",
+          "status": "Open",
+          "lastTradePrice": 0.05,
+          "bestBuyYesCost": 0.06,
+          "bestBuyNoCost": 0.96,
+          "bestSellYesCost": 0.04,
+          "bestSellNoCost": 0.94,
+          "lastClosePrice": 0.06,
+          "displayOrder": 0
+        },
+        {
           "id": 28660,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_443fecc6-16bf-4f1d-8ba7-608af9937873.jpg",
@@ -8221,21 +8236,6 @@
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
           "lastClosePrice": 0.02,
-          "displayOrder": 0
-        },
-        {
-          "id": 28662,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_fca92a29-7c8f-4556-85b7-7e53da65f0e6.png",
-          "name": "Alexander Lukashenko",
-          "shortName": "Lukashenko",
-          "status": "Open",
-          "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.05,
-          "bestBuyNoCost": 0.96,
-          "bestSellYesCost": 0.04,
-          "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.06,
           "displayOrder": 0
         },
         {
@@ -8275,7 +8275,7 @@
           "name": "Emmanuel Macron",
           "shortName": "Macron",
           "status": "Open",
-          "lastTradePrice": 0.02,
+          "lastTradePrice": 0.03,
           "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
@@ -8299,7 +8299,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8475,7 +8475,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8501,7 +8501,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8527,7 +8527,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8583,7 +8583,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8744,7 +8744,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8777,15 +8777,15 @@
           "shortName": "Republican",
           "status": "Open",
           "lastTradePrice": 0.46,
-          "bestBuyYesCost": 0.46,
+          "bestBuyYesCost": 0.47,
           "bestBuyNoCost": 0.58,
           "bestSellYesCost": 0.42,
-          "bestSellNoCost": 0.54,
+          "bestSellNoCost": 0.53,
           "lastClosePrice": 0.43,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8826,7 +8826,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -8882,7 +8882,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9088,7 +9088,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9249,7 +9249,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9290,7 +9290,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9346,7 +9346,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9462,7 +9462,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9488,7 +9488,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9506,15 +9506,15 @@
           "shortName": "New Israeli elections in 2022?",
           "status": "Open",
           "lastTradePrice": 0.89,
-          "bestBuyYesCost": 0.94,
+          "bestBuyYesCost": 0.92,
           "bestBuyNoCost": 0.09,
           "bestSellYesCost": 0.91,
-          "bestSellNoCost": 0.06,
+          "bestSellNoCost": 0.08,
           "lastClosePrice": 0.97,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9615,7 +9615,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9641,7 +9641,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9658,16 +9658,16 @@
           "name": "Will Anthony Fauci remain NIAID director through the end of the year?",
           "shortName": "Fauci NIAID director through 2022?",
           "status": "Open",
-          "lastTradePrice": 0.79,
-          "bestBuyYesCost": 0.79,
+          "lastTradePrice": 0.77,
+          "bestBuyYesCost": 0.78,
           "bestBuyNoCost": 0.23,
           "bestSellYesCost": 0.77,
-          "bestSellNoCost": 0.21,
+          "bestSellNoCost": 0.22,
           "lastClosePrice": 0.76,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9708,7 +9708,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9734,7 +9734,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9751,16 +9751,16 @@
           "name": "Will Trump be charged with a crime in Georgia by Sept. 1?",
           "shortName": "Georgia indicts Trump by Sept. 1?",
           "status": "Open",
-          "lastTradePrice": 0.14,
-          "bestBuyYesCost": 0.15,
-          "bestBuyNoCost": 0.87,
-          "bestSellYesCost": 0.13,
-          "bestSellNoCost": 0.85,
+          "lastTradePrice": 0.12,
+          "bestBuyYesCost": 0.12,
+          "bestBuyNoCost": 0.89,
+          "bestSellYesCost": 0.11,
+          "bestSellNoCost": 0.88,
           "lastClosePrice": 0.14,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9777,11 +9777,11 @@
           "name": "Andy Ogles",
           "shortName": "Ogles",
           "status": "Open",
-          "lastTradePrice": 0.45,
-          "bestBuyYesCost": 0.54,
+          "lastTradePrice": 0.53,
+          "bestBuyYesCost": 0.53,
           "bestBuyNoCost": 0.55,
           "bestSellYesCost": 0.45,
-          "bestSellNoCost": 0.46,
+          "bestSellNoCost": 0.47,
           "lastClosePrice": 0.43,
           "displayOrder": 0
         },
@@ -9792,10 +9792,10 @@
           "name": "Beth Harwell",
           "shortName": "Harwell",
           "status": "Open",
-          "lastTradePrice": 0.36,
+          "lastTradePrice": 0.35,
           "bestBuyYesCost": 0.35,
-          "bestBuyNoCost": 0.74,
-          "bestSellYesCost": 0.26,
+          "bestBuyNoCost": 0.72,
+          "bestSellYesCost": 0.28,
           "bestSellNoCost": 0.65,
           "lastClosePrice": 0.36,
           "displayOrder": 0
@@ -9807,11 +9807,11 @@
           "name": "Kurt Winstead",
           "shortName": "Winstead",
           "status": "Open",
-          "lastTradePrice": 0.22,
-          "bestBuyYesCost": 0.22,
-          "bestBuyNoCost": 0.82,
-          "bestSellYesCost": 0.18,
-          "bestSellNoCost": 0.78,
+          "lastTradePrice": 0.15,
+          "bestBuyYesCost": 0.21,
+          "bestBuyNoCost": 0.85,
+          "bestSellYesCost": 0.15,
+          "bestSellNoCost": 0.79,
           "lastClosePrice": 0.22,
           "displayOrder": 0
         },
@@ -9876,7 +9876,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9893,16 +9893,16 @@
           "name": "Will marijuana be rescheduled under the Controlled Substances Act in 2022?",
           "shortName": "Marijuana federally rescheduled in 2022?",
           "status": "Open",
-          "lastTradePrice": 0.07,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.93,
-          "bestSellYesCost": 0.07,
-          "bestSellNoCost": 0.92,
+          "lastTradePrice": 0.08,
+          "bestBuyYesCost": 0.09,
+          "bestBuyNoCost": 0.92,
+          "bestSellYesCost": 0.08,
+          "bestSellNoCost": 0.91,
           "lastClosePrice": 0.09,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9920,15 +9920,15 @@
           "shortName": "Republicans expel Cheney or Kinzinger?",
           "status": "Open",
           "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.03,
+          "bestBuyYesCost": 0.02,
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.97,
+          "bestSellNoCost": 0.98,
           "lastClosePrice": 0.02,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -9946,10 +9946,10 @@
           "shortName": "Rose",
           "status": "Open",
           "lastTradePrice": 0.95,
-          "bestBuyYesCost": 0.95,
-          "bestBuyNoCost": 0.10,
-          "bestSellYesCost": 0.90,
-          "bestSellNoCost": 0.05,
+          "bestBuyYesCost": 0.96,
+          "bestBuyNoCost": 0.06,
+          "bestSellYesCost": 0.94,
+          "bestSellNoCost": 0.04,
           "lastClosePrice": 0.96,
           "displayOrder": 0
         },
@@ -10014,7 +10014,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10100,7 +10100,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10141,7 +10141,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10197,7 +10197,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10223,7 +10223,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10249,7 +10249,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10267,15 +10267,15 @@
           "shortName": "Sweden or Finland apply to NATO in 2022?",
           "status": "Open",
           "lastTradePrice": 0.63,
-          "bestBuyYesCost": 0.63,
+          "bestBuyYesCost": 0.64,
           "bestBuyNoCost": 0.38,
           "bestSellYesCost": 0.62,
-          "bestSellNoCost": 0.37,
+          "bestSellNoCost": 0.36,
           "lastClosePrice": 0.64,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10301,7 +10301,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10334,15 +10334,15 @@
           "shortName": "Republican",
           "status": "Open",
           "lastTradePrice": 0.12,
-          "bestBuyYesCost": 0.12,
-          "bestBuyNoCost": 0.89,
-          "bestSellYesCost": 0.11,
-          "bestSellNoCost": 0.88,
+          "bestBuyYesCost": 0.13,
+          "bestBuyNoCost": 0.88,
+          "bestSellYesCost": 0.12,
+          "bestSellNoCost": 0.87,
           "lastClosePrice": 0.11,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10548,7 +10548,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10565,7 +10565,7 @@
           "name": "Will Donald Trump be indicted by Sept. 1?",
           "shortName": "Trump indicted by Sept. 1?",
           "status": "Open",
-          "lastTradePrice": 0.22,
+          "lastTradePrice": 0.23,
           "bestBuyYesCost": 0.23,
           "bestBuyNoCost": 0.79,
           "bestSellYesCost": 0.21,
@@ -10574,7 +10574,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10735,7 +10735,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10866,7 +10866,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -10884,10 +10884,10 @@
           "shortName": "Palin",
           "status": "Open",
           "lastTradePrice": 0.55,
-          "bestBuyYesCost": 0.55,
+          "bestBuyYesCost": 0.56,
           "bestBuyNoCost": 0.46,
           "bestSellYesCost": 0.54,
-          "bestSellNoCost": 0.45,
+          "bestSellNoCost": 0.44,
           "lastClosePrice": 0.54,
           "displayOrder": 0
         },
@@ -10898,7 +10898,7 @@
           "name": "Nick Begich III",
           "shortName": "Begich",
           "status": "Open",
-          "lastTradePrice": 0.42,
+          "lastTradePrice": 0.41,
           "bestBuyYesCost": 0.42,
           "bestBuyNoCost": 0.59,
           "bestSellYesCost": 0.41,
@@ -10913,7 +10913,7 @@
           "name": "Mary Peltola",
           "shortName": "Peltola",
           "status": "Open",
-          "lastTradePrice": 0.07,
+          "lastTradePrice": 0.05,
           "bestBuyYesCost": 0.06,
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
@@ -11042,7 +11042,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11068,7 +11068,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11139,7 +11139,7 @@
           "displayOrder": 3
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11225,7 +11225,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11281,7 +11281,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11442,7 +11442,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11603,7 +11603,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11629,7 +11629,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11715,7 +11715,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11741,7 +11741,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11782,7 +11782,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11808,7 +11808,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11834,7 +11834,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11920,7 +11920,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -11937,11 +11937,11 @@
           "name": "Mary Miller",
           "shortName": "Miller",
           "status": "Open",
-          "lastTradePrice": 0.53,
-          "bestBuyYesCost": 0.61,
+          "lastTradePrice": 0.62,
+          "bestBuyYesCost": 0.62,
           "bestBuyNoCost": 0.47,
           "bestSellYesCost": 0.53,
-          "bestSellNoCost": 0.39,
+          "bestSellNoCost": 0.38,
           "lastClosePrice": 0.63,
           "displayOrder": 0
         },
@@ -11961,7 +11961,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12002,7 +12002,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12043,7 +12043,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12204,7 +12204,7 @@
           "displayOrder": 15
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12350,7 +12350,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12458,10 +12458,10 @@
           "shortName": "Oz 601 to 750",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.02,
+          "bestBuyYesCost": 0.01,
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
-          "bestSellNoCost": 0.98,
+          "bestSellNoCost": 0.99,
           "lastClosePrice": 0.01,
           "displayOrder": 6
         },
@@ -12541,7 +12541,7 @@
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12702,7 +12702,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12734,16 +12734,16 @@
           "name": "Alessandra Biaggi",
           "shortName": "Biaggi",
           "status": "Open",
-          "lastTradePrice": 0.19,
-          "bestBuyYesCost": 0.19,
-          "bestBuyNoCost": 0.82,
-          "bestSellYesCost": 0.18,
-          "bestSellNoCost": 0.81,
+          "lastTradePrice": 0.18,
+          "bestBuyYesCost": 0.25,
+          "bestBuyNoCost": 0.83,
+          "bestSellYesCost": 0.17,
+          "bestSellNoCost": 0.75,
           "lastClosePrice": 0.21,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12844,7 +12844,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -12915,7 +12915,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13001,7 +13001,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13042,7 +13042,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13068,7 +13068,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13085,11 +13085,11 @@
           "name": "Chris West",
           "shortName": "West",
           "status": "Open",
-          "lastTradePrice": 0.96,
-          "bestBuyYesCost": 0.98,
-          "bestBuyNoCost": 0.04,
-          "bestSellYesCost": 0.96,
-          "bestSellNoCost": 0.02,
+          "lastTradePrice": 0.99,
+          "bestBuyYesCost": null,
+          "bestBuyNoCost": 0.01,
+          "bestSellYesCost": 0.99,
+          "bestSellNoCost": null,
           "lastClosePrice": 0.21,
           "displayOrder": 0
         },
@@ -13100,16 +13100,16 @@
           "name": "Jeremy Hunt",
           "shortName": "Hunt",
           "status": "Open",
-          "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.04,
-          "bestBuyNoCost": 0.98,
-          "bestSellYesCost": 0.02,
-          "bestSellNoCost": 0.96,
+          "lastTradePrice": 0.01,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.98,
           "lastClosePrice": 0.81,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13127,10 +13127,10 @@
           "shortName": "Kiley",
           "status": "Open",
           "lastTradePrice": 0.92,
-          "bestBuyYesCost": 0.92,
-          "bestBuyNoCost": 0.13,
-          "bestSellYesCost": 0.87,
-          "bestSellNoCost": 0.08,
+          "bestBuyYesCost": 0.91,
+          "bestBuyNoCost": 0.11,
+          "bestSellYesCost": 0.89,
+          "bestSellNoCost": 0.09,
           "lastClosePrice": 0.30,
           "displayOrder": 0
         },
@@ -13141,11 +13141,11 @@
           "name": "Kermit Jones",
           "shortName": "K. Jones",
           "status": "Open",
-          "lastTradePrice": 0.10,
-          "bestBuyYesCost": 0.14,
-          "bestBuyNoCost": 0.93,
-          "bestSellYesCost": 0.07,
-          "bestSellNoCost": 0.86,
+          "lastTradePrice": 0.11,
+          "bestBuyYesCost": 0.11,
+          "bestBuyNoCost": 0.91,
+          "bestSellYesCost": 0.09,
+          "bestSellNoCost": 0.89,
           "lastClosePrice": 0.70,
           "displayOrder": 0
         },
@@ -13165,7 +13165,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13257,11 +13257,11 @@
           "name": "5",
           "shortName": "5",
           "status": "Open",
-          "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.10,
-          "bestBuyNoCost": 0.95,
-          "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.90,
+          "lastTradePrice": 0.10,
+          "bestBuyYesCost": 0.11,
+          "bestBuyNoCost": 0.91,
+          "bestSellYesCost": 0.09,
+          "bestSellNoCost": 0.89,
           "lastClosePrice": 0.63,
           "displayOrder": 5
         },
@@ -13272,11 +13272,11 @@
           "name": "6",
           "shortName": "6",
           "status": "Open",
-          "lastTradePrice": 0.94,
-          "bestBuyYesCost": 0.95,
-          "bestBuyNoCost": 0.11,
-          "bestSellYesCost": 0.89,
-          "bestSellNoCost": 0.05,
+          "lastTradePrice": 0.89,
+          "bestBuyYesCost": 0.90,
+          "bestBuyNoCost": 0.16,
+          "bestSellYesCost": 0.84,
+          "bestSellNoCost": 0.10,
           "lastClosePrice": 0.29,
           "displayOrder": 6
         },
@@ -13326,7 +13326,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13463,7 +13463,7 @@
           "name": "Bass 6% - 8%",
           "shortName": "Bass 6% - 8%",
           "status": "Open",
-          "lastTradePrice": 0.99,
+          "lastTradePrice": 0.97,
           "bestBuyYesCost": 0.99,
           "bestBuyNoCost": 0.03,
           "bestSellYesCost": 0.97,
@@ -13487,7 +13487,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13558,7 +13558,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13591,10 +13591,10 @@
           "shortName": "Archila",
           "status": "Open",
           "lastTradePrice": 0.13,
-          "bestBuyYesCost": 0.18,
+          "bestBuyYesCost": 0.19,
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
-          "bestSellNoCost": 0.82,
+          "bestSellNoCost": 0.81,
           "lastClosePrice": 0.18,
           "displayOrder": 0
         },
@@ -13614,7 +13614,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13655,7 +13655,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13696,7 +13696,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13759,10 +13759,10 @@
           "shortName": "71",
           "status": "Open",
           "lastTradePrice": 0.47,
-          "bestBuyYesCost": 0.70,
+          "bestBuyYesCost": 0.71,
           "bestBuyNoCost": 0.61,
           "bestSellYesCost": 0.39,
-          "bestSellNoCost": 0.30,
+          "bestSellNoCost": 0.29,
           "lastClosePrice": 0.60,
           "displayOrder": 3
         },
@@ -13773,11 +13773,11 @@
           "name": "72",
           "shortName": "72",
           "status": "Open",
-          "lastTradePrice": 0.55,
-          "bestBuyYesCost": 0.64,
-          "bestBuyNoCost": 0.60,
-          "bestSellYesCost": 0.40,
-          "bestSellNoCost": 0.36,
+          "lastTradePrice": 0.40,
+          "bestBuyYesCost": 0.55,
+          "bestBuyNoCost": 0.93,
+          "bestSellYesCost": 0.07,
+          "bestSellNoCost": 0.45,
           "lastClosePrice": 0.23,
           "displayOrder": 4
         },
@@ -13788,11 +13788,11 @@
           "name": "73",
           "shortName": "73",
           "status": "Open",
-          "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.06,
-          "bestBuyNoCost": 0.96,
-          "bestSellYesCost": 0.04,
-          "bestSellNoCost": 0.94,
+          "lastTradePrice": 0.07,
+          "bestBuyYesCost": 0.10,
+          "bestBuyNoCost": 0.95,
+          "bestSellYesCost": 0.05,
+          "bestSellNoCost": 0.90,
           "lastClosePrice": 0.06,
           "displayOrder": 5
         },
@@ -13804,10 +13804,10 @@
           "shortName": "74",
           "status": "Open",
           "lastTradePrice": 0.05,
-          "bestBuyYesCost": 0.04,
+          "bestBuyYesCost": 0.05,
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
-          "bestSellNoCost": 0.96,
+          "bestSellNoCost": 0.95,
           "lastClosePrice": 0.02,
           "displayOrder": 6
         },
@@ -13819,10 +13819,10 @@
           "shortName": "75",
           "status": "Open",
           "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.02,
+          "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
+          "bestSellNoCost": 0.97,
           "lastClosePrice": 0.01,
           "displayOrder": 7
         },
@@ -13834,10 +13834,10 @@
           "shortName": "76",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.01,
-          "bestBuyNoCost": null,
-          "bestSellYesCost": null,
-          "bestSellNoCost": 0.99,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": 0.99,
+          "bestSellYesCost": 0.01,
+          "bestSellNoCost": 0.98,
           "lastClosePrice": 0.01,
           "displayOrder": 8
         },
@@ -13857,7 +13857,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13883,7 +13883,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13939,7 +13939,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -13980,7 +13980,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14044,8 +14044,8 @@
           "status": "Open",
           "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.03,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
+          "bestBuyNoCost": 0.98,
+          "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
           "lastClosePrice": 0.56,
           "displayOrder": 3
@@ -14141,7 +14141,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14302,7 +14302,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14343,7 +14343,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14420,11 +14420,11 @@
           "name": "6% to 7.5%",
           "shortName": "6% to 7.5%",
           "status": "Open",
-          "lastTradePrice": 0.16,
-          "bestBuyYesCost": 0.23,
-          "bestBuyNoCost": 0.84,
-          "bestSellYesCost": 0.16,
-          "bestSellNoCost": 0.77,
+          "lastTradePrice": 0.02,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": 0.99,
+          "bestSellYesCost": 0.01,
+          "bestSellNoCost": 0.98,
           "lastClosePrice": 0.21,
           "displayOrder": 4
         },
@@ -14435,11 +14435,11 @@
           "name": "7.5% to 9%",
           "shortName": "7.5% to 9%",
           "status": "Open",
-          "lastTradePrice": 0.82,
-          "bestBuyYesCost": 0.84,
-          "bestBuyNoCost": 0.18,
-          "bestSellYesCost": 0.82,
-          "bestSellNoCost": 0.16,
+          "lastTradePrice": 0.98,
+          "bestBuyYesCost": 0.99,
+          "bestBuyNoCost": 0.03,
+          "bestSellYesCost": 0.97,
+          "bestSellNoCost": 0.01,
           "lastClosePrice": 0.80,
           "displayOrder": 5
         },
@@ -14504,7 +14504,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14521,11 +14521,11 @@
           "name": "59 or fewer",
           "shortName": "59 or fewer",
           "status": "Open",
-          "lastTradePrice": 0.14,
-          "bestBuyYesCost": 0.15,
-          "bestBuyNoCost": 0.86,
-          "bestSellYesCost": 0.14,
-          "bestSellNoCost": 0.85,
+          "lastTradePrice": 0.15,
+          "bestBuyYesCost": 0.14,
+          "bestBuyNoCost": 0.87,
+          "bestSellYesCost": 0.13,
+          "bestSellNoCost": 0.86,
           "lastClosePrice": 0.69,
           "displayOrder": 0
         },
@@ -14536,7 +14536,7 @@
           "name": "60",
           "shortName": "60",
           "status": "Open",
-          "lastTradePrice": 0.01,
+          "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.01,
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
@@ -14551,11 +14551,11 @@
           "name": "61",
           "shortName": "61",
           "status": "Open",
-          "lastTradePrice": 0.07,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.93,
-          "bestSellYesCost": 0.07,
-          "bestSellNoCost": 0.92,
+          "lastTradePrice": 0.10,
+          "bestBuyYesCost": 0.09,
+          "bestBuyNoCost": 0.95,
+          "bestSellYesCost": 0.05,
+          "bestSellNoCost": 0.91,
           "lastClosePrice": 0.03,
           "displayOrder": 0
         },
@@ -14566,11 +14566,11 @@
           "name": "62",
           "shortName": "62",
           "status": "Open",
-          "lastTradePrice": 0.08,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.94,
-          "bestSellYesCost": 0.06,
-          "bestSellNoCost": 0.92,
+          "lastTradePrice": 0.06,
+          "bestBuyYesCost": 0.07,
+          "bestBuyNoCost": 0.95,
+          "bestSellYesCost": 0.05,
+          "bestSellNoCost": 0.93,
           "lastClosePrice": 0.05,
           "displayOrder": 0
         },
@@ -14581,11 +14581,11 @@
           "name": "63",
           "shortName": "63",
           "status": "Open",
-          "lastTradePrice": 0.22,
-          "bestBuyYesCost": 0.17,
-          "bestBuyNoCost": 0.90,
-          "bestSellYesCost": 0.10,
-          "bestSellNoCost": 0.83,
+          "lastTradePrice": 0.16,
+          "bestBuyYesCost": 0.15,
+          "bestBuyNoCost": 0.86,
+          "bestSellYesCost": 0.14,
+          "bestSellNoCost": 0.85,
           "lastClosePrice": 0.06,
           "displayOrder": 0
         },
@@ -14596,11 +14596,11 @@
           "name": "64",
           "shortName": "64",
           "status": "Open",
-          "lastTradePrice": 0.29,
-          "bestBuyYesCost": 0.28,
-          "bestBuyNoCost": 0.74,
-          "bestSellYesCost": 0.26,
-          "bestSellNoCost": 0.72,
+          "lastTradePrice": 0.25,
+          "bestBuyYesCost": 0.25,
+          "bestBuyNoCost": 0.78,
+          "bestSellYesCost": 0.22,
+          "bestSellNoCost": 0.75,
           "lastClosePrice": 0.07,
           "displayOrder": 0
         },
@@ -14611,11 +14611,11 @@
           "name": "65",
           "shortName": "65",
           "status": "Open",
-          "lastTradePrice": 0.24,
-          "bestBuyYesCost": 0.24,
-          "bestBuyNoCost": 0.79,
-          "bestSellYesCost": 0.21,
-          "bestSellNoCost": 0.76,
+          "lastTradePrice": 0.32,
+          "bestBuyYesCost": 0.31,
+          "bestBuyNoCost": 0.72,
+          "bestSellYesCost": 0.28,
+          "bestSellNoCost": 0.69,
           "lastClosePrice": 0.06,
           "displayOrder": 0
         },
@@ -14626,11 +14626,11 @@
           "name": "66",
           "shortName": "66",
           "status": "Open",
-          "lastTradePrice": 0.19,
-          "bestBuyYesCost": 0.17,
-          "bestBuyNoCost": 0.86,
-          "bestSellYesCost": 0.14,
-          "bestSellNoCost": 0.83,
+          "lastTradePrice": 0.12,
+          "bestBuyYesCost": 0.14,
+          "bestBuyNoCost": 0.88,
+          "bestSellYesCost": 0.12,
+          "bestSellNoCost": 0.86,
           "lastClosePrice": 0.04,
           "displayOrder": 0
         },
@@ -14642,10 +14642,10 @@
           "shortName": "67",
           "status": "Open",
           "lastTradePrice": 0.06,
-          "bestBuyYesCost": 0.07,
+          "bestBuyYesCost": 0.06,
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.93,
+          "bestSellNoCost": 0.94,
           "lastClosePrice": 0.04,
           "displayOrder": 0
         },
@@ -14657,10 +14657,10 @@
           "shortName": "68",
           "status": "Open",
           "lastTradePrice": 0.03,
-          "bestBuyYesCost": 0.04,
+          "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
-          "bestSellNoCost": 0.96,
+          "bestSellNoCost": 0.97,
           "lastClosePrice": 0.01,
           "displayOrder": 0
         },
@@ -14680,7 +14680,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14736,7 +14736,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14754,10 +14754,10 @@
           "shortName": "Reising",
           "status": "Open",
           "lastTradePrice": 0.79,
-          "bestBuyYesCost": 0.74,
+          "bestBuyYesCost": 0.70,
           "bestBuyNoCost": 0.61,
           "bestSellYesCost": 0.39,
-          "bestSellNoCost": 0.26,
+          "bestSellNoCost": 0.30,
           "lastClosePrice": 0.70,
           "displayOrder": 0
         },
@@ -14769,10 +14769,10 @@
           "shortName": "Deering",
           "status": "Open",
           "lastTradePrice": 0.47,
-          "bestBuyYesCost": 0.59,
+          "bestBuyYesCost": 0.55,
           "bestBuyNoCost": 0.53,
           "bestSellYesCost": 0.47,
-          "bestSellNoCost": 0.41,
+          "bestSellNoCost": 0.45,
           "lastClosePrice": 0.60,
           "displayOrder": 0
         },
@@ -14784,10 +14784,10 @@
           "shortName": "Hausman",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.15,
+          "bestBuyYesCost": 0.14,
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.85,
+          "bestSellNoCost": 0.86,
           "lastClosePrice": 0.01,
           "displayOrder": 0
         },
@@ -14799,15 +14799,15 @@
           "shortName": "Martin",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.18,
+          "bestBuyYesCost": 0.17,
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.82,
+          "bestSellNoCost": 0.83,
           "lastClosePrice": 0.02,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14824,10 +14824,10 @@
           "name": "Erik Aadland",
           "shortName": "Aadland",
           "status": "Open",
-          "lastTradePrice": 0.57,
+          "lastTradePrice": 0.59,
           "bestBuyYesCost": 0.59,
-          "bestBuyNoCost": 0.43,
-          "bestSellYesCost": 0.57,
+          "bestBuyNoCost": 0.75,
+          "bestSellYesCost": 0.25,
           "bestSellNoCost": 0.41,
           "lastClosePrice": 0.31,
           "displayOrder": 0
@@ -14863,7 +14863,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14897,8 +14897,8 @@
           "status": "Open",
           "lastTradePrice": 0.01,
           "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": null,
-          "bestSellYesCost": null,
+          "bestBuyNoCost": 0.99,
+          "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
           "lastClosePrice": 0.12,
           "displayOrder": 0
@@ -14934,7 +14934,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -14975,7 +14975,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15016,7 +15016,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15153,10 +15153,10 @@
           "name": "Petro by 3% - 4%",
           "shortName": "Petro, 3% - 4%",
           "status": "Open",
-          "lastTradePrice": 0.99,
+          "lastTradePrice": 0.98,
           "bestBuyYesCost": 0.99,
-          "bestBuyNoCost": 0.02,
-          "bestSellYesCost": 0.98,
+          "bestBuyNoCost": 0.03,
+          "bestSellYesCost": 0.97,
           "bestSellNoCost": 0.01,
           "lastClosePrice": 0.98,
           "displayOrder": 9
@@ -15177,7 +15177,7 @@
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15211,8 +15211,8 @@
           "status": "Open",
           "lastTradePrice": 0.08,
           "bestBuyYesCost": 0.09,
-          "bestBuyNoCost": 0.93,
-          "bestSellYesCost": 0.07,
+          "bestBuyNoCost": 0.92,
+          "bestSellYesCost": 0.08,
           "bestSellNoCost": 0.91,
           "lastClosePrice": 0.06,
           "displayOrder": 0
@@ -15224,10 +15224,10 @@
           "name": "39.2% to 39.4%",
           "shortName": "39.2% to 39.4%",
           "status": "Open",
-          "lastTradePrice": 0.40,
+          "lastTradePrice": 0.32,
           "bestBuyYesCost": 0.38,
-          "bestBuyNoCost": 0.67,
-          "bestSellYesCost": 0.33,
+          "bestBuyNoCost": 0.66,
+          "bestSellYesCost": 0.34,
           "bestSellNoCost": 0.62,
           "lastClosePrice": 0.22,
           "displayOrder": 0
@@ -15239,10 +15239,10 @@
           "name": "39.5% to 39.7%",
           "shortName": "39.5% to 39.7%",
           "status": "Open",
-          "lastTradePrice": 0.39,
+          "lastTradePrice": 0.36,
           "bestBuyYesCost": 0.40,
-          "bestBuyNoCost": 0.64,
-          "bestSellYesCost": 0.36,
+          "bestBuyNoCost": 0.63,
+          "bestSellYesCost": 0.37,
           "bestSellNoCost": 0.60,
           "lastClosePrice": 0.33,
           "displayOrder": 0
@@ -15254,11 +15254,11 @@
           "name": "39.8% to 40.0%",
           "shortName": "39.8% to 40.0%",
           "status": "Open",
-          "lastTradePrice": 0.14,
-          "bestBuyYesCost": 0.18,
+          "lastTradePrice": 0.17,
+          "bestBuyYesCost": 0.14,
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
-          "bestSellNoCost": 0.82,
+          "bestSellNoCost": 0.86,
           "lastClosePrice": 0.33,
           "displayOrder": 0
         },
@@ -15269,7 +15269,7 @@
           "name": "40.1% to 40.3%",
           "shortName": "40.1% to 40.3%",
           "status": "Open",
-          "lastTradePrice": 0.01,
+          "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.02,
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
@@ -15323,7 +15323,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15340,11 +15340,11 @@
           "name": "≤ GOP 2.1%",
           "shortName": "≤ GOP 2.1%",
           "status": "Open",
-          "lastTradePrice": 0.26,
-          "bestBuyYesCost": 0.26,
-          "bestBuyNoCost": 0.80,
-          "bestSellYesCost": 0.20,
-          "bestSellNoCost": 0.74,
+          "lastTradePrice": 0.17,
+          "bestBuyYesCost": 0.24,
+          "bestBuyNoCost": 0.83,
+          "bestSellYesCost": 0.17,
+          "bestSellNoCost": 0.76,
           "lastClosePrice": 0.06,
           "displayOrder": 0
         },
@@ -15355,7 +15355,7 @@
           "name": "GOP 2.2%",
           "shortName": "GOP 2.2%",
           "status": "Open",
-          "lastTradePrice": 0.37,
+          "lastTradePrice": 0.39,
           "bestBuyYesCost": 0.39,
           "bestBuyNoCost": 0.63,
           "bestSellYesCost": 0.37,
@@ -15370,11 +15370,11 @@
           "name": "GOP 2.3%",
           "shortName": "GOP 2.3%",
           "status": "Open",
-          "lastTradePrice": 0.23,
-          "bestBuyYesCost": 0.34,
-          "bestBuyNoCost": 0.77,
-          "bestSellYesCost": 0.23,
-          "bestSellNoCost": 0.66,
+          "lastTradePrice": 0.31,
+          "bestBuyYesCost": 0.30,
+          "bestBuyNoCost": 0.73,
+          "bestSellYesCost": 0.27,
+          "bestSellNoCost": 0.70,
           "lastClosePrice": 0.30,
           "displayOrder": 2
         },
@@ -15386,10 +15386,10 @@
           "shortName": "GOP 2.4%",
           "status": "Open",
           "lastTradePrice": 0.16,
-          "bestBuyYesCost": 0.21,
-          "bestBuyNoCost": 0.89,
-          "bestSellYesCost": 0.11,
-          "bestSellNoCost": 0.79,
+          "bestBuyYesCost": 0.17,
+          "bestBuyNoCost": 0.84,
+          "bestSellYesCost": 0.16,
+          "bestSellNoCost": 0.83,
           "lastClosePrice": 0.28,
           "displayOrder": 3
         },
@@ -15400,11 +15400,11 @@
           "name": "GOP 2.5%",
           "shortName": "GOP 2.5%",
           "status": "Open",
-          "lastTradePrice": 0.05,
-          "bestBuyYesCost": 0.06,
-          "bestBuyNoCost": 0.95,
-          "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.94,
+          "lastTradePrice": 0.03,
+          "bestBuyYesCost": 0.05,
+          "bestBuyNoCost": 0.96,
+          "bestSellYesCost": 0.04,
+          "bestSellNoCost": 0.95,
           "lastClosePrice": 0.17,
           "displayOrder": 4
         },
@@ -15415,7 +15415,7 @@
           "name": "GOP 2.6%",
           "shortName": "GOP 2.6%",
           "status": "Open",
-          "lastTradePrice": 0.03,
+          "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
@@ -15431,10 +15431,10 @@
           "shortName": "GOP 2.7%",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
+          "bestBuyYesCost": 0.01,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.99,
           "lastClosePrice": 0.05,
           "displayOrder": 6
         },
@@ -15469,7 +15469,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15562,10 +15562,10 @@
           "shortName": "18% to 19.5%",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
+          "bestBuyYesCost": 0.01,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.99,
           "lastClosePrice": 0.08,
           "displayOrder": 5
         },
@@ -15577,10 +15577,10 @@
           "shortName": "19.5% to 21%",
           "status": "Open",
           "lastTradePrice": 0.01,
-          "bestBuyYesCost": 0.02,
+          "bestBuyYesCost": 0.01,
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
-          "bestSellNoCost": 0.98,
+          "bestSellNoCost": 0.99,
           "lastClosePrice": 0.12,
           "displayOrder": 6
         },
@@ -15591,11 +15591,11 @@
           "name": "21% to 22.5%",
           "shortName": "21% to 22.5%",
           "status": "Open",
-          "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
+          "lastTradePrice": 0.01,
+          "bestBuyYesCost": 0.01,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.99,
           "lastClosePrice": 0.10,
           "displayOrder": 7
         },
@@ -15606,11 +15606,11 @@
           "name": "22.5% to 24%",
           "shortName": "22.5% to 24%",
           "status": "Open",
-          "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.96,
-          "bestSellYesCost": 0.04,
-          "bestSellNoCost": 0.92,
+          "lastTradePrice": 0.01,
+          "bestBuyYesCost": 0.03,
+          "bestBuyNoCost": null,
+          "bestSellYesCost": null,
+          "bestSellNoCost": 0.97,
           "lastClosePrice": 0.08,
           "displayOrder": 8
         },
@@ -15621,11 +15621,11 @@
           "name": "24% to 25.5%",
           "shortName": "24% to 25.5%",
           "status": "Open",
-          "lastTradePrice": 0.05,
-          "bestBuyYesCost": 0.08,
-          "bestBuyNoCost": 0.95,
-          "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.92,
+          "lastTradePrice": 0.03,
+          "bestBuyYesCost": 0.03,
+          "bestBuyNoCost": 0.98,
+          "bestSellYesCost": 0.02,
+          "bestSellNoCost": 0.97,
           "lastClosePrice": 0.07,
           "displayOrder": 9
         },
@@ -15636,11 +15636,11 @@
           "name": "25.5% to 27%",
           "shortName": "25.5% to 27%",
           "status": "Open",
-          "lastTradePrice": 0.29,
-          "bestBuyYesCost": 0.20,
-          "bestBuyNoCost": 0.91,
-          "bestSellYesCost": 0.09,
-          "bestSellNoCost": 0.80,
+          "lastTradePrice": 0.10,
+          "bestBuyYesCost": 0.15,
+          "bestBuyNoCost": 0.90,
+          "bestSellYesCost": 0.10,
+          "bestSellNoCost": 0.85,
           "lastClosePrice": 0.07,
           "displayOrder": 10
         },
@@ -15651,16 +15651,16 @@
           "name": "≥ 27%",
           "shortName": "≥ 27%",
           "status": "Open",
-          "lastTradePrice": 0.72,
-          "bestBuyYesCost": 0.72,
-          "bestBuyNoCost": 0.31,
-          "bestSellYesCost": 0.69,
-          "bestSellNoCost": 0.28,
+          "lastTradePrice": 0.78,
+          "bestBuyYesCost": 0.78,
+          "bestBuyNoCost": 0.24,
+          "bestSellYesCost": 0.76,
+          "bestSellNoCost": 0.22,
           "lastClosePrice": 0.34,
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15746,7 +15746,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15892,7 +15892,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15924,7 +15924,7 @@
           "name": "Gilbert Villegas",
           "shortName": "Villegas",
           "status": "Open",
-          "lastTradePrice": 0.20,
+          "lastTradePrice": 0.39,
           "bestBuyYesCost": 0.39,
           "bestBuyNoCost": 0.80,
           "bestSellYesCost": 0.20,
@@ -15948,7 +15948,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     },
     {
@@ -15966,10 +15966,10 @@
           "shortName": "Davis",
           "status": "Open",
           "lastTradePrice": 0.80,
-          "bestBuyYesCost": 0.80,
+          "bestBuyYesCost": 0.95,
           "bestBuyNoCost": 0.40,
           "bestSellYesCost": 0.60,
-          "bestSellNoCost": 0.20,
+          "bestSellNoCost": 0.05,
           "lastClosePrice": null,
           "displayOrder": 0
         },
@@ -15980,16 +15980,16 @@
           "name": "Kina Collins",
           "shortName": "Collins",
           "status": "Open",
-          "lastTradePrice": 0.21,
-          "bestBuyYesCost": 0.47,
-          "bestBuyNoCost": 0.79,
-          "bestSellYesCost": 0.21,
-          "bestSellNoCost": 0.53,
+          "lastTradePrice": 0.20,
+          "bestBuyYesCost": 0.46,
+          "bestBuyNoCost": 0.89,
+          "bestSellYesCost": 0.11,
+          "bestSellNoCost": 0.54,
           "lastClosePrice": null,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-06-21T21:10:12.1028594",
+      "timeStamp": "2022-06-21T21:50:28.5941414",
       "status": "Open"
     }
   ]
