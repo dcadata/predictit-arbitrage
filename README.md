@@ -11,6 +11,6 @@ Information published in this repository is for information purposes only. It do
 ## Summary
 
 Opportunities with minimum profit cutoff >= 0  
-Since 3/29/21 - 473 days: $14,093.0  
-Monthly: $893.85  
-Annual: $10,875.15
+Since 3/29/21 - 473 days: $14,093.85  
+Monthly: $893.9  
+Annual: $10,875.8
