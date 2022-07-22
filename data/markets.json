@@ -68,7 +68,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -109,7 +109,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -150,7 +150,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -176,7 +176,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -202,7 +202,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -228,7 +228,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -254,7 +254,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -280,7 +280,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -321,7 +321,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -362,7 +362,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -403,7 +403,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -534,21 +534,6 @@
           "displayOrder": 0
         },
         {
-          "id": 24786,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_851a6d14-5083-4680-91f6-419ec2d02a14.jpg",
-          "name": "Tucker Carlson",
-          "shortName": "Carlson",
-          "status": "Open",
-          "lastTradePrice": 0.03,
-          "bestBuyYesCost": 0.03,
-          "bestBuyNoCost": 0.98,
-          "bestSellYesCost": 0.02,
-          "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.02,
-          "displayOrder": 0
-        },
-        {
           "id": 24793,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_958885c8-c04c-4ad3-b64e-fe33e9af83cc.jpg",
@@ -579,6 +564,21 @@
           "displayOrder": 0
         },
         {
+          "id": 24786,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_851a6d14-5083-4680-91f6-419ec2d02a14.jpg",
+          "name": "Tucker Carlson",
+          "shortName": "Carlson",
+          "status": "Open",
+          "lastTradePrice": 0.02,
+          "bestBuyYesCost": 0.03,
+          "bestBuyNoCost": 0.98,
+          "bestSellYesCost": 0.02,
+          "bestSellNoCost": 0.97,
+          "lastClosePrice": 0.02,
+          "displayOrder": 0
+        },
+        {
           "id": 24788,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_9fbc3103-49b8-4f93-a1ce-79ff5fe31957.jpg",
@@ -590,21 +590,6 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.02,
-          "displayOrder": 0
-        },
-        {
-          "id": 24792,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_683be142-e62f-4597-bc39-00fb2e2cb373.jpg",
-          "name": "Josh Hawley",
-          "shortName": "Hawley",
-          "status": "Open",
-          "lastTradePrice": 0.02,
-          "bestBuyYesCost": 0.02,
-          "bestBuyNoCost": 0.99,
-          "bestSellYesCost": 0.01,
-          "bestSellNoCost": 0.98,
           "lastClosePrice": 0.02,
           "displayOrder": 0
         },
@@ -639,6 +624,21 @@
           "displayOrder": 0
         },
         {
+          "id": 24792,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_683be142-e62f-4597-bc39-00fb2e2cb373.jpg",
+          "name": "Josh Hawley",
+          "shortName": "Hawley",
+          "status": "Open",
+          "lastTradePrice": 0.01,
+          "bestBuyYesCost": 0.02,
+          "bestBuyNoCost": 0.99,
+          "bestSellYesCost": 0.01,
+          "bestSellNoCost": 0.98,
+          "lastClosePrice": 0.02,
+          "displayOrder": 0
+        },
+        {
           "id": 24794,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_e3ff1357-c8f6-4498-a5d6-12580eca75b7.jpg",
@@ -669,7 +669,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -740,6 +740,21 @@
           "displayOrder": 0
         },
         {
+          "id": 31067,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_4d57e9a8-9b8f-4b3b-ae34-807f40b11759.png",
+          "name": "JB Pritzker",
+          "shortName": "Pritzker",
+          "status": "Open",
+          "lastTradePrice": 0.09,
+          "bestBuyYesCost": 0.09,
+          "bestBuyNoCost": 0.94,
+          "bestSellYesCost": 0.06,
+          "bestSellNoCost": 0.91,
+          "lastClosePrice": null,
+          "displayOrder": 0
+        },
+        {
           "id": 24810,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_b5d5cb16-9f8a-4cf0-a428-c84fda98a31d.jpg",
@@ -752,21 +767,6 @@
           "bestSellYesCost": 0.08,
           "bestSellNoCost": 0.91,
           "lastClosePrice": 0.08,
-          "displayOrder": 0
-        },
-        {
-          "id": 31067,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_4d57e9a8-9b8f-4b3b-ae34-807f40b11759.png",
-          "name": "JB Pritzker",
-          "shortName": "Pritzker",
-          "status": "Open",
-          "lastTradePrice": 0.08,
-          "bestBuyYesCost": 0.09,
-          "bestBuyNoCost": 0.94,
-          "bestSellYesCost": 0.06,
-          "bestSellNoCost": 0.91,
-          "lastClosePrice": null,
           "displayOrder": 0
         },
         {
@@ -860,7 +860,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -901,7 +901,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -927,7 +927,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -968,7 +968,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1009,7 +1009,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1170,7 +1170,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1196,7 +1196,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1237,7 +1237,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1278,7 +1278,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1319,7 +1319,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1345,7 +1345,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1461,7 +1461,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1652,7 +1652,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1723,7 +1723,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1779,7 +1779,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1910,7 +1910,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -1996,7 +1996,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2037,7 +2037,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2168,7 +2168,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2209,7 +2209,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2235,7 +2235,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2261,7 +2261,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2347,7 +2347,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2538,7 +2538,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2669,7 +2669,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -2845,7 +2845,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3066,7 +3066,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3092,7 +3092,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3118,7 +3118,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3174,7 +3174,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3425,7 +3425,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3451,7 +3451,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3627,7 +3627,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3668,7 +3668,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3709,7 +3709,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3750,7 +3750,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3791,7 +3791,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3832,7 +3832,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3873,7 +3873,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3914,7 +3914,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3955,7 +3955,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -3996,7 +3996,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4202,7 +4202,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4228,7 +4228,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4299,6 +4299,21 @@
           "displayOrder": 0
         },
         {
+          "id": 31066,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_a898b196-9a0f-454e-99fe-36e21c62f343.jpg",
+          "name": "Gavin Newsom",
+          "shortName": "Gavin Newsom",
+          "status": "Open",
+          "lastTradePrice": 0.09,
+          "bestBuyYesCost": 0.1,
+          "bestBuyNoCost": 0.91,
+          "bestSellYesCost": 0.09,
+          "bestSellNoCost": 0.9,
+          "lastClosePrice": null,
+          "displayOrder": 0
+        },
+        {
           "id": 28624,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_87412471-a5b6-4b74-bcc4-685106982248.jpg",
@@ -4312,24 +4327,9 @@
           "bestSellNoCost": 0.93,
           "lastClosePrice": 0.07,
           "displayOrder": 0
-        },
-        {
-          "id": 31066,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_a898b196-9a0f-454e-99fe-36e21c62f343.jpg",
-          "name": "Gavin Newsom",
-          "shortName": "Gavin Newsom",
-          "status": "Open",
-          "lastTradePrice": 0.0,
-          "bestBuyYesCost": 0.09,
-          "bestBuyNoCost": 0.97,
-          "bestSellYesCost": 0.03,
-          "bestSellNoCost": 0.91,
-          "lastClosePrice": null,
-          "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4355,7 +4355,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4516,7 +4516,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4548,7 +4548,7 @@
           "name": "Joe Biden",
           "shortName": "Biden",
           "status": "Open",
-          "lastTradePrice": 0.04,
+          "lastTradePrice": 0.05,
           "bestBuyYesCost": 0.05,
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
@@ -4677,7 +4677,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4883,7 +4883,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -4984,7 +4984,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5040,7 +5040,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5156,7 +5156,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5287,7 +5287,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5328,7 +5328,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5429,7 +5429,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5545,7 +5545,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5586,7 +5586,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5762,7 +5762,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -5848,7 +5848,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6024,7 +6024,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6080,7 +6080,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6121,7 +6121,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6267,7 +6267,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6323,7 +6323,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6379,7 +6379,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6405,7 +6405,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6431,7 +6431,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6607,7 +6607,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6813,7 +6813,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -6974,7 +6974,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7150,7 +7150,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7176,7 +7176,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7217,7 +7217,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7258,7 +7258,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7464,7 +7464,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7625,7 +7625,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7681,7 +7681,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7797,7 +7797,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7823,7 +7823,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7849,7 +7849,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7875,7 +7875,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7901,7 +7901,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7942,7 +7942,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -7968,7 +7968,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8084,7 +8084,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8110,7 +8110,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8136,7 +8136,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8222,7 +8222,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8263,7 +8263,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8319,7 +8319,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8345,7 +8345,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8371,7 +8371,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8412,7 +8412,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8618,7 +8618,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8644,7 +8644,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8805,7 +8805,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -8936,7 +8936,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9112,7 +9112,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9138,7 +9138,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9209,7 +9209,7 @@
           "displayOrder": 3
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9295,7 +9295,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9351,7 +9351,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9437,7 +9437,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9463,7 +9463,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9489,7 +9489,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9575,7 +9575,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9616,7 +9616,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9657,7 +9657,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -9848,7 +9848,7 @@
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10024,7 +10024,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10065,7 +10065,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10136,7 +10136,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10222,7 +10222,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10263,7 +10263,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10319,7 +10319,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10480,7 +10480,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10506,7 +10506,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10539,10 +10539,10 @@
           "shortName": "Sunak",
           "status": "Open",
           "lastTradePrice": 0.29,
-          "bestBuyYesCost": 0.3,
-          "bestBuyNoCost": 0.71,
-          "bestSellYesCost": 0.29,
-          "bestSellNoCost": 0.7,
+          "bestBuyYesCost": 0.29,
+          "bestBuyNoCost": 0.72,
+          "bestSellYesCost": 0.28,
+          "bestSellNoCost": 0.71,
           "lastClosePrice": 0.29,
           "displayOrder": 0
         },
@@ -10592,7 +10592,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10633,7 +10633,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10779,7 +10779,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10940,7 +10940,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10966,7 +10966,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -10992,7 +10992,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11033,7 +11033,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11119,7 +11119,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11190,7 +11190,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11222,16 +11222,16 @@
           "name": "Steve Roberts",
           "shortName": "Roberts",
           "status": "Open",
-          "lastTradePrice": 0.0,
-          "bestBuyYesCost": 0.07,
-          "bestBuyNoCost": 0.98,
-          "bestSellYesCost": 0.02,
-          "bestSellNoCost": 0.93,
+          "lastTradePrice": 0.08,
+          "bestBuyYesCost": 0.09,
+          "bestBuyNoCost": 0.92,
+          "bestSellYesCost": 0.08,
+          "bestSellNoCost": 0.91,
           "lastClosePrice": null,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11287,7 +11287,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11433,7 +11433,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     },
     {
@@ -11579,7 +11579,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-22T10:28:31.4359576",
+      "timeStamp": "2022-07-22T10:29:31.6071055",
       "status": "Open"
     }
   ]
