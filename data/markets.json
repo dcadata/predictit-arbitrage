@@ -34,7 +34,7 @@
           "bestBuyNoCost": 0.57,
           "bestSellYesCost": 0.43,
           "bestSellNoCost": 0.56,
-          "lastClosePrice": 0.43,
+          "lastClosePrice": 0.44,
           "displayOrder": 0
         },
         {
@@ -68,7 +68,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -78,6 +78,21 @@
       "image": "https://az620379.vo.msecnd.net/images/Markets/521f67c1-4244-470a-a854-2cf81998f580.jpg",
       "url": "https://www.predictit.org/markets/detail/6874/Which-party-will-control-the-Senate-after-2022-election",
       "contracts": [
+        {
+          "id": 23587,
+          "dateEnd": "2023-01-31T23:59:00",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_77aea45d-8c93-46d6-b338-43a6af0ba8e1.png",
+          "name": "Republican",
+          "shortName": "Republican",
+          "status": "Open",
+          "lastTradePrice": 0.52,
+          "bestBuyYesCost": 0.52,
+          "bestBuyNoCost": 0.49,
+          "bestSellYesCost": 0.51,
+          "bestSellNoCost": 0.48,
+          "lastClosePrice": 0.52,
+          "displayOrder": 0
+        },
         {
           "id": 23586,
           "dateEnd": "2023-01-31T23:59:00",
@@ -90,26 +105,11 @@
           "bestBuyNoCost": 0.49,
           "bestSellYesCost": 0.51,
           "bestSellNoCost": 0.48,
-          "lastClosePrice": 0.5,
-          "displayOrder": 0
-        },
-        {
-          "id": 23587,
-          "dateEnd": "2023-01-31T23:59:00",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_77aea45d-8c93-46d6-b338-43a6af0ba8e1.png",
-          "name": "Republican",
-          "shortName": "Republican",
-          "status": "Open",
-          "lastTradePrice": 0.51,
-          "bestBuyYesCost": 0.52,
-          "bestBuyNoCost": 0.49,
-          "bestSellYesCost": 0.51,
-          "bestSellNoCost": 0.48,
-          "lastClosePrice": 0.52,
+          "lastClosePrice": 0.51,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -146,11 +146,11 @@
           "bestBuyNoCost": 0.86,
           "bestSellYesCost": 0.14,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": 0.14,
+          "lastClosePrice": 0.15,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -176,7 +176,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -202,7 +202,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -228,7 +228,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -250,11 +250,11 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.19,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -280,7 +280,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -297,11 +297,11 @@
           "name": "Democratic",
           "shortName": "Democratic",
           "status": "Open",
-          "lastTradePrice": 0.68,
-          "bestBuyYesCost": 0.69,
+          "lastTradePrice": 0.69,
+          "bestBuyYesCost": 0.7,
           "bestBuyNoCost": 0.32,
           "bestSellYesCost": 0.68,
-          "bestSellNoCost": 0.31,
+          "bestSellNoCost": 0.3,
           "lastClosePrice": 0.68,
           "displayOrder": 0
         },
@@ -321,7 +321,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -343,7 +343,7 @@
           "bestBuyNoCost": 0.24,
           "bestSellYesCost": 0.76,
           "bestSellNoCost": 0.23,
-          "lastClosePrice": 0.78,
+          "lastClosePrice": 0.76,
           "displayOrder": 0
         },
         {
@@ -358,11 +358,11 @@
           "bestBuyNoCost": 0.77,
           "bestSellYesCost": 0.23,
           "bestSellNoCost": 0.76,
-          "lastClosePrice": 0.21,
+          "lastClosePrice": 0.23,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -403,7 +403,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -420,7 +420,7 @@
           "name": "Donald Trump",
           "shortName": "Trump",
           "status": "Open",
-          "lastTradePrice": 0.41,
+          "lastTradePrice": 0.42,
           "bestBuyYesCost": 0.42,
           "bestBuyNoCost": 0.59,
           "bestSellYesCost": 0.41,
@@ -470,7 +470,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -485,7 +485,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -500,7 +500,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -530,7 +530,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -545,7 +545,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -560,7 +560,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -590,7 +590,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -665,11 +665,11 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -691,7 +691,7 @@
           "bestBuyNoCost": 0.69,
           "bestSellYesCost": 0.31,
           "bestSellNoCost": 0.68,
-          "lastClosePrice": 0.3,
+          "lastClosePrice": 0.31,
           "displayOrder": 0
         },
         {
@@ -736,7 +736,7 @@
           "bestBuyNoCost": 0.9,
           "bestSellYesCost": 0.1,
           "bestSellNoCost": 0.89,
-          "lastClosePrice": 0.11,
+          "lastClosePrice": 0.1,
           "displayOrder": 0
         },
         {
@@ -766,7 +766,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         },
         {
@@ -796,7 +796,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -826,7 +826,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -856,11 +856,11 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -877,7 +877,7 @@
           "name": "Republican",
           "shortName": "Republican",
           "status": "Open",
-          "lastTradePrice": 0.77,
+          "lastTradePrice": 0.78,
           "bestBuyYesCost": 0.78,
           "bestBuyNoCost": 0.23,
           "bestSellYesCost": 0.77,
@@ -897,11 +897,11 @@
           "bestBuyNoCost": 0.76,
           "bestSellYesCost": 0.24,
           "bestSellNoCost": 0.75,
-          "lastClosePrice": 0.25,
+          "lastClosePrice": 0.24,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -927,7 +927,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -949,7 +949,7 @@
           "bestBuyNoCost": 0.43,
           "bestSellYesCost": 0.57,
           "bestSellNoCost": 0.42,
-          "lastClosePrice": 0.59,
+          "lastClosePrice": 0.58,
           "displayOrder": 0
         },
         {
@@ -964,11 +964,11 @@
           "bestBuyNoCost": 0.57,
           "bestSellYesCost": 0.43,
           "bestSellNoCost": 0.56,
-          "lastClosePrice": 0.42,
+          "lastClosePrice": 0.44,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -990,7 +990,7 @@
           "bestBuyNoCost": 0.42,
           "bestSellYesCost": 0.58,
           "bestSellNoCost": 0.41,
-          "lastClosePrice": 0.55,
+          "lastClosePrice": 0.58,
           "displayOrder": 0
         },
         {
@@ -1005,11 +1005,11 @@
           "bestBuyNoCost": 0.57,
           "bestSellYesCost": 0.43,
           "bestSellNoCost": 0.56,
-          "lastClosePrice": 0.46,
+          "lastClosePrice": 0.42,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1061,7 +1061,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -1091,7 +1091,7 @@
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
           "bestSellNoCost": 0.99,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -1170,7 +1170,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1192,11 +1192,11 @@
           "bestBuyNoCost": 0.06,
           "bestSellYesCost": 0.94,
           "bestSellNoCost": 0.05,
-          "lastClosePrice": 0.95,
+          "lastClosePrice": 0.94,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1237,7 +1237,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1274,11 +1274,11 @@
           "bestBuyNoCost": 0.55,
           "bestSellYesCost": 0.45,
           "bestSellNoCost": 0.54,
-          "lastClosePrice": 0.47,
+          "lastClosePrice": 0.46,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1315,11 +1315,11 @@
           "bestBuyNoCost": 0.66,
           "bestSellYesCost": 0.34,
           "bestSellNoCost": 0.65,
-          "lastClosePrice": 0.36,
+          "lastClosePrice": 0.35,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1341,11 +1341,11 @@
           "bestBuyNoCost": 0.78,
           "bestSellYesCost": 0.22,
           "bestSellNoCost": 0.77,
-          "lastClosePrice": 0.22,
+          "lastClosePrice": 0.23,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1367,7 +1367,7 @@
           "bestBuyNoCost": 0.66,
           "bestSellYesCost": 0.34,
           "bestSellNoCost": 0.58,
-          "lastClosePrice": 0.42,
+          "lastClosePrice": 0.43,
           "displayOrder": 0
         },
         {
@@ -1382,7 +1382,7 @@
           "bestBuyNoCost": 0.74,
           "bestSellYesCost": 0.26,
           "bestSellNoCost": 0.7,
-          "lastClosePrice": 0.3,
+          "lastClosePrice": 0.27,
           "displayOrder": 0
         },
         {
@@ -1397,7 +1397,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.8,
-          "lastClosePrice": 0.19,
+          "lastClosePrice": 0.18,
           "displayOrder": 0
         },
         {
@@ -1461,7 +1461,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1483,7 +1483,7 @@
           "bestBuyNoCost": 0.1,
           "bestSellYesCost": 0.9,
           "bestSellNoCost": 0.09,
-          "lastClosePrice": 0.88,
+          "lastClosePrice": 0.91,
           "displayOrder": 0
         },
         {
@@ -1652,7 +1652,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1674,7 +1674,7 @@
           "bestBuyNoCost": 0.49,
           "bestSellYesCost": 0.51,
           "bestSellNoCost": 0.48,
-          "lastClosePrice": 0.53,
+          "lastClosePrice": 0.52,
           "displayOrder": 0
         },
         {
@@ -1704,7 +1704,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.14,
           "displayOrder": 0
         },
         {
@@ -1723,7 +1723,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1760,7 +1760,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -1779,7 +1779,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1910,7 +1910,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -1996,7 +1996,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2018,7 +2018,7 @@
           "bestBuyNoCost": 0.07,
           "bestSellYesCost": 0.93,
           "bestSellNoCost": 0.06,
-          "lastClosePrice": 0.94,
+          "lastClosePrice": 0.93,
           "displayOrder": 0
         },
         {
@@ -2037,7 +2037,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2059,7 +2059,7 @@
           "bestBuyNoCost": 0.22,
           "bestSellYesCost": 0.78,
           "bestSellNoCost": 0.2,
-          "lastClosePrice": 0.8,
+          "lastClosePrice": 0.79,
           "displayOrder": 0
         },
         {
@@ -2074,7 +2074,7 @@
           "bestBuyNoCost": 0.8,
           "bestSellYesCost": 0.2,
           "bestSellNoCost": 0.76,
-          "lastClosePrice": 0.2,
+          "lastClosePrice": 0.21,
           "displayOrder": 0
         },
         {
@@ -2168,7 +2168,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2209,7 +2209,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2231,11 +2231,11 @@
           "bestBuyNoCost": 0.18,
           "bestSellYesCost": 0.82,
           "bestSellNoCost": 0.16,
-          "lastClosePrice": 0.86,
+          "lastClosePrice": 0.85,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2261,7 +2261,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2347,7 +2347,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2369,7 +2369,7 @@
           "bestBuyNoCost": 0.08,
           "bestSellYesCost": 0.92,
           "bestSellNoCost": 0.06,
-          "lastClosePrice": 0.91,
+          "lastClosePrice": 0.94,
           "displayOrder": 0
         },
         {
@@ -2384,7 +2384,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.08,
+          "lastClosePrice": 0.06,
           "displayOrder": 0
         },
         {
@@ -2538,7 +2538,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2560,7 +2560,7 @@
           "bestBuyNoCost": 0.9,
           "bestSellYesCost": 0.1,
           "bestSellNoCost": 0.89,
-          "lastClosePrice": 0.11,
+          "lastClosePrice": 0.1,
           "displayOrder": 0
         },
         {
@@ -2575,7 +2575,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.14,
           "displayOrder": 0
         },
         {
@@ -2590,7 +2590,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.2,
           "displayOrder": 0
         },
         {
@@ -2605,7 +2605,7 @@
           "bestBuyNoCost": 0.78,
           "bestSellYesCost": 0.22,
           "bestSellNoCost": 0.72,
-          "lastClosePrice": 0.31,
+          "lastClosePrice": 0.28,
           "displayOrder": 0
         },
         {
@@ -2620,7 +2620,7 @@
           "bestBuyNoCost": 0.72,
           "bestSellYesCost": 0.28,
           "bestSellNoCost": 0.68,
-          "lastClosePrice": 0.31,
+          "lastClosePrice": 0.32,
           "displayOrder": 0
         },
         {
@@ -2669,7 +2669,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2691,7 +2691,7 @@
           "bestBuyNoCost": 0.06,
           "bestSellYesCost": 0.94,
           "bestSellNoCost": 0.05,
-          "lastClosePrice": 0.94,
+          "lastClosePrice": 0.95,
           "displayOrder": 0
         },
         {
@@ -2706,7 +2706,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         },
         {
@@ -2845,7 +2845,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -2862,11 +2862,11 @@
           "name": "Chuck Morse",
           "shortName": "Morse",
           "status": "Open",
-          "lastTradePrice": 0.68,
-          "bestBuyYesCost": 0.69,
-          "bestBuyNoCost": 0.34,
-          "bestSellYesCost": 0.66,
-          "bestSellNoCost": 0.31,
+          "lastTradePrice": 0.69,
+          "bestBuyYesCost": 0.7,
+          "bestBuyNoCost": 0.31,
+          "bestSellYesCost": 0.69,
+          "bestSellNoCost": 0.3,
           "lastClosePrice": 0.69,
           "displayOrder": 0
         },
@@ -2878,11 +2878,11 @@
           "shortName": "Bolduc",
           "status": "Open",
           "lastTradePrice": 0.2,
-          "bestBuyYesCost": 0.27,
-          "bestBuyNoCost": 0.79,
-          "bestSellYesCost": 0.21,
-          "bestSellNoCost": 0.73,
-          "lastClosePrice": 0.19,
+          "bestBuyYesCost": 0.26,
+          "bestBuyNoCost": 0.78,
+          "bestSellYesCost": 0.22,
+          "bestSellNoCost": 0.74,
+          "lastClosePrice": 0.2,
           "displayOrder": 0
         },
         {
@@ -2908,11 +2908,11 @@
           "shortName": "Mansharamani",
           "status": "Open",
           "lastTradePrice": 0.04,
-          "bestBuyYesCost": 0.06,
+          "bestBuyYesCost": 0.07,
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
-          "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.05,
+          "bestSellNoCost": 0.93,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -2927,7 +2927,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -3066,7 +3066,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3083,16 +3083,16 @@
           "name": "Will Donald Trump file to run for president before the end of 2022?",
           "shortName": "Trump files for President before 2023?",
           "status": "Open",
-          "lastTradePrice": 0.47,
+          "lastTradePrice": 0.49,
           "bestBuyYesCost": 0.49,
           "bestBuyNoCost": 0.53,
           "bestSellYesCost": 0.47,
           "bestSellNoCost": 0.51,
-          "lastClosePrice": 0.5,
+          "lastClosePrice": 0.49,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3118,7 +3118,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3174,7 +3174,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3200,21 +3200,6 @@
           "displayOrder": 0
         },
         {
-          "id": 26553,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_94022f5c-1fc4-4383-b80a-3972d131fad3.jpg",
-          "name": "Nancy Pelosi",
-          "shortName": "Pelosi",
-          "status": "Open",
-          "lastTradePrice": 0.08,
-          "bestBuyYesCost": 0.07,
-          "bestBuyNoCost": 0.94,
-          "bestSellYesCost": 0.06,
-          "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.08,
-          "displayOrder": 0
-        },
-        {
           "id": 26550,
           "dateEnd": "NA",
           "image": "https://az620379.vo.msecnd.net/images/Contracts/small_444bd468-8e17-452c-a31a-bc67b72006ab.png",
@@ -3225,6 +3210,21 @@
           "bestBuyYesCost": 0.08,
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
+          "bestSellNoCost": 0.92,
+          "lastClosePrice": 0.07,
+          "displayOrder": 0
+        },
+        {
+          "id": 26553,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_94022f5c-1fc4-4383-b80a-3972d131fad3.jpg",
+          "name": "Nancy Pelosi",
+          "shortName": "Pelosi",
+          "status": "Open",
+          "lastTradePrice": 0.07,
+          "bestBuyYesCost": 0.08,
+          "bestBuyNoCost": 0.94,
+          "bestSellYesCost": 0.06,
           "bestSellNoCost": 0.92,
           "lastClosePrice": 0.07,
           "displayOrder": 0
@@ -3241,7 +3241,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.06,
           "displayOrder": 0
         },
         {
@@ -3256,7 +3256,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -3271,7 +3271,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -3286,7 +3286,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -3425,7 +3425,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3451,7 +3451,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3473,7 +3473,7 @@
           "bestBuyNoCost": 0.19,
           "bestSellYesCost": 0.81,
           "bestSellNoCost": 0.16,
-          "lastClosePrice": 0.8,
+          "lastClosePrice": 0.84,
           "displayOrder": 0
         },
         {
@@ -3627,7 +3627,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3664,11 +3664,11 @@
           "bestBuyNoCost": 0.78,
           "bestSellYesCost": 0.22,
           "bestSellNoCost": 0.77,
-          "lastClosePrice": 0.22,
+          "lastClosePrice": 0.23,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3705,11 +3705,11 @@
           "bestBuyNoCost": 0.52,
           "bestSellYesCost": 0.48,
           "bestSellNoCost": 0.49,
-          "lastClosePrice": 0.5,
+          "lastClosePrice": 0.51,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3731,7 +3731,7 @@
           "bestBuyNoCost": 0.25,
           "bestSellYesCost": 0.75,
           "bestSellNoCost": 0.23,
-          "lastClosePrice": 0.77,
+          "lastClosePrice": 0.76,
           "displayOrder": 0
         },
         {
@@ -3746,11 +3746,11 @@
           "bestBuyNoCost": 0.75,
           "bestSellYesCost": 0.25,
           "bestSellNoCost": 0.74,
-          "lastClosePrice": 0.25,
+          "lastClosePrice": 0.26,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3787,11 +3787,11 @@
           "bestBuyNoCost": 0.54,
           "bestSellYesCost": 0.46,
           "bestSellNoCost": 0.53,
-          "lastClosePrice": 0.45,
+          "lastClosePrice": 0.47,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3813,7 +3813,7 @@
           "bestBuyNoCost": 0.4,
           "bestSellYesCost": 0.6,
           "bestSellNoCost": 0.37,
-          "lastClosePrice": 0.57,
+          "lastClosePrice": 0.61,
           "displayOrder": 0
         },
         {
@@ -3828,11 +3828,11 @@
           "bestBuyNoCost": 0.6,
           "bestSellYesCost": 0.4,
           "bestSellNoCost": 0.59,
-          "lastClosePrice": 0.4,
+          "lastClosePrice": 0.41,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3854,7 +3854,7 @@
           "bestBuyNoCost": 0.18,
           "bestSellYesCost": 0.82,
           "bestSellNoCost": 0.17,
-          "lastClosePrice": 0.83,
+          "lastClosePrice": 0.82,
           "displayOrder": 0
         },
         {
@@ -3869,11 +3869,11 @@
           "bestBuyNoCost": 0.8,
           "bestSellYesCost": 0.2,
           "bestSellNoCost": 0.79,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.2,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3914,7 +3914,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3936,7 +3936,7 @@
           "bestBuyNoCost": 0.48,
           "bestSellYesCost": 0.52,
           "bestSellNoCost": 0.46,
-          "lastClosePrice": 0.54,
+          "lastClosePrice": 0.51,
           "displayOrder": 0
         },
         {
@@ -3951,11 +3951,11 @@
           "bestBuyNoCost": 0.53,
           "bestSellYesCost": 0.47,
           "bestSellNoCost": 0.51,
-          "lastClosePrice": 0.46,
+          "lastClosePrice": 0.48,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -3977,7 +3977,7 @@
           "bestBuyNoCost": 0.27,
           "bestSellYesCost": 0.73,
           "bestSellNoCost": 0.26,
-          "lastClosePrice": 0.73,
+          "lastClosePrice": 0.74,
           "displayOrder": 0
         },
         {
@@ -3996,7 +3996,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4018,7 +4018,7 @@
           "bestBuyNoCost": 0.06,
           "bestSellYesCost": 0.94,
           "bestSellNoCost": 0.04,
-          "lastClosePrice": 0.95,
+          "lastClosePrice": 0.96,
           "displayOrder": 0
         },
         {
@@ -4202,7 +4202,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4228,7 +4228,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4295,7 +4295,7 @@
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
           "bestSellNoCost": 0.91,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -4310,7 +4310,7 @@
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
           "bestSellNoCost": 0.91,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -4325,11 +4325,11 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4355,7 +4355,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4377,7 +4377,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.15,
+          "lastClosePrice": 0.13,
           "displayOrder": 0
         },
         {
@@ -4392,7 +4392,7 @@
           "bestBuyNoCost": 0.67,
           "bestSellYesCost": 0.33,
           "bestSellNoCost": 0.66,
-          "lastClosePrice": 0.36,
+          "lastClosePrice": 0.34,
           "displayOrder": 1
         },
         {
@@ -4422,7 +4422,7 @@
           "bestBuyNoCost": 0.69,
           "bestSellYesCost": 0.31,
           "bestSellNoCost": 0.68,
-          "lastClosePrice": 0.28,
+          "lastClosePrice": 0.31,
           "displayOrder": 3
         },
         {
@@ -4516,7 +4516,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4583,7 +4583,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -4677,7 +4677,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4699,7 +4699,7 @@
           "bestBuyNoCost": 0.83,
           "bestSellYesCost": 0.17,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.15,
+          "lastClosePrice": 0.19,
           "displayOrder": 0
         },
         {
@@ -4714,7 +4714,7 @@
           "bestBuyNoCost": 0.88,
           "bestSellYesCost": 0.12,
           "bestSellNoCost": 0.82,
-          "lastClosePrice": 0.16,
+          "lastClosePrice": 0.15,
           "displayOrder": 0
         },
         {
@@ -4729,7 +4729,7 @@
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.14,
+          "lastClosePrice": 0.12,
           "displayOrder": 0
         },
         {
@@ -4759,7 +4759,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.07,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -4774,7 +4774,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.07,
           "displayOrder": 0
         },
         {
@@ -4789,7 +4789,7 @@
           "bestBuyNoCost": 0.94,
           "bestSellYesCost": 0.06,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.07,
           "displayOrder": 0
         },
         {
@@ -4864,7 +4864,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -4883,7 +4883,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -4905,7 +4905,7 @@
           "bestBuyNoCost": 0.05,
           "bestSellYesCost": 0.95,
           "bestSellNoCost": 0.04,
-          "lastClosePrice": 0.95,
+          "lastClosePrice": 0.96,
           "displayOrder": 0
         },
         {
@@ -4920,7 +4920,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.91,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -4984,7 +4984,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5006,7 +5006,7 @@
           "bestBuyNoCost": 0.13,
           "bestSellYesCost": 0.87,
           "bestSellNoCost": 0.11,
-          "lastClosePrice": 0.89,
+          "lastClosePrice": 0.87,
           "displayOrder": 0
         },
         {
@@ -5040,7 +5040,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5062,7 +5062,7 @@
           "bestBuyNoCost": 0.22,
           "bestSellYesCost": 0.78,
           "bestSellNoCost": 0.2,
-          "lastClosePrice": 0.8,
+          "lastClosePrice": 0.78,
           "displayOrder": 0
         },
         {
@@ -5077,7 +5077,7 @@
           "bestBuyNoCost": 0.79,
           "bestSellYesCost": 0.21,
           "bestSellNoCost": 0.78,
-          "lastClosePrice": 0.23,
+          "lastClosePrice": 0.21,
           "displayOrder": 0
         },
         {
@@ -5156,7 +5156,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5178,7 +5178,7 @@
           "bestBuyNoCost": 0.48,
           "bestSellYesCost": 0.52,
           "bestSellNoCost": 0.47,
-          "lastClosePrice": 0.52,
+          "lastClosePrice": 0.53,
           "displayOrder": 0
         },
         {
@@ -5193,7 +5193,7 @@
           "bestBuyNoCost": 0.54,
           "bestSellYesCost": 0.46,
           "bestSellNoCost": 0.53,
-          "lastClosePrice": 0.46,
+          "lastClosePrice": 0.48,
           "displayOrder": 0
         },
         {
@@ -5208,7 +5208,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -5287,7 +5287,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5324,11 +5324,11 @@
           "bestBuyNoCost": 0.84,
           "bestSellYesCost": 0.16,
           "bestSellNoCost": 0.83,
-          "lastClosePrice": 0.17,
+          "lastClosePrice": 0.16,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5350,7 +5350,7 @@
           "bestBuyNoCost": 0.11,
           "bestSellYesCost": 0.89,
           "bestSellNoCost": 0.09,
-          "lastClosePrice": 0.9,
+          "lastClosePrice": 0.91,
           "displayOrder": 0
         },
         {
@@ -5429,7 +5429,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5451,7 +5451,7 @@
           "bestBuyNoCost": 0.12,
           "bestSellYesCost": 0.88,
           "bestSellNoCost": 0.1,
-          "lastClosePrice": 0.89,
+          "lastClosePrice": 0.9,
           "displayOrder": 0
         },
         {
@@ -5466,7 +5466,7 @@
           "bestBuyNoCost": 0.88,
           "bestSellYesCost": 0.12,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.12,
           "displayOrder": 0
         },
         {
@@ -5545,7 +5545,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5586,7 +5586,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5762,7 +5762,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5799,7 +5799,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.9,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.1,
           "displayOrder": 0
         },
         {
@@ -5848,7 +5848,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -5885,7 +5885,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.06,
           "displayOrder": 1
         },
         {
@@ -5896,11 +5896,11 @@
           "shortName": "48",
           "status": "Open",
           "lastTradePrice": 0.13,
-          "bestBuyYesCost": 0.13,
+          "bestBuyYesCost": 0.12,
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
-          "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.11,
+          "bestSellNoCost": 0.88,
+          "lastClosePrice": 0.13,
           "displayOrder": 2
         },
         {
@@ -5930,7 +5930,7 @@
           "bestBuyNoCost": 0.83,
           "bestSellYesCost": 0.17,
           "bestSellNoCost": 0.82,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.17,
           "displayOrder": 4
         },
         {
@@ -5970,7 +5970,7 @@
           "name": "53",
           "shortName": "53",
           "status": "Open",
-          "lastTradePrice": 0.11,
+          "lastTradePrice": 0.12,
           "bestBuyYesCost": 0.12,
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
@@ -6024,7 +6024,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6041,12 +6041,12 @@
           "name": "Democratic",
           "shortName": "Democratic",
           "status": "Open",
-          "lastTradePrice": 0.74,
+          "lastTradePrice": 0.72,
           "bestBuyYesCost": 0.74,
-          "bestBuyNoCost": 0.27,
-          "bestSellYesCost": 0.73,
+          "bestBuyNoCost": 0.29,
+          "bestSellYesCost": 0.71,
           "bestSellNoCost": 0.26,
-          "lastClosePrice": 0.71,
+          "lastClosePrice": 0.74,
           "displayOrder": 0
         },
         {
@@ -6076,11 +6076,11 @@
           "bestBuyNoCost": 0.92,
           "bestSellYesCost": 0.08,
           "bestSellNoCost": 0.91,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6102,7 +6102,7 @@
           "bestBuyNoCost": 0.13,
           "bestSellYesCost": 0.87,
           "bestSellNoCost": 0.11,
-          "lastClosePrice": 0.88,
+          "lastClosePrice": 0.89,
           "displayOrder": 0
         },
         {
@@ -6121,7 +6121,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6177,7 +6177,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6233,7 +6233,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6259,7 +6259,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6281,11 +6281,11 @@
           "bestBuyNoCost": 0.44,
           "bestSellYesCost": 0.56,
           "bestSellNoCost": 0.41,
-          "lastClosePrice": 0.54,
+          "lastClosePrice": 0.6,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6377,12 +6377,12 @@
           "name": "27",
           "shortName": "27",
           "status": "Open",
-          "lastTradePrice": 0.11,
+          "lastTradePrice": 0.12,
           "bestBuyYesCost": 0.12,
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
           "bestSellNoCost": 0.88,
-          "lastClosePrice": 0.1,
+          "lastClosePrice": 0.12,
           "displayOrder": 5
         },
         {
@@ -6397,7 +6397,7 @@
           "bestBuyNoCost": 0.84,
           "bestSellYesCost": 0.16,
           "bestSellNoCost": 0.83,
-          "lastClosePrice": 0.15,
+          "lastClosePrice": 0.17,
           "displayOrder": 6
         },
         {
@@ -6427,7 +6427,7 @@
           "bestBuyNoCost": 0.86,
           "bestSellYesCost": 0.14,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.14,
           "displayOrder": 8
         },
         {
@@ -6442,7 +6442,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.13,
           "displayOrder": 9
         },
         {
@@ -6457,11 +6457,11 @@
           "bestBuyNoCost": 0.81,
           "bestSellYesCost": 0.19,
           "bestSellNoCost": 0.8,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.19,
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6513,7 +6513,7 @@
           "bestBuyNoCost": 0.86,
           "bestSellYesCost": 0.14,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": 0.15,
+          "lastClosePrice": 0.14,
           "displayOrder": 0
         },
         {
@@ -6588,7 +6588,7 @@
           "bestBuyNoCost": 0.94,
           "bestSellYesCost": 0.06,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.07,
+          "lastClosePrice": 0.06,
           "displayOrder": 0
         },
         {
@@ -6667,7 +6667,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6828,7 +6828,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -6850,7 +6850,7 @@
           "bestBuyNoCost": 0.47,
           "bestSellYesCost": 0.53,
           "bestSellNoCost": 0.29,
-          "lastClosePrice": 0.63,
+          "lastClosePrice": 0.71,
           "displayOrder": 0
         },
         {
@@ -6860,12 +6860,12 @@
           "name": "1",
           "shortName": "1",
           "status": "Open",
-          "lastTradePrice": 0.25,
-          "bestBuyYesCost": 0.29,
+          "lastTradePrice": 0.29,
+          "bestBuyYesCost": 0.43,
           "bestBuyNoCost": 0.75,
           "bestSellYesCost": 0.25,
-          "bestSellNoCost": 0.71,
-          "lastClosePrice": 0.27,
+          "bestSellNoCost": 0.57,
+          "lastClosePrice": 0.29,
           "displayOrder": 1
         },
         {
@@ -6880,7 +6880,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 2
         },
         {
@@ -7004,7 +7004,7 @@
           "displayOrder": 10
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7030,7 +7030,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7052,7 +7052,7 @@
           "bestBuyNoCost": 0.31,
           "bestSellYesCost": 0.69,
           "bestSellNoCost": 0.28,
-          "lastClosePrice": 0.71,
+          "lastClosePrice": 0.69,
           "displayOrder": 0
         },
         {
@@ -7071,7 +7071,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7112,7 +7112,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7134,7 +7134,7 @@
           "bestBuyNoCost": 0.05,
           "bestSellYesCost": 0.95,
           "bestSellNoCost": 0.04,
-          "lastClosePrice": 0.92,
+          "lastClosePrice": 0.95,
           "displayOrder": 0
         },
         {
@@ -7149,7 +7149,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -7239,7 +7239,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -7254,7 +7254,7 @@
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
           "bestSellNoCost": 0.99,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -7318,7 +7318,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7479,7 +7479,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7501,7 +7501,7 @@
           "bestBuyNoCost": 0.16,
           "bestSellYesCost": 0.84,
           "bestSellNoCost": 0.13,
-          "lastClosePrice": 0.85,
+          "lastClosePrice": 0.87,
           "displayOrder": 0
         },
         {
@@ -7516,7 +7516,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.17,
+          "lastClosePrice": 0.14,
           "displayOrder": 0
         },
         {
@@ -7535,7 +7535,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7557,7 +7557,7 @@
           "bestBuyNoCost": 0.39,
           "bestSellYesCost": 0.61,
           "bestSellNoCost": 0.38,
-          "lastClosePrice": 0.64,
+          "lastClosePrice": 0.62,
           "displayOrder": 0
         },
         {
@@ -7651,7 +7651,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7673,11 +7673,11 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7703,7 +7703,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7725,11 +7725,11 @@
           "bestBuyNoCost": 0.09,
           "bestSellYesCost": 0.91,
           "bestSellNoCost": 0.07,
-          "lastClosePrice": 0.92,
+          "lastClosePrice": 0.91,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7751,11 +7751,11 @@
           "bestBuyNoCost": 0.15,
           "bestSellYesCost": 0.85,
           "bestSellNoCost": 0.14,
-          "lastClosePrice": 0.84,
+          "lastClosePrice": 0.85,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7796,7 +7796,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7814,15 +7814,15 @@
           "shortName": "Georgia indicts Trump by Sept. 1?",
           "status": "Open",
           "lastTradePrice": 0.06,
-          "bestBuyYesCost": 0.07,
+          "bestBuyYesCost": 0.06,
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
-          "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.07,
+          "bestSellNoCost": 0.94,
+          "lastClosePrice": 0.06,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7839,27 +7839,12 @@
           "name": "Andy Ogles",
           "shortName": "Ogles",
           "status": "Open",
-          "lastTradePrice": 0.6,
-          "bestBuyYesCost": 0.6,
-          "bestBuyNoCost": 0.41,
-          "bestSellYesCost": 0.59,
-          "bestSellNoCost": 0.4,
-          "lastClosePrice": 0.51,
-          "displayOrder": 0
-        },
-        {
-          "id": 29438,
-          "dateEnd": "NA",
-          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg",
-          "name": "Beth Harwell",
-          "shortName": "Harwell",
-          "status": "Open",
-          "lastTradePrice": 0.29,
-          "bestBuyYesCost": 0.29,
-          "bestBuyNoCost": 0.75,
-          "bestSellYesCost": 0.25,
-          "bestSellNoCost": 0.71,
-          "lastClosePrice": 0.33,
+          "lastTradePrice": 0.55,
+          "bestBuyYesCost": 0.58,
+          "bestBuyNoCost": 0.45,
+          "bestSellYesCost": 0.55,
+          "bestSellNoCost": 0.42,
+          "lastClosePrice": 0.58,
           "displayOrder": 0
         },
         {
@@ -7869,12 +7854,27 @@
           "name": "Kurt Winstead",
           "shortName": "Winstead",
           "status": "Open",
-          "lastTradePrice": 0.13,
-          "bestBuyYesCost": 0.13,
-          "bestBuyNoCost": 0.9,
-          "bestSellYesCost": 0.1,
-          "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.16,
+          "lastTradePrice": 0.47,
+          "bestBuyYesCost": 0.49,
+          "bestBuyNoCost": 0.76,
+          "bestSellYesCost": 0.24,
+          "bestSellNoCost": 0.51,
+          "lastClosePrice": 0.5,
+          "displayOrder": 0
+        },
+        {
+          "id": 29438,
+          "dateEnd": "NA",
+          "image": "https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg",
+          "name": "Beth Harwell",
+          "shortName": "Harwell",
+          "status": "Open",
+          "lastTradePrice": 0.16,
+          "bestBuyYesCost": 0.19,
+          "bestBuyNoCost": 0.84,
+          "bestSellYesCost": 0.16,
+          "bestSellNoCost": 0.81,
+          "lastClosePrice": 0.29,
           "displayOrder": 0
         },
         {
@@ -7884,12 +7884,12 @@
           "name": "Robby Starbuck",
           "shortName": "Starbuck",
           "status": "Open",
-          "lastTradePrice": 0.03,
+          "lastTradePrice": 0.02,
           "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.01,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -7938,7 +7938,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7960,11 +7960,11 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.07,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -7990,7 +7990,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8076,7 +8076,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8113,11 +8113,11 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8173,7 +8173,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8199,7 +8199,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8225,7 +8225,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8262,11 +8262,11 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.9,
-          "lastClosePrice": 0.1,
+          "lastClosePrice": 0.09,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8472,7 +8472,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8498,7 +8498,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8520,7 +8520,7 @@
           "bestBuyNoCost": 0.46,
           "bestSellYesCost": 0.54,
           "bestSellNoCost": 0.41,
-          "lastClosePrice": 0.6,
+          "lastClosePrice": 0.61,
           "displayOrder": 0
         },
         {
@@ -8535,7 +8535,7 @@
           "bestBuyNoCost": 0.74,
           "bestSellYesCost": 0.26,
           "bestSellNoCost": 0.69,
-          "lastClosePrice": 0.27,
+          "lastClosePrice": 0.3,
           "displayOrder": 0
         },
         {
@@ -8550,7 +8550,7 @@
           "bestBuyNoCost": 0.94,
           "bestSellYesCost": 0.06,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -8580,7 +8580,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -8659,7 +8659,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8696,7 +8696,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -8790,7 +8790,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8812,7 +8812,7 @@
           "bestBuyNoCost": 0.47,
           "bestSellYesCost": 0.53,
           "bestSellNoCost": 0.45,
-          "lastClosePrice": 0.56,
+          "lastClosePrice": 0.55,
           "displayOrder": 0
         },
         {
@@ -8842,7 +8842,7 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.9,
-          "lastClosePrice": 0.1,
+          "lastClosePrice": 0.09,
           "displayOrder": 0
         },
         {
@@ -8966,7 +8966,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -8988,11 +8988,11 @@
           "bestBuyNoCost": 0.38,
           "bestSellYesCost": 0.62,
           "bestSellNoCost": 0.37,
-          "lastClosePrice": 0.65,
+          "lastClosePrice": 0.62,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9063,7 +9063,7 @@
           "displayOrder": 3
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9081,11 +9081,11 @@
           "shortName": "Schmitt",
           "status": "Open",
           "lastTradePrice": 0.31,
-          "bestBuyYesCost": 0.31,
-          "bestBuyNoCost": 0.73,
-          "bestSellYesCost": 0.27,
-          "bestSellNoCost": 0.69,
-          "lastClosePrice": 0.42,
+          "bestBuyYesCost": 0.32,
+          "bestBuyNoCost": 0.69,
+          "bestSellYesCost": 0.31,
+          "bestSellNoCost": 0.68,
+          "lastClosePrice": 0.27,
           "displayOrder": 0
         },
         {
@@ -9100,7 +9100,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.22,
+          "lastClosePrice": 0.04,
           "displayOrder": 0
         },
         {
@@ -9115,7 +9115,7 @@
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
           "bestSellNoCost": 0.99,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -9149,7 +9149,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9171,7 +9171,7 @@
           "bestBuyNoCost": 0.08,
           "bestSellYesCost": 0.92,
           "bestSellNoCost": 0.07,
-          "lastClosePrice": 0.93,
+          "lastClosePrice": 0.92,
           "displayOrder": 0
         },
         {
@@ -9205,7 +9205,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9291,7 +9291,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9313,11 +9313,11 @@
           "bestBuyNoCost": 0.09,
           "bestSellYesCost": 0.91,
           "bestSellNoCost": 0.08,
-          "lastClosePrice": 0.95,
+          "lastClosePrice": 0.92,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9343,7 +9343,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9380,7 +9380,7 @@
           "bestBuyNoCost": 0.67,
           "bestSellYesCost": 0.33,
           "bestSellNoCost": 0.65,
-          "lastClosePrice": 0.36,
+          "lastClosePrice": 0.35,
           "displayOrder": 0
         },
         {
@@ -9429,7 +9429,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9466,11 +9466,11 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9511,7 +9511,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9653,7 +9653,7 @@
           "bestBuyNoCost": 0.12,
           "bestSellYesCost": 0.88,
           "bestSellNoCost": 0.05,
-          "lastClosePrice": 0.9,
+          "lastClosePrice": 0.94,
           "displayOrder": 8
         },
         {
@@ -9702,7 +9702,7 @@
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9739,7 +9739,7 @@
           "bestBuyNoCost": 0.7,
           "bestSellYesCost": 0.3,
           "bestSellNoCost": 0.69,
-          "lastClosePrice": 0.33,
+          "lastClosePrice": 0.31,
           "displayOrder": 0
         },
         {
@@ -9754,7 +9754,7 @@
           "bestBuyNoCost": 0.81,
           "bestSellYesCost": 0.19,
           "bestSellNoCost": 0.8,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.2,
           "displayOrder": 0
         },
         {
@@ -9769,7 +9769,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.07,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -9784,7 +9784,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -9878,7 +9878,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9900,7 +9900,7 @@
           "bestBuyNoCost": 0.24,
           "bestSellYesCost": 0.76,
           "bestSellNoCost": 0.17,
-          "lastClosePrice": 0.82,
+          "lastClosePrice": 0.83,
           "displayOrder": 0
         },
         {
@@ -9915,11 +9915,11 @@
           "bestBuyNoCost": 0.75,
           "bestSellYesCost": 0.25,
           "bestSellNoCost": 0.74,
-          "lastClosePrice": 0.17,
+          "lastClosePrice": 0.25,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -9941,7 +9941,7 @@
           "bestBuyNoCost": 0.46,
           "bestSellYesCost": 0.54,
           "bestSellNoCost": 0.42,
-          "lastClosePrice": 0.57,
+          "lastClosePrice": 0.58,
           "displayOrder": 0
         },
         {
@@ -9956,7 +9956,7 @@
           "bestBuyNoCost": 0.61,
           "bestSellYesCost": 0.39,
           "bestSellNoCost": 0.57,
-          "lastClosePrice": 0.44,
+          "lastClosePrice": 0.39,
           "displayOrder": 0
         },
         {
@@ -9990,7 +9990,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10027,7 +10027,7 @@
           "bestBuyNoCost": 0.81,
           "bestSellYesCost": 0.19,
           "bestSellNoCost": 0.76,
-          "lastClosePrice": 0.25,
+          "lastClosePrice": 0.2,
           "displayOrder": 0
         },
         {
@@ -10076,7 +10076,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10113,11 +10113,11 @@
           "bestBuyNoCost": 0.74,
           "bestSellYesCost": 0.26,
           "bestSellNoCost": 0.72,
-          "lastClosePrice": 0.28,
+          "lastClosePrice": 0.26,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10134,10 +10134,10 @@
           "name": "David Blair",
           "shortName": "Blair",
           "status": "Open",
-          "lastTradePrice": 0.71,
+          "lastTradePrice": 0.72,
           "bestBuyYesCost": 0.73,
-          "bestBuyNoCost": 0.34,
-          "bestSellYesCost": 0.66,
+          "bestBuyNoCost": 0.3,
+          "bestSellYesCost": 0.7,
           "bestSellNoCost": 0.27,
           "lastClosePrice": 0.71,
           "displayOrder": 0
@@ -10150,11 +10150,11 @@
           "shortName": "Elrich",
           "status": "Open",
           "lastTradePrice": 0.42,
-          "bestBuyYesCost": 0.43,
+          "bestBuyYesCost": 0.42,
           "bestBuyNoCost": 0.66,
           "bestSellYesCost": 0.34,
-          "bestSellNoCost": 0.57,
-          "lastClosePrice": 0.25,
+          "bestSellNoCost": 0.58,
+          "lastClosePrice": 0.42,
           "displayOrder": 0
         },
         {
@@ -10173,7 +10173,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10190,12 +10190,12 @@
           "name": "Cox ≥ 8%",
           "shortName": "Cox ≥ 8%",
           "status": "Open",
-          "lastTradePrice": 0.96,
-          "bestBuyYesCost": 0.96,
+          "lastTradePrice": 0.97,
+          "bestBuyYesCost": 0.97,
           "bestBuyNoCost": 0.07,
           "bestSellYesCost": 0.93,
-          "bestSellNoCost": 0.04,
-          "lastClosePrice": 0.95,
+          "bestSellNoCost": 0.03,
+          "lastClosePrice": 0.97,
           "displayOrder": 0
         },
         {
@@ -10210,7 +10210,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.05,
           "displayOrder": 1
         },
         {
@@ -10334,7 +10334,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10356,11 +10356,11 @@
           "bestBuyNoCost": 0.58,
           "bestSellYesCost": 0.42,
           "bestSellNoCost": 0.57,
-          "lastClosePrice": 0.43,
+          "lastClosePrice": 0.45,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10382,7 +10382,7 @@
           "bestBuyNoCost": 0.08,
           "bestSellYesCost": 0.92,
           "bestSellNoCost": 0.07,
-          "lastClosePrice": 0.92,
+          "lastClosePrice": 0.93,
           "displayOrder": 0
         },
         {
@@ -10397,7 +10397,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.1,
+          "lastClosePrice": 0.07,
           "displayOrder": 0
         },
         {
@@ -10446,7 +10446,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10468,7 +10468,7 @@
           "bestBuyNoCost": 0.23,
           "bestSellYesCost": 0.77,
           "bestSellNoCost": 0.22,
-          "lastClosePrice": 0.7,
+          "lastClosePrice": 0.77,
           "displayOrder": 0
         },
         {
@@ -10479,15 +10479,15 @@
           "shortName": "Meijer",
           "status": "Open",
           "lastTradePrice": 0.24,
-          "bestBuyYesCost": 0.3,
+          "bestBuyYesCost": 0.24,
           "bestBuyNoCost": 0.77,
           "bestSellYesCost": 0.23,
-          "bestSellNoCost": 0.7,
-          "lastClosePrice": 0.31,
+          "bestSellNoCost": 0.76,
+          "lastClosePrice": 0.24,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10524,7 +10524,7 @@
           "bestBuyNoCost": 0.67,
           "bestSellYesCost": 0.33,
           "bestSellNoCost": 0.58,
-          "lastClosePrice": 0.25,
+          "lastClosePrice": 0.31,
           "displayOrder": 1
         },
         {
@@ -10539,7 +10539,7 @@
           "bestBuyNoCost": 0.4,
           "bestSellYesCost": 0.6,
           "bestSellNoCost": 0.29,
-          "lastClosePrice": 0.69,
+          "lastClosePrice": 0.71,
           "displayOrder": 2
         },
         {
@@ -10648,7 +10648,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10670,11 +10670,11 @@
           "bestBuyNoCost": 0.44,
           "bestSellYesCost": 0.56,
           "bestSellNoCost": 0.43,
-          "lastClosePrice": 0.54,
+          "lastClosePrice": 0.57,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10696,11 +10696,11 @@
           "bestBuyNoCost": 0.65,
           "bestSellYesCost": 0.35,
           "bestSellNoCost": 0.63,
-          "lastClosePrice": 0.29,
+          "lastClosePrice": 0.38,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10722,7 +10722,7 @@
           "bestBuyNoCost": 0.41,
           "bestSellYesCost": 0.59,
           "bestSellNoCost": 0.4,
-          "lastClosePrice": 0.72,
+          "lastClosePrice": 0.64,
           "displayOrder": 0
         },
         {
@@ -10737,11 +10737,11 @@
           "bestBuyNoCost": 0.6,
           "bestSellYesCost": 0.4,
           "bestSellNoCost": 0.59,
-          "lastClosePrice": 0.27,
+          "lastClosePrice": 0.4,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10763,7 +10763,7 @@
           "bestBuyNoCost": 0.09,
           "bestSellYesCost": 0.91,
           "bestSellNoCost": 0.08,
-          "lastClosePrice": 0.9,
+          "lastClosePrice": 0.92,
           "displayOrder": 0
         },
         {
@@ -10778,7 +10778,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.06,
           "displayOrder": 0
         },
         {
@@ -10793,7 +10793,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -10823,11 +10823,11 @@
           "bestBuyNoCost": null,
           "bestSellYesCost": null,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10849,7 +10849,7 @@
           "bestBuyNoCost": 0.17,
           "bestSellYesCost": 0.83,
           "bestSellNoCost": 0.15,
-          "lastClosePrice": 0.77,
+          "lastClosePrice": 0.83,
           "displayOrder": 0
         },
         {
@@ -10864,7 +10864,7 @@
           "bestBuyNoCost": 0.84,
           "bestSellYesCost": 0.16,
           "bestSellNoCost": 0.83,
-          "lastClosePrice": 0.2,
+          "lastClosePrice": 0.16,
           "displayOrder": 0
         },
         {
@@ -10879,7 +10879,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -10898,7 +10898,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10920,7 +10920,7 @@
           "bestBuyNoCost": 0.04,
           "bestSellYesCost": 0.96,
           "bestSellNoCost": 0.03,
-          "lastClosePrice": 0.93,
+          "lastClosePrice": 0.97,
           "displayOrder": 0
         },
         {
@@ -10939,7 +10939,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -10976,7 +10976,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -10995,7 +10995,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11014,10 +11014,10 @@
           "status": "Open",
           "lastTradePrice": 0.67,
           "bestBuyYesCost": 0.68,
-          "bestBuyNoCost": 0.41,
-          "bestSellYesCost": 0.59,
+          "bestBuyNoCost": 0.33,
+          "bestSellYesCost": 0.67,
           "bestSellNoCost": 0.32,
-          "lastClosePrice": 0.64,
+          "lastClosePrice": 0.67,
           "displayOrder": 0
         },
         {
@@ -11032,7 +11032,7 @@
           "bestBuyNoCost": 0.68,
           "bestSellYesCost": 0.32,
           "bestSellNoCost": 0.65,
-          "lastClosePrice": 0.33,
+          "lastClosePrice": 0.32,
           "displayOrder": 0
         },
         {
@@ -11047,7 +11047,7 @@
           "bestBuyNoCost": 0.9,
           "bestSellYesCost": 0.1,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.1,
           "displayOrder": 0
         },
         {
@@ -11062,7 +11062,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -11081,7 +11081,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11103,7 +11103,7 @@
           "bestBuyNoCost": 0.27,
           "bestSellYesCost": 0.73,
           "bestSellNoCost": 0.26,
-          "lastClosePrice": 0.73,
+          "lastClosePrice": 0.74,
           "displayOrder": 0
         },
         {
@@ -11118,7 +11118,7 @@
           "bestBuyNoCost": 0.83,
           "bestSellYesCost": 0.17,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.2,
+          "lastClosePrice": 0.15,
           "displayOrder": 0
         },
         {
@@ -11148,7 +11148,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         },
         {
@@ -11167,7 +11167,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11223,7 +11223,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11240,12 +11240,12 @@
           "name": "Eric Burlison",
           "shortName": "Burlison",
           "status": "Open",
-          "lastTradePrice": 0.82,
+          "lastTradePrice": 0.85,
           "bestBuyYesCost": 0.86,
-          "bestBuyNoCost": 0.15,
-          "bestSellYesCost": 0.85,
+          "bestBuyNoCost": 0.36,
+          "bestSellYesCost": 0.64,
           "bestSellNoCost": 0.14,
-          "lastClosePrice": 0.59,
+          "lastClosePrice": 0.85,
           "displayOrder": 0
         },
         {
@@ -11260,7 +11260,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.66,
-          "lastClosePrice": 0.34,
+          "lastClosePrice": 0.18,
           "displayOrder": 0
         },
         {
@@ -11294,7 +11294,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11316,7 +11316,7 @@
           "bestBuyNoCost": 0.12,
           "bestSellYesCost": 0.88,
           "bestSellNoCost": 0.11,
-          "lastClosePrice": 0.86,
+          "lastClosePrice": 0.89,
           "displayOrder": 0
         },
         {
@@ -11331,7 +11331,7 @@
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
           "bestSellNoCost": 0.88,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.11,
           "displayOrder": 0
         },
         {
@@ -11346,7 +11346,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.01,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -11365,7 +11365,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11406,7 +11406,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11428,7 +11428,7 @@
           "bestBuyNoCost": 0.46,
           "bestSellYesCost": 0.54,
           "bestSellNoCost": 0.43,
-          "lastClosePrice": 0.59,
+          "lastClosePrice": 0.57,
           "displayOrder": 0
         },
         {
@@ -11443,7 +11443,7 @@
           "bestBuyNoCost": 0.73,
           "bestSellYesCost": 0.27,
           "bestSellNoCost": 0.72,
-          "lastClosePrice": 0.29,
+          "lastClosePrice": 0.28,
           "displayOrder": 0
         },
         {
@@ -11458,11 +11458,11 @@
           "bestBuyNoCost": 0.8,
           "bestSellYesCost": 0.2,
           "bestSellNoCost": 0.79,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.23,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11488,7 +11488,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11510,7 +11510,7 @@
           "bestBuyNoCost": 0.46,
           "bestSellYesCost": 0.54,
           "bestSellNoCost": 0.21,
-          "lastClosePrice": 0.51,
+          "lastClosePrice": 0.79,
           "displayOrder": 0
         },
         {
@@ -11525,7 +11525,7 @@
           "bestBuyNoCost": 0.78,
           "bestSellYesCost": 0.22,
           "bestSellNoCost": 0.75,
-          "lastClosePrice": 0.4,
+          "lastClosePrice": 0.25,
           "displayOrder": 0
         },
         {
@@ -11540,11 +11540,11 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11566,7 +11566,7 @@
           "bestBuyNoCost": 0.29,
           "bestSellYesCost": 0.71,
           "bestSellNoCost": 0.21,
-          "lastClosePrice": 0.79,
+          "lastClosePrice": 0.72,
           "displayOrder": 0
         },
         {
@@ -11600,7 +11600,7 @@
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11622,7 +11622,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.07,
           "displayOrder": 0
         },
         {
@@ -11652,7 +11652,7 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.88,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.1,
           "displayOrder": 2
         },
         {
@@ -11667,7 +11667,7 @@
           "bestBuyNoCost": 0.9,
           "bestSellYesCost": 0.1,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.13,
           "displayOrder": 3
         },
         {
@@ -11682,7 +11682,7 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.9,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.1,
           "displayOrder": 4
         },
         {
@@ -11712,7 +11712,7 @@
           "bestBuyNoCost": 0.88,
           "bestSellYesCost": 0.12,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.11,
+          "lastClosePrice": 0.12,
           "displayOrder": 6
         },
         {
@@ -11727,7 +11727,7 @@
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
           "bestSellNoCost": 0.88,
-          "lastClosePrice": 0.13,
+          "lastClosePrice": 0.12,
           "displayOrder": 7
         },
         {
@@ -11757,11 +11757,11 @@
           "bestBuyNoCost": 0.83,
           "bestSellYesCost": 0.17,
           "bestSellNoCost": 0.8,
-          "lastClosePrice": 0.23,
+          "lastClosePrice": 0.17,
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11798,7 +11798,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.05,
           "displayOrder": 1
         },
         {
@@ -11813,7 +11813,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.05,
           "displayOrder": 2
         },
         {
@@ -11888,7 +11888,7 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.9,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.11,
           "displayOrder": 7
         },
         {
@@ -11903,7 +11903,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.91,
-          "lastClosePrice": 0.08,
+          "lastClosePrice": 0.09,
           "displayOrder": 8
         },
         {
@@ -11918,11 +11918,11 @@
           "bestBuyNoCost": 0.55,
           "bestSellYesCost": 0.45,
           "bestSellNoCost": 0.53,
-          "lastClosePrice": 0.38,
+          "lastClosePrice": 0.46,
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11959,11 +11959,11 @@
           "bestBuyNoCost": 0.86,
           "bestSellYesCost": 0.14,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.23,
+          "lastClosePrice": 0.14,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -11985,7 +11985,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.05,
           "displayOrder": 0
         },
         {
@@ -12075,7 +12075,7 @@
           "bestBuyNoCost": 0.91,
           "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": 0.27,
+          "lastClosePrice": 0.1,
           "displayOrder": 6
         },
         {
@@ -12150,11 +12150,11 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.71,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.18,
           "displayOrder": 11
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -12176,7 +12176,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.02,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -12186,12 +12186,12 @@
           "name": "38.0% to 38.2%",
           "shortName": "38.0% to 38.2%",
           "status": "Open",
-          "lastTradePrice": 0.02,
+          "lastTradePrice": 0.03,
           "bestBuyYesCost": 0.03,
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -12206,7 +12206,7 @@
           "bestBuyNoCost": 0.89,
           "bestSellYesCost": 0.11,
           "bestSellNoCost": 0.88,
-          "lastClosePrice": 0.1,
+          "lastClosePrice": 0.11,
           "displayOrder": 0
         },
         {
@@ -12216,12 +12216,12 @@
           "name": "38.6% to 38.8%",
           "shortName": "38.6% to 38.8%",
           "status": "Open",
-          "lastTradePrice": 0.16,
+          "lastTradePrice": 0.15,
           "bestBuyYesCost": 0.17,
           "bestBuyNoCost": 0.85,
           "bestSellYesCost": 0.15,
           "bestSellNoCost": 0.83,
-          "lastClosePrice": 0.14,
+          "lastClosePrice": 0.15,
           "displayOrder": 0
         },
         {
@@ -12231,12 +12231,12 @@
           "name": "38.9% to 39.1%",
           "shortName": "38.9% to 39.1%",
           "status": "Open",
-          "lastTradePrice": 0.28,
-          "bestBuyYesCost": 0.29,
-          "bestBuyNoCost": 0.72,
-          "bestSellYesCost": 0.28,
-          "bestSellNoCost": 0.71,
-          "lastClosePrice": 0.2,
+          "lastTradePrice": 0.26,
+          "bestBuyYesCost": 0.27,
+          "bestBuyNoCost": 0.74,
+          "bestSellYesCost": 0.26,
+          "bestSellNoCost": 0.73,
+          "lastClosePrice": 0.26,
           "displayOrder": 0
         },
         {
@@ -12246,12 +12246,12 @@
           "name": "39.2% to 39.4%",
           "shortName": "39.2% to 39.4%",
           "status": "Open",
-          "lastTradePrice": 0.22,
-          "bestBuyYesCost": 0.22,
-          "bestBuyNoCost": 0.79,
-          "bestSellYesCost": 0.21,
-          "bestSellNoCost": 0.78,
-          "lastClosePrice": 0.22,
+          "lastTradePrice": 0.21,
+          "bestBuyYesCost": 0.21,
+          "bestBuyNoCost": 0.8,
+          "bestSellYesCost": 0.2,
+          "bestSellNoCost": 0.79,
+          "lastClosePrice": 0.21,
           "displayOrder": 0
         },
         {
@@ -12261,12 +12261,12 @@
           "name": "39.5% to 39.7%",
           "shortName": "39.5% to 39.7%",
           "status": "Open",
-          "lastTradePrice": 0.18,
-          "bestBuyYesCost": 0.18,
-          "bestBuyNoCost": 0.83,
-          "bestSellYesCost": 0.17,
-          "bestSellNoCost": 0.82,
-          "lastClosePrice": 0.18,
+          "lastTradePrice": 0.15,
+          "bestBuyYesCost": 0.16,
+          "bestBuyNoCost": 0.87,
+          "bestSellYesCost": 0.13,
+          "bestSellNoCost": 0.84,
+          "lastClosePrice": 0.15,
           "displayOrder": 0
         },
         {
@@ -12278,10 +12278,10 @@
           "status": "Open",
           "lastTradePrice": 0.12,
           "bestBuyYesCost": 0.13,
-          "bestBuyNoCost": 0.88,
-          "bestSellYesCost": 0.12,
+          "bestBuyNoCost": 0.9,
+          "bestSellYesCost": 0.1,
           "bestSellNoCost": 0.87,
-          "lastClosePrice": 0.15,
+          "lastClosePrice": 0.12,
           "displayOrder": 0
         },
         {
@@ -12293,14 +12293,14 @@
           "status": "Open",
           "lastTradePrice": 0.1,
           "bestBuyYesCost": 0.11,
-          "bestBuyNoCost": 0.9,
-          "bestSellYesCost": 0.1,
+          "bestBuyNoCost": 0.91,
+          "bestSellYesCost": 0.09,
           "bestSellNoCost": 0.89,
-          "lastClosePrice": 0.09,
+          "lastClosePrice": 0.1,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -12317,12 +12317,12 @@
           "name": "Dem ≥ 0.6%",
           "shortName": "Dem ≥ 0.6%",
           "status": "Open",
-          "lastTradePrice": 0.14,
+          "lastTradePrice": 0.13,
           "bestBuyYesCost": 0.14,
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.86,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.13,
           "displayOrder": 0
         },
         {
@@ -12337,7 +12337,7 @@
           "bestBuyNoCost": 0.85,
           "bestSellYesCost": 0.15,
           "bestSellNoCost": 0.84,
-          "lastClosePrice": 0.18,
+          "lastClosePrice": 0.15,
           "displayOrder": 1
         },
         {
@@ -12352,7 +12352,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.78,
-          "lastClosePrice": 0.2,
+          "lastClosePrice": 0.21,
           "displayOrder": 2
         },
         {
@@ -12367,7 +12367,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": 0.16,
+          "lastClosePrice": 0.14,
           "displayOrder": 3
         },
         {
@@ -12382,7 +12382,7 @@
           "bestBuyNoCost": 0.78,
           "bestSellYesCost": 0.22,
           "bestSellNoCost": 0.76,
-          "lastClosePrice": 0.19,
+          "lastClosePrice": 0.26,
           "displayOrder": 4
         },
         {
@@ -12412,7 +12412,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": 0.05,
+          "lastClosePrice": 0.08,
           "displayOrder": 6
         },
         {
@@ -12427,7 +12427,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.05,
           "displayOrder": 7
         },
         {
@@ -12442,11 +12442,11 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.04,
           "displayOrder": 8
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -12468,7 +12468,7 @@
           "bestBuyNoCost": 0.8,
           "bestSellYesCost": 0.2,
           "bestSellNoCost": 0.34,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.75,
           "displayOrder": 0
         },
         {
@@ -12573,7 +12573,7 @@
           "bestBuyNoCost": 0.93,
           "bestSellYesCost": 0.07,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.05,
           "displayOrder": 7
         },
         {
@@ -12607,7 +12607,7 @@
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -12629,7 +12629,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.96,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -12644,7 +12644,7 @@
           "bestBuyNoCost": 0.97,
           "bestSellYesCost": 0.03,
           "bestSellNoCost": 0.95,
-          "lastClosePrice": 0.12,
+          "lastClosePrice": 0.03,
           "displayOrder": 1
         },
         {
@@ -12659,7 +12659,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.06,
           "displayOrder": 2
         },
         {
@@ -12674,7 +12674,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.93,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.06,
           "displayOrder": 3
         },
         {
@@ -12689,7 +12689,7 @@
           "bestBuyNoCost": 0.96,
           "bestSellYesCost": 0.04,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.06,
           "displayOrder": 4
         },
         {
@@ -12704,7 +12704,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.08,
           "displayOrder": 5
         },
         {
@@ -12719,7 +12719,7 @@
           "bestBuyNoCost": 0.87,
           "bestSellYesCost": 0.13,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.13,
           "displayOrder": 6
         },
         {
@@ -12734,7 +12734,7 @@
           "bestBuyNoCost": 0.86,
           "bestSellYesCost": 0.14,
           "bestSellNoCost": 0.85,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.14,
           "displayOrder": 7
         },
         {
@@ -12749,7 +12749,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.72,
-          "lastClosePrice": null,
+          "lastClosePrice": 0.25,
           "displayOrder": 8
         },
         {
@@ -12764,11 +12764,11 @@
           "bestBuyNoCost": 0.66,
           "bestSellYesCost": 0.34,
           "bestSellNoCost": 0.56,
-          "lastClosePrice": 0.42,
+          "lastClosePrice": 0.34,
           "displayOrder": 9
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     },
     {
@@ -12790,7 +12790,7 @@
           "bestBuyNoCost": 0.99,
           "bestSellYesCost": 0.01,
           "bestSellNoCost": 0.98,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.01,
           "displayOrder": 0
         },
         {
@@ -12805,7 +12805,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.03,
+          "lastClosePrice": 0.02,
           "displayOrder": 0
         },
         {
@@ -12820,7 +12820,7 @@
           "bestBuyNoCost": 0.98,
           "bestSellYesCost": 0.02,
           "bestSellNoCost": 0.97,
-          "lastClosePrice": 0.04,
+          "lastClosePrice": 0.03,
           "displayOrder": 0
         },
         {
@@ -12835,7 +12835,7 @@
           "bestBuyNoCost": 0.95,
           "bestSellYesCost": 0.05,
           "bestSellNoCost": 0.94,
-          "lastClosePrice": 0.06,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -12850,7 +12850,7 @@
           "bestBuyNoCost": 0.94,
           "bestSellYesCost": 0.06,
           "bestSellNoCost": 0.92,
-          "lastClosePrice": 0.07,
+          "lastClosePrice": 0.08,
           "displayOrder": 0
         },
         {
@@ -12865,7 +12865,7 @@
           "bestBuyNoCost": 0.84,
           "bestSellYesCost": 0.16,
           "bestSellNoCost": 0.83,
-          "lastClosePrice": 0.17,
+          "lastClosePrice": 0.16,
           "displayOrder": 0
         },
         {
@@ -12895,7 +12895,7 @@
           "bestBuyNoCost": 0.82,
           "bestSellYesCost": 0.18,
           "bestSellNoCost": 0.81,
-          "lastClosePrice": 0.21,
+          "lastClosePrice": 0.19,
           "displayOrder": 0
         },
         {
@@ -12910,11 +12910,11 @@
           "bestBuyNoCost": 0.65,
           "bestSellYesCost": 0.35,
           "bestSellNoCost": 0.59,
-          "lastClosePrice": 0.28,
+          "lastClosePrice": 0.36,
           "displayOrder": 0
         }
       ],
-      "timeStamp": "2022-07-30T23:50:23.0727704",
+      "timeStamp": "2022-07-31T00:03:38.6747124",
       "status": "Open"
     }
   ]
