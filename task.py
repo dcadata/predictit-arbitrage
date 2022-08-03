@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 
 _DATA_DIR = 'data/'
+_MIN_PROFIT_CUTOFF = 0.01
 
 
 class Calculator:
@@ -69,20 +70,21 @@ class Calculator:
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
-        summary = self._calculate_profit_from_log(log)
+        summary = self._get_log_summary()
         open(_DATA_DIR + 'summary.txt', 'w').write(summary)
         readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
-    def _calculate_profit_from_log(self, log: pd.DataFrame = None) -> str:
-        if log is None:
-            log = self._arbs_log.copy()
-        min_profit_cutoff = 0
-        log = log[log.profit_net > min_profit_cutoff].drop_duplicates(subset=['murl'], keep='last')
+    def _filter_on_actionable_arbs(self) -> pd.DataFrame:
+        log = self._arbs_log[self._arbs_log.profit_net >= _MIN_PROFIT_CUTOFF].drop_duplicates(subset=[
+            'murl'], keep='last')
+        return log
+
+    def _get_log_summary(self) -> str:
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
-        profit_net = log.profit_net.sum() * 850
+        profit_net = self._filter_on_actionable_arbs().profit_net.sum() * 850
         lines = (
-            f'Opportunities with minimum profit cutoff >= {min_profit_cutoff}',
+            f'Opportunities with minimum profit cutoff >= {_MIN_PROFIT_CUTOFF}',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2):,}',
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2):,}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2):,}',
