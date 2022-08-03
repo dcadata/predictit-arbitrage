@@ -7,7 +7,6 @@ import pandas as pd
 import requests
 
 _DATA_DIR = 'data/'
-_MIN_PROFIT_CUTOFF = 0.000000001
 
 
 class Calculator:
@@ -76,14 +75,13 @@ class Calculator:
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
     def _create_summary(self) -> str:
-        actionable_arbs = self._arbs_log[self._arbs_log.profit_net >= _MIN_PROFIT_CUTOFF].drop_duplicates(subset=[
-            'murl'], keep='last')
+        actionable_arbs = self._arbs_log[self._arbs_log.profit_net > 0].drop_duplicates(subset=['murl'], keep='last')
         actionable_arbs.to_csv(_DATA_DIR + 'actionable_arbs.csv', index=False)
 
         profit_net = actionable_arbs.profit_net.sum() * 850
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
         lines = (
-            f'Opportunities with minimum profit cutoff >= {_MIN_PROFIT_CUTOFF}',
+            'Opportunities with profit:',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2):,}',
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2):,}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2):,}',
