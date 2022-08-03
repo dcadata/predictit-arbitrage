@@ -132,15 +132,14 @@ def run() -> None:
     calculator = Calculator()
     calculator.calculate()
     if arbs_count := len(calculator.arbs):
-        commands = [
-            'git config user.name "Automated"',
-            'git config user.email "actions@users.noreply.github.com"',
-            'git add -A',
-            'git commit -m "Latest data: {0} ({1})" || exit 0'.format(datetime.utcnow().strftime(
-                '%d %B %Y %H:%M'), arbs_count),
-            'git push',
-        ]
-        for command in commands:
+        for command in (
+                'git config user.name "Automated"',
+                'git config user.email "actions@users.noreply.github.com"',
+                'git add -A',
+                'git commit -m "Latest data: {0} ({1})" || exit 0'.format(datetime.utcnow().strftime(
+                    '%d %B %Y %H:%M'), arbs_count),
+                'git push',
+        ):
             os.system(command)
 
 
