@@ -1,6 +1,6 @@
+import json
+import os
 from datetime import datetime
-from json import load
-from os import system
 from time import sleep
 
 import pandas as pd
@@ -9,103 +9,72 @@ import requests
 _DATA_DIR = 'data/'
 
 
-class Requester:
-    @staticmethod
-    def make_request():
-        response = requests.get('https://www.predictit.org/api/marketdata/all/')
-        open(_DATA_DIR + 'markets.json', 'wb').write(response.content)
-        return response
-
-    @property
-    def _raw_markets(self):
-        return load(open(_DATA_DIR + 'markets.json', encoding='utf8'))
-
-    @property
-    def _markets(self):
-        return self._raw_markets['markets']
-
-
-class Processor(Requester):
+class Calculator:
     def __init__(self):
         self.arbs = pd.DataFrame()
+        self._cost_cols = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
+        self._revenue_and_profit_cols = ['contracts_ct', 'revenue', 'pi_cut']
+        self._market_cols = ['mshortName', 'murl']
+        self._contract_cols = ['cshortName', *self._cost_cols]
+        self._initial_cols = self._market_cols + self._contract_cols
+        self._final_cols = [
+            *self._market_cols, *self._cost_cols, *self._revenue_and_profit_cols,
+            'pi_cut_min', 'pi_cut_less_min', 'acct_fee', 'profit_net',
+        ]
 
-    def process(self):
-        self._get_all_contract_data()
-        self._create_dataframe()
-
-    def _get_all_contract_data(self):
-        self._data = []
-        for market in self._markets:
-            self._data.extend(self._get_contract_data(market, contract) for contract in market['contracts'])
-
-    def _create_dataframe(self):
-        self.arbs = pd.DataFrame(self._data).drop_duplicates()
-        self.arbs.to_csv(_DATA_DIR + 'markets.csv', index=False)
-
-    @staticmethod
-    def _get_contract_data(market, contract):
-        data = {}
-        for market_field in ['shortName', 'url']:
-            data[f'm{market_field}'] = market[market_field]
-        for contract_field in ['name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost']:
-            data[f'c{contract_field}'] = contract[contract_field]
-        return data
-
-
-class Calculator(Processor):
-    _cost_cols = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
-    _revenue_and_profit_cols = ['contracts_ct', 'revenue', 'pi_cut']
-    _market_cols = ['mshortName', 'murl']
-    _contract_cols = ['cshortName', *_cost_cols]
-    _initial_cols = _market_cols + _contract_cols
-    _final_cols = [
-        *_market_cols,
-        *_cost_cols,
-        *_revenue_and_profit_cols,
-        'pi_cut_min',
-        'pi_cut_less_min',
-        'acct_fee',
-        'profit_net',
-    ]
-
-    def calculate(self):
+    def calculate(self) -> None:
+        self._make_request()
+        if not self._response.ok:
+            return
+        self._get_contract_data()
         self._calculate_at_contract_level()
         self._aggregate_at_market_level()
         self._calculate_at_market_level()
-        self._filter_dataframe()
+        self._filter_data()
         if len(self.arbs):
             self._finalize_and_save_dataframe()
 
-    def _calculate_at_contract_level(self):
+    def _make_request(self) -> None:
+        self._response = requests.get('https://www.predictit.org/api/marketdata/all/')
+        open(_DATA_DIR + 'markets.json', 'wb').write(self._response.content)
+
+    def _get_contract_data(self) -> None:
+        arbs_data = []
+        for market in self._raw_markets['markets']:
+            arbs_data.extend(_get_contract_data(market, contract) for contract in market['contracts'])
+        self.arbs = pd.DataFrame(arbs_data).drop_duplicates()
+        self.arbs.to_csv(_DATA_DIR + 'markets.csv', index=False)
+
+    def _calculate_at_contract_level(self) -> None:
         self.arbs = self.arbs[~self.arbs['cbestBuyNoCost'].isnull()].assign(contracts_ct=1).assign(revenue=1)
         self.arbs['pi_cut'] = self.arbs['cbestBuyNoCost'].apply(lambda x: (1 - x) * 0.1)
         self.arbs = self.arbs.assign(pi_cut_min=self.arbs['pi_cut'])
 
-    def _aggregate_at_market_level(self):
+    def _aggregate_at_market_level(self) -> None:
         agg_dict = dict((sum_col, 'sum') for sum_col in self._cost_cols + self._revenue_and_profit_cols)
         agg_dict['pi_cut_min'] = 'min'
         self.arbs = self.arbs.groupby(by=self._market_cols, as_index=False, sort=False).agg(agg_dict)
 
-    def _calculate_at_market_level(self):
+    def _calculate_at_market_level(self) -> None:
         self.arbs['revenue'] = self.arbs['revenue'].apply(lambda x: x - 1)
         self.arbs['pi_cut_less_min'] = self.arbs['pi_cut'] - self.arbs['pi_cut_min']
         self.arbs['profit_net'] = self.arbs['revenue'] - self.arbs['cbestBuyNoCost'] - self.arbs['pi_cut_less_min']
         self.arbs['acct_fee'] = 0  # (self.arbs_agg['cbestBuyNoCost'] + self.arbs_agg['profit_cut']) * 0.05
 
-    def _filter_dataframe(self):
+    def _filter_data(self) -> None:
         self.arbs = self.arbs[(self.arbs['contracts_ct'] > 1) & (self.arbs['profit_net'] > 0)].copy()
 
-    def _finalize_and_save_dataframe(self):
+    def _finalize_and_save_dataframe(self) -> None:
         self.arbs = self.arbs.sort_values('profit_net', ascending=False)[self._final_cols]
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
-        summary = self._calculate_profit_from_log(log=log)
+        summary = self._calculate_profit_from_log(log)
         open(_DATA_DIR + 'summary.txt', 'w').write(summary)
         readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
-    def _calculate_profit_from_log(self, log=None):
+    def _calculate_profit_from_log(self, log: pd.DataFrame = None) -> str:
         if log is None:
             log = self._arbs_log.copy()
         min_profit_cutoff = 0
@@ -119,6 +88,10 @@ class Calculator(Processor):
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2):,}',
         )
         return '  \n'.join(lines)
+
+    @property
+    def _raw_markets(self) -> dict:
+        return json.load(open(_DATA_DIR + 'markets.json', encoding='utf8'))
 
     @property
     def _arbs_log(self) -> pd.DataFrame:
@@ -145,19 +118,21 @@ class Calculator(Processor):
         return _DATA_DIR + 'arbs.csv'
 
 
-def _calculate() -> int:
+def _get_contract_data(market: dict, contract: dict) -> dict:
+    data = {}
+    for market_field in ['shortName', 'url']:
+        data[f'm{market_field}'] = market[market_field]
+    for contract_field in ['name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost']:
+        data[f'c{contract_field}'] = contract[contract_field]
+    return data
+
+
+def run() -> None:
     calculator = Calculator()
-    response = calculator.make_request()
-    if response.ok:
-        calculator.process()
-        calculator.calculate()
-    return len(calculator.arbs)
-
-
-def _run():
-    if arbs_count := _calculate():
+    calculator.calculate()
+    if arbs_count := len(calculator.arbs):
         commands = [
-            'git config user.name "Actions on behalf of Devon Ankar"',
+            'git config user.name "Automated"',
             'git config user.email "actions@users.noreply.github.com"',
             'git add -A',
             'git commit -m "Latest data: {0} ({1})" || exit 0'.format(datetime.utcnow().strftime(
@@ -165,7 +140,7 @@ def _run():
             'git push',
         ]
         for command in commands:
-            system(command)
+            os.system(command)
 
 
 def main():
@@ -174,7 +149,7 @@ def main():
     while True:
         if (datetime.utcnow() - start_time).total_seconds() >= run_time:
             break
-        _run()
+        run()
         sleep(60)
 
 
