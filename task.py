@@ -121,9 +121,9 @@ class Calculator:
 
 def _get_contract_data(market: dict, contract: dict) -> dict:
     data = {}
-    for market_field in ['shortName', 'url']:
+    for market_field in ('shortName', 'url'):
         data[f'm{market_field}'] = market[market_field]
-    for contract_field in ['name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost']:
+    for contract_field in ('name', 'bestBuyYesCost', 'bestBuyNoCost', 'bestSellYesCost', 'bestSellNoCost'):
         data[f'c{contract_field}'] = contract[contract_field]
     return data
 
