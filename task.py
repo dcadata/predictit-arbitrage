@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 _DATA_DIR = 'data/'
-_MIN_PROFIT_CUTOFF = 0.01
+_MIN_PROFIT_CUTOFF = 0.000000001
 
 
 class Calculator:
