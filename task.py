@@ -70,19 +70,18 @@ class Calculator:
         dttm = str(datetime.utcnow())
         log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
         log.to_csv(self._arbs_log_fp, index=False)
-        summary = self._get_log_summary()
+        summary = self._create_summary()
         open(_DATA_DIR + 'summary.txt', 'w').write(summary)
         readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
-    def _filter_on_actionable_arbs(self) -> pd.DataFrame:
-        log = self._arbs_log[self._arbs_log.profit_net >= _MIN_PROFIT_CUTOFF].drop_duplicates(subset=[
+    def _create_summary(self) -> str:
+        actionable_arbs = self._arbs_log[self._arbs_log.profit_net >= _MIN_PROFIT_CUTOFF].drop_duplicates(subset=[
             'murl'], keep='last')
-        return log
+        actionable_arbs.to_csv(_DATA_DIR + 'actionable_arbs.csv', index=False)
 
-    def _get_log_summary(self) -> str:
+        profit_net = actionable_arbs.profit_net.sum() * 850
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
-        profit_net = self._filter_on_actionable_arbs().profit_net.sum() * 850
         lines = (
             f'Opportunities with minimum profit cutoff >= {_MIN_PROFIT_CUTOFF}',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2):,}',
