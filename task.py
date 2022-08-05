@@ -19,7 +19,7 @@ class Calculator:
         self._initial_cols = self._market_cols + self._contract_cols
         self._final_cols = [
             *self._market_cols, *self._cost_cols, *self._revenue_and_profit_cols,
-            'pi_cut_min', 'pi_cut_less_min', 'acct_fee', 'profit_net',
+            'pi_cut_min', 'pi_cut_less_min', 'profit_net',
         ]
 
     def calculate(self) -> None:
@@ -59,7 +59,6 @@ class Calculator:
         self.arbs['revenue'] = self.arbs['revenue'].apply(lambda x: x - 1)
         self.arbs['pi_cut_less_min'] = self.arbs['pi_cut'] - self.arbs['pi_cut_min']
         self.arbs['profit_net'] = self.arbs['revenue'] - self.arbs['cbestBuyNoCost'] - self.arbs['pi_cut_less_min']
-        self.arbs['acct_fee'] = 0  # (self.arbs_agg['cbestBuyNoCost'] + self.arbs_agg['profit_cut']) * 0.05
 
     def _filter_data(self) -> None:
         self.arbs = self.arbs[(self.arbs['contracts_ct'] > 1) & (self.arbs['profit_net'] > 0)].copy()
@@ -106,7 +105,6 @@ class Calculator:
             'pi_cut': float,
             'pi_cut_min': float,
             'pi_cut_less_min': float,
-            'acct_fee': float,
             'profit_net': float,
             'dttm': str,
         }
