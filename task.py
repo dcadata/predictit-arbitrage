@@ -7,11 +7,13 @@ import pandas as pd
 import requests
 
 _DATA_DIR = 'data/'
+_ARBS_FP = _DATA_DIR + 'arbs.csv'
+_ACTIONABLE_ARBS_FP = _DATA_DIR + 'actionable_arbs.csv'
+_SUMMARY_FP = _DATA_DIR + 'summary.txt'
 
 
 class Calculator:
     def __init__(self):
-        self.arbs = pd.DataFrame()
         self._cost_cols = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
         self._revenue_and_profit_cols = ['contracts_ct', 'revenue', 'pi_cut']
         self._market_cols = ['mshortName', 'murl']
@@ -31,8 +33,11 @@ class Calculator:
         self._aggregate_at_market_level()
         self._calculate_at_market_level()
         self._filter_data()
-        if len(self.arbs):
-            self._finalize_and_save_dataframe()
+        if not len(self.arbs):
+            return
+        self._update_and_save_arbs()
+        self._filter_on_actionable_arbs()
+        self._create_text_summary()
 
     def _make_request(self) -> None:
         self._response = requests.get('https://www.predictit.org/api/marketdata/all/')
@@ -63,29 +68,27 @@ class Calculator:
     def _filter_data(self) -> None:
         self.arbs = self.arbs[(self.arbs['contracts_ct'] > 1) & (self.arbs['profit_net'] > 0)].copy()
 
-    def _finalize_and_save_dataframe(self) -> None:
+    def _update_and_save_arbs(self) -> None:
         self.arbs = self.arbs.sort_values('profit_net', ascending=False)[self._final_cols]
-        dttm = str(datetime.utcnow())
-        log = pd.concat((self.arbs.assign(dttm=dttm), self._arbs_log))
-        log.to_csv(self._arbs_log_fp, index=False)
-        summary = self._create_summary()
-        open(_DATA_DIR + 'summary.txt', 'w').write(summary)
-        readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
-        open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
+        pd.concat((self.arbs.assign(dttm=str(datetime.utcnow())), self._arbs_log)).to_csv(_ARBS_FP, index=False)
 
-    def _create_summary(self) -> str:
-        actionable_arbs = self._arbs_log[self._arbs_log.profit_net > 0].drop_duplicates(subset=['murl'], keep='last')
-        actionable_arbs.to_csv(_DATA_DIR + 'actionable_arbs.csv', index=False)
+    def _filter_on_actionable_arbs(self) -> None:
+        arbs_log = self._arbs_log.copy()
+        self._actionable_arbs = arbs_log[arbs_log.profit_net > 0].drop_duplicates(subset=['murl'], keep='last')
+        self._actionable_arbs.to_csv(_ACTIONABLE_ARBS_FP, index=False)
 
-        profit_net = actionable_arbs.profit_net.sum() * 850
+    def _create_text_summary(self) -> None:
+        profit_net = self._actionable_arbs.profit_net.sum() * 850
         days_elapsed = (datetime.utcnow() - datetime(2021, 3, 29)).days + 1
-        lines = (
+        summary = '  \n'.join((
             'Opportunities with profit:',
             f'Since 3/29/21 - {days_elapsed} days: ${round(profit_net, 2):,}',
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2):,}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2):,}',
-        )
-        return '  \n'.join(lines)
+        ))
+        open(_SUMMARY_FP, 'w').write(summary)
+        readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
+        open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
     @property
     def _raw_markets(self) -> dict:
@@ -108,11 +111,7 @@ class Calculator:
             'profit_net': float,
             'dttm': str,
         }
-        return pd.read_csv(self._arbs_log_fp, usecols=dtypes.keys(), dtype=dtypes)
-
-    @property
-    def _arbs_log_fp(self) -> str:
-        return _DATA_DIR + 'arbs.csv'
+        return pd.read_csv(_ARBS_FP, usecols=dtypes.keys(), dtype=dtypes)
 
 
 def _get_contract_data(market: dict, contract: dict) -> dict:
