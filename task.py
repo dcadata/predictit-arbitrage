@@ -1,4 +1,3 @@
-import json
 import os
 from datetime import datetime
 from time import sleep
@@ -26,7 +25,7 @@ class Calculator:
 
     def calculate(self) -> None:
         self._make_request()
-        if not self._response.ok:
+        if not self._markets_response.ok:
             return
         self._get_contract_data()
         self._calculate_at_contract_level()
@@ -40,15 +39,13 @@ class Calculator:
         self._create_text_summary()
 
     def _make_request(self) -> None:
-        self._response = requests.get('https://www.predictit.org/api/marketdata/all/')
-        open(_DATA_DIR + 'markets.json', 'wb').write(self._response.content)
+        self._markets_response = requests.get('https://www.predictit.org/api/marketdata/all/').json()
 
     def _get_contract_data(self) -> None:
         arbs_data = []
-        for market in self._raw_markets['markets']:
+        for market in self._markets_response['markets']:
             arbs_data.extend(_get_contract_data(market, contract) for contract in market['contracts'])
         self.arbs = pd.DataFrame(arbs_data).drop_duplicates()
-        self.arbs.to_csv(_DATA_DIR + 'markets.csv', index=False)
 
     def _calculate_at_contract_level(self) -> None:
         self.arbs = self.arbs[~self.arbs['cbestBuyNoCost'].isnull()].assign(contracts_ct=1).assign(revenue=1)
@@ -89,10 +86,6 @@ class Calculator:
         open(_SUMMARY_FP, 'w').write(summary)
         readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
-
-    @property
-    def _raw_markets(self) -> dict:
-        return json.load(open(_DATA_DIR + 'markets.json', encoding='utf8'))
 
     @property
     def _arbs_log(self) -> pd.DataFrame:
