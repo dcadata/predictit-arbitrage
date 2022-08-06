@@ -8,7 +8,6 @@ import requests
 _DATA_DIR = 'data/'
 _ARBS_FP = _DATA_DIR + 'arbs.csv'
 _ACTIONABLE_ARBS_FP = _DATA_DIR + 'actionable_arbs.csv'
-_SUMMARY_FP = _DATA_DIR + 'summary.txt'
 
 
 class Calculator:
@@ -83,7 +82,6 @@ class Calculator:
             f'Monthly: ${round(profit_net * (30 / days_elapsed), 2):,}',
             f'Annual: ${round(profit_net * (365 / days_elapsed), 2):,}',
         ))
-        open(_SUMMARY_FP, 'w').write(summary)
         readme = open('README.md').read().split('\n\n---\n\n', 1)[0]
         open('README.md', 'w').write('\n\n'.join((readme, '---', '## Summary', summary)))
 
