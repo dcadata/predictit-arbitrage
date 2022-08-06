@@ -39,11 +39,11 @@ class Calculator:
         self._create_text_summary()
 
     def _make_request(self) -> None:
-        self._markets_response = requests.get('https://www.predictit.org/api/marketdata/all/').json()
+        self._markets_response = requests.get('https://www.predictit.org/api/marketdata/all/')
 
     def _get_contract_data(self) -> None:
         arbs_data = []
-        for market in self._markets_response['markets']:
+        for market in self._markets_response.json()['markets']:
             arbs_data.extend(_get_contract_data(market, contract) for contract in market['contracts'])
         self.arbs = pd.DataFrame(arbs_data).drop_duplicates()
 
