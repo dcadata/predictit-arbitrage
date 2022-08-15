@@ -27,10 +27,7 @@ _API_URL = 'https://www.predictit.org/api/marketdata/all/'
 _COST_COLS = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
 _REVENUE_AND_PROFIT_COLS = ['contracts_ct', 'revenue', 'pi_cut']
 _MARKET_COLS = ['mshortName', 'murl']
-_FINAL_COLS = [
-    *_MARKET_COLS, *_COST_COLS, *_REVENUE_AND_PROFIT_COLS,
-    'pi_cut_min', 'pi_cut_less_min', 'profit_net',
-]
+_FINAL_COLS = [*_MARKET_COLS, *_COST_COLS, *_REVENUE_AND_PROFIT_COLS, 'pi_cut_min', 'pi_cut_less_min', 'profit_net']
 
 
 class Calculator:
