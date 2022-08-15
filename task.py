@@ -8,20 +8,32 @@ import requests
 _DATA_DIR = 'data/'
 _ARBS_FP = _DATA_DIR + 'arbs.csv'
 _ACTIONABLE_ARBS_FP = _DATA_DIR + 'actionable_arbs.csv'
+_ARBS_LOG_DTYPES = {
+    'mshortName': str,
+    'murl': str,
+    'cbestBuyYesCost': float,
+    'cbestSellYesCost': float,
+    'cbestBuyNoCost': float,
+    'cbestSellNoCost': float,
+    'contracts_ct': int,
+    'revenue': int,
+    'pi_cut': float,
+    'pi_cut_min': float,
+    'pi_cut_less_min': float,
+    'profit_net': float,
+    'dttm': str,
+}
+_API_URL = 'https://www.predictit.org/api/marketdata/all/'
+_COST_COLS = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
+_REVENUE_AND_PROFIT_COLS = ['contracts_ct', 'revenue', 'pi_cut']
+_MARKET_COLS = ['mshortName', 'murl']
+_FINAL_COLS = [
+    *_MARKET_COLS, *_COST_COLS, *_REVENUE_AND_PROFIT_COLS,
+    'pi_cut_min', 'pi_cut_less_min', 'profit_net',
+]
 
 
 class Calculator:
-    def __init__(self):
-        self._cost_cols = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSellNoCost']
-        self._revenue_and_profit_cols = ['contracts_ct', 'revenue', 'pi_cut']
-        self._market_cols = ['mshortName', 'murl']
-        self._contract_cols = ['cshortName', *self._cost_cols]
-        self._initial_cols = self._market_cols + self._contract_cols
-        self._final_cols = [
-            *self._market_cols, *self._cost_cols, *self._revenue_and_profit_cols,
-            'pi_cut_min', 'pi_cut_less_min', 'profit_net',
-        ]
-
     def calculate(self) -> None:
         self._make_request()
         if not self._markets_response.ok:
@@ -38,7 +50,7 @@ class Calculator:
         self._create_text_summary()
 
     def _make_request(self) -> None:
-        self._markets_response = requests.get('https://www.predictit.org/api/marketdata/all/')
+        self._markets_response = requests.get(_API_URL)
 
     def _get_contract_data(self) -> None:
         arbs_data = []
@@ -52,9 +64,9 @@ class Calculator:
         self.arbs = self.arbs.assign(pi_cut_min=self.arbs['pi_cut'])
 
     def _aggregate_at_market_level(self) -> None:
-        agg_dict = dict((sum_col, 'sum') for sum_col in self._cost_cols + self._revenue_and_profit_cols)
+        agg_dict = dict((sum_col, 'sum') for sum_col in _COST_COLS + _REVENUE_AND_PROFIT_COLS)
         agg_dict['pi_cut_min'] = 'min'
-        self.arbs = self.arbs.groupby(by=self._market_cols, as_index=False, sort=False).agg(agg_dict)
+        self.arbs = self.arbs.groupby(by=_MARKET_COLS, as_index=False, sort=False).agg(agg_dict)
 
     def _calculate_at_market_level(self) -> None:
         self.arbs['revenue'] = self.arbs['revenue'].apply(lambda x: x - 1)
@@ -65,7 +77,7 @@ class Calculator:
         self.arbs = self.arbs[(self.arbs['contracts_ct'] > 1) & (self.arbs['profit_net'] > 0)].copy()
 
     def _update_and_save_arbs(self) -> None:
-        self.arbs = self.arbs.sort_values('profit_net', ascending=False)[self._final_cols]
+        self.arbs = self.arbs.sort_values('profit_net', ascending=False)[_FINAL_COLS]
         pd.concat((self.arbs.assign(dttm=str(datetime.utcnow())), self._arbs_log)).to_csv(_ARBS_FP, index=False)
 
     def _filter_on_actionable_arbs(self) -> None:
@@ -87,22 +99,7 @@ class Calculator:
 
     @property
     def _arbs_log(self) -> pd.DataFrame:
-        dtypes = {
-            'mshortName': str,
-            'murl': str,
-            'cbestBuyYesCost': float,
-            'cbestSellYesCost': float,
-            'cbestBuyNoCost': float,
-            'cbestSellNoCost': float,
-            'contracts_ct': int,
-            'revenue': int,
-            'pi_cut': float,
-            'pi_cut_min': float,
-            'pi_cut_less_min': float,
-            'profit_net': float,
-            'dttm': str,
-        }
-        return pd.read_csv(_ARBS_FP, usecols=dtypes.keys(), dtype=dtypes)
+        return pd.read_csv(_ARBS_FP, usecols=_ARBS_LOG_DTYPES.keys(), dtype=_ARBS_LOG_DTYPES)
 
 
 def _get_contract_data(market: dict, contract: dict) -> dict:
