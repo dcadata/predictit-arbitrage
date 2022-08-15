@@ -28,6 +28,13 @@ _COST_COLS = ['cbestBuyYesCost', 'cbestSellYesCost', 'cbestBuyNoCost', 'cbestSel
 _REVENUE_AND_PROFIT_COLS = ['contracts_ct', 'revenue', 'pi_cut']
 _MARKET_COLS = ['mshortName', 'murl']
 _FINAL_COLS = [*_MARKET_COLS, *_COST_COLS, *_REVENUE_AND_PROFIT_COLS, 'pi_cut_min', 'pi_cut_less_min', 'profit_net']
+_OS_COMMANDS = [
+    'git config user.name "Automated"',
+    'git config user.email "actions@users.noreply.github.com"',
+    'git add -A',
+    'git commit -m "Add opps"',
+    'git push',
+]
 
 
 class Calculator:
@@ -111,15 +118,8 @@ def _get_contract_data(market: dict, contract: dict) -> dict:
 def run() -> None:
     calculator = Calculator()
     calculator.calculate()
-    if arbs_count := len(calculator.arbs):
-        for command in (
-                'git config user.name "Automated"',
-                'git config user.email "actions@users.noreply.github.com"',
-                'git add -A',
-                'git commit -m "Latest data: {0} ({1})" || exit 0'.format(datetime.utcnow().strftime(
-                    '%d %B %Y %H:%M'), arbs_count),
-                'git push',
-        ):
+    if len(calculator.arbs):
+        for command in _OS_COMMANDS:
             os.system(command)
 
 
