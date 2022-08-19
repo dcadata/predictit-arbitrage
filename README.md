@@ -8,10 +8,6 @@ Information published in this repository is for information purposes only. It do
 
 ---
 
-## PredictIt is closing on Feb. 15, 2023, per announcement: https://www.predictit.org/platform-announcements
-
----
-
 ## Summary
 
 Opportunities with profit:  
