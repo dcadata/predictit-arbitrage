@@ -11,6 +11,6 @@ Information published in this repository is for information purposes only. It do
 ## Summary
 
 Opportunities with profit:  
-Since 3/29/21 - 541 days: $15,296.6  
-Monthly: $848.24  
-Annual: $10,320.26
+Since 3/29/21 - 542 days: $15,296.6  
+Monthly: $846.68  
+Annual: $10,301.22
