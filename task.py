@@ -40,7 +40,7 @@ _OS_COMMANDS = [
 class Calculator:
     def calculate(self) -> None:
         self._make_request()
-        if not self._markets_response.ok:
+        if not self._markets:
             return
         self._get_contract_data()
         self._calculate_at_contract_level()
@@ -54,11 +54,12 @@ class Calculator:
         self._create_text_summary()
 
     def _make_request(self) -> None:
-        self._markets_response = requests.get(_API_URL)
+        response = requests.get(_API_URL)
+        self._markets = response.json()['markets'] if response.ok else None
 
     def _get_contract_data(self) -> None:
         arbs_data = []
-        for market in self._markets_response.json()['markets']:
+        for market in self._markets:
             arbs_data.extend(_get_contract_data(market, contract) for contract in market['contracts'])
         self.arbs = pd.DataFrame(arbs_data).drop_duplicates()
 
