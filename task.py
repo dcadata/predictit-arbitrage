@@ -1,3 +1,4 @@
+import json
 import os
 from datetime import datetime
 from time import sleep
@@ -55,7 +56,10 @@ class Calculator:
 
     def _make_request(self) -> None:
         response = requests.get(_API_URL)
-        self._markets = response.json()['markets'] if response.ok else None
+        try:
+            self._markets = response.json()['markets'] if response.ok else None
+        except (json.decoder.JSONDecodeError, KeyError):
+            self._markets = None
 
     def _get_contract_data(self) -> None:
         arbs_data = []
