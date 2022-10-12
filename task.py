@@ -39,11 +39,14 @@ _OS_COMMANDS = [
 
 
 class Calculator:
+    def __init__(self):
+        self._markets = []
+
     def calculate(self) -> None:
         self._make_request()
+        self._get_contract_data()
         if not self._markets:
             return
-        self._get_contract_data()
         self._calculate_at_contract_level()
         self._aggregate_at_market_level()
         self._calculate_at_market_level()
@@ -57,9 +60,9 @@ class Calculator:
     def _make_request(self) -> None:
         response = requests.get(_API_URL)
         try:
-            self._markets = response.json()['markets'] if response.ok else None
+            self._markets.extend(response.json()['markets'])
         except (json.decoder.JSONDecodeError, KeyError):
-            self._markets = None
+            pass
 
     def _get_contract_data(self) -> None:
         arbs_data = []
