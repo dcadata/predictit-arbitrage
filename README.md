@@ -1,4 +1,6 @@
-# predictit-arbitrage
+# predictit-arbitrage [NO LONGER ACTIVE]
+
+## This repo is no longer active!
 
 Arbitrage opportunities for the prediction market PredictIt
 
