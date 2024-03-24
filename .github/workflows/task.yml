@@ -2,8 +2,8 @@ name: task
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: '27 */6 * * *'
+  # schedule:
+  # - cron: '27 */6 * * *'
 
 jobs:
   scheduled:
